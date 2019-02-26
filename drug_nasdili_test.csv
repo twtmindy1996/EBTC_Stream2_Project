@@ -1,0 +1,1530 @@
+,chnm,Classification,CmaxStand,NAS,testname,EC,testtarget,tgt_abbr
+0,cladribine,AmbiDILIDrugs,0.0227,-2.793861101,ACEA_T47D_80hr_Negative_Row198,0.086120647,estrogen receptor ,ESR1
+1,colchicine,AmbiDILIDrugs,0.0163,0.88696589,ACEA_T47D_80hr_Negative_Row198,0.0018424560000000001,estrogen receptor ,ESR1
+2,disulfiram,MostDILI Drugs,5.4,-3.0297601889999997,ACEA_T47D_80hr_Negative_Row198,21.76070502,estrogen receptor ,ESR1
+3,estrone,AmbiDILIDrugs,0.0218,0.588289587,ACEA_T47D_80hr_Positive_Row621,0.008975287,estrogen receptor,ESR1
+4,norethindrone,AmbiDILIDrugs,0.0328,0.816930457,ACEA_T47D_80hr_Positive_Row621,0.0060046809999999996,estrogen receptor,ESR1
+5,progesterone,LessDILIDrugs,0.1927,-0.014679756,ACEA_T47D_80hr_Positive_Row621,0.19552878899999998,estrogen receptor,ESR1
+6,spironolactone,LessDILIDrugs,0.12,-2.833274233,ACEA_T47D_80hr_Positive_Row621,0.459992908,estrogen receptor,ESR1
+7,isoniazid,MostDILI Drugs,76.5635,0.553997205,ACEA_T47D_80hr_Positive_Row621,34.14753496,estrogen receptor,ESR1
+8,ketoconazole,MostDILI Drugs,7.0,0.9999887709999999,ACEA_T47D_80hr_Positive_Row621,7.859999999999999e-05,estrogen receptor,ESR1
+9,nitrofurantoin,MostDILI Drugs,6.0,-2.63151545,ACEA_T47D_80hr_Positive_Row621,21.7890927,estrogen receptor,ESR1
+10,tamoxifen,MostDILI Drugs,0.1712,0.79145288,ACEA_T47D_80hr_Positive_Row621,0.035703267000000004,estrogen receptor,ESR1
+11,valproic acid,MostDILI Drugs,540.0,0.9206412959999999,ACEA_T47D_80hr_Positive_Row621,42.85370037,estrogen receptor,ESR1
+12,carbamazepine,MostDILI Drugs,25.8176,-1.05685138,ACEA_T47D_80hr_Positive_Row621,53.10296618,estrogen receptor ,ESR1
+13,colchicine,AmbiDILIDrugs,0.0163,0.70011865,APR_HepG2_CellCycleArrest_24h_dn_Row186,0.004888066,cell cycle,cellcycle
+14,disulfiram,MostDILI Drugs,5.4,-0.484770982,APR_HepG2_CellCycleArrest_24h_dn_Row186,8.017763303999999,cell cycle,cellcycle
+15,disulfiram,MostDILI Drugs,5.4,0.32811724600000003,APR_HepG2_CellCycleArrest_72h_dn_Row623,3.62816687,cell cycle,cellcycle
+16,cladribine,AmbiDILIDrugs,0.0227,-0.87878022,APR_HepG2_CellCycleArrest_72h_dn_Row623,0.042648310999999994,cell cycle,cellcycle
+17,colchicine,AmbiDILIDrugs,0.0163,-0.588102331,APR_HepG2_CellCycleArrest_72h_dn_Row623,0.025886067999999998,cell cycle,cellcycle
+18,colchicine,AmbiDILIDrugs,0.0163,0.754601227,APR_HepG2_CellLoss_24h_dn_Row203,0.004,cytotoxicity,cytotoxicity
+19,ketoconazole,MostDILI Drugs,7.0,-2.302187401,APR_HepG2_CellLoss_24h_dn_Row203,23.11531181,cytotoxicity,cytotoxicity
+20,nitrofurantoin,MostDILI Drugs,6.0,-3.748257362,APR_HepG2_CellLoss_24h_dn_Row203,28.48954417,cytotoxicity,cytotoxicity
+21,cladribine,AmbiDILIDrugs,0.0227,-1.308380617,APR_HepG2_CellLoss_24h_dn_Row203,0.05240024,cytotoxicity,cytotoxicity
+22,clofibrate,LessDILIDrugs,407.911,0.715983342,APR_HepG2_CellLoss_24h_dn_Row203,115.8535189,cytotoxicity,cytotoxicity
+23,ketoconazole,MostDILI Drugs,7.0,-1.6693136130000001,APR_HepG2_CellLoss_72h_dn_Row200,18.68519529,cytotoxicity,cytotoxicity
+24,nilutamide,MostDILI Drugs,7.2504,-3.7750476539999998,APR_HepG2_CellLoss_72h_dn_Row200,34.62100551,cytotoxicity,cytotoxicity
+25,disulfiram,MostDILI Drugs,5.4,-2.603515931,APR_HepG2_CellLoss_72h_dn_Row200,19.45898603,cytotoxicity,cytotoxicity
+26,colchicine,AmbiDILIDrugs,0.0163,0.754601227,APR_HepG2_MicrotubuleCSK_72h_dn_Row628,0.004,cell morphology,cellmorphology
+27,disulfiram,MostDILI Drugs,5.4,-3.048575159,APR_HepG2_MitoMass_24h_dn_Row630,21.86230586,cell cylle,cellcycle
+28,cladribine,AmbiDILIDrugs,0.0227,0.431962775,APR_HepG2_MitoMass_24h_up_Row631,0.012894445,cell cycle,cellcycle
+29,disulfiram,MostDILI Drugs,5.4,-1.272002831,APR_HepG2_MitoMass_72h_up_Row632,12.26881529,cell cycle,cellcycle
+30,clofibrate,LessDILIDrugs,407.911,0.705293223,APR_HepG2_MitoMembPot_24h_dn_Row201,120.2141361,mitochondrial membrane potential,mmp
+31,nilutamide,MostDILI Drugs,7.2504,0.7682923740000001,APR_HepG2_MitoMembPot_24h_dn_Row201,1.679972969,mitochondrial membrane potential,mmp
+32,colchicine,AmbiDILIDrugs,0.0163,0.636195276,APR_HepG2_MitoticArrest_24h_up_Row636,0.005930016999999999,cell cycle,cellcycle
+33,disulfiram,MostDILI Drugs,5.4,-2.841971972,APR_HepG2_MitoticArrest_24h_up_Row636,20.74664865,cell cycle,cellcycle
+34,colchicine,AmbiDILIDrugs,0.0163,0.7541495090000001,APR_HepG2_MitoticArrest_72h_up_Row176,0.004007363,cell cycle,cellcycle
+35,disulfiram,MostDILI Drugs,5.4,-2.554907589,APR_HepG2_MitoticArrest_72h_up_Row176,19.19650098,cell cycle,cellcycle
+36,cladribine,AmbiDILIDrugs,0.0227,-3.333033965,APR_HepG2_NuclearSize_24h_up_Row639,0.098359871,nuclear size,nucsize
+37,colchicine,AmbiDILIDrugs,0.0163,0.739542822,APR_HepG2_NuclearSize_72h_up_Row641,0.004245452,cell morphology,cellmorphology
+38,disulfiram,MostDILI Drugs,5.4,-0.914132994,APR_HepG2_OxidativeStress_24h_up_Row205,10.33631817,oxidative stress,oxstress
+39,colchicine,AmbiDILIDrugs,0.0163,0.754601227,APR_HepG2_OxidativeStress_24h_up_Row205,0.004,oxidative stress,oxstress
+40,cladribine,AmbiDILIDrugs,0.0227,-0.657736211,APR_HepG2_OxidativeStress_72h_up_Row202,0.037630612,oxidative stress,oxstress
+41,disulfiram,MostDILI Drugs,5.4,-3.4494881569999998,APR_HepG2_OxidativeStress_72h_up_Row202,24.02723605,oxidative stress,oxstress
+42,ketoconazole,MostDILI Drugs,7.0,-2.917189687,APR_HepG2_OxidativeStress_72h_up_Row202,27.42032781,oxidative stress,oxstress
+43,methotrexate,MostDILI Drugs,0.7724,0.99309428,APR_HepG2_OxidativeStress_72h_up_Row202,0.0053339780000000005,oxidative stress,oxstress
+44,colchicine,AmbiDILIDrugs,0.0163,-2.100407669,APR_HepG2_OxidativeStress_72h_up_Row202,0.050536645,oxidative stress,oxstress
+45,disulfiram,MostDILI Drugs,5.4,-0.82389617,APR_HepG2_p53Act_24h_up_Row648,9.849039317,p53,TP53
+46,fenofibrate,LessDILIDrugs,4.1016,0.9990247440000001,APR_HepG2_p53Act_72h_dn_Row649,0.004000112,p53,TP53
+47,cladribine,AmbiDILIDrugs,0.0227,-0.982706035,APR_HepG2_p53Act_72h_up_Row173,0.045007427,p53,TP53
+48,colchicine,AmbiDILIDrugs,0.0163,0.754601227,APR_HepG2_p53Act_72h_up_Row173,0.004,p53,TP53
+49,pyrimethamine,LessDILIDrugs,3.2889,-0.138981566,APR_HepG2_p53Act_72h_up_Row173,3.745996472,p53,TP53
+50,disulfiram,MostDILI Drugs,5.4,-0.90957263,APR_HepG2_p53Act_72h_up_Row173,10.3116922,p53,TP53
+51,ketoconazole,MostDILI Drugs,7.0,-0.6834978829999999,APR_HepG2_p53Act_72h_up_Row173,11.78448518,p53,TP53
+52,valproic acid,MostDILI Drugs,540.0,0.9999923470000001,APR_HepG2_p53Act_72h_up_Row173,0.004132863,p53,TP53
+53,colchicine,AmbiDILIDrugs,0.0163,0.7405727609999999,APR_HepG2_StressKinase_24h_up_Row645,0.004228664,stress kinase,JUN
+54,fenofibrate,LessDILIDrugs,4.1016,0.997548771,APR_HepG2_StressKinase_72h_dn_Row646,0.010053961,stress kinase,JUN
+55,colchicine,AmbiDILIDrugs,0.0163,0.754601227,APR_HepG2_StressKinase_72h_up_Row189,0.004,stress kinase,JUN
+56,hydroxyurea,MostDILI Drugs,348.4321,0.790854243,ATG_Ahr_CIS_dn_Row313,72.87309545,aryl hydrocarbon receptor,AHR
+57,lansoprazole,LessDILIDrugs,1.9222,0.05726298900000001,ATG_Ahr_CIS_up_Row342,1.812129083,aryl hydrocarbon receptor,AHR
+58,leflunomide,MostDILI Drugs,24.7956,0.68318855,ATG_Ahr_CIS_up_Row342,7.85553,aryl hydrocarbon receptor,AHR
+59,sulindac,MostDILI Drugs,31.9852,0.8711348809999999,ATG_Ahr_CIS_up_Row342,4.121776593,aryl hydrocarbon receptor,AHR
+60,zileuton,MostDILI Drugs,13.1192,-2.628375165,ATG_Ahr_CIS_up_Row342,47.60137946,aryl hydrocarbon receptor,AHR
+61,ketoconazole,MostDILI Drugs,7.0,0.908589815,ATG_Ahr_CIS_up_Row342,0.639871295,aryl hydrocarbon receptor,AHR
+62,pyrimethamine,LessDILIDrugs,3.2889,0.37338905899999997,ATG_AP_1_CIS_up_Row35,2.060860725,AP1 transcription factor,JUN
+63,leflunomide,MostDILI Drugs,24.7956,-2.798933772,ATG_AP_1_CIS_up_Row35,94.19684223,AP1 transcription factor,JUN
+64,tolazamide,LessDILIDrugs,90.0,0.9892725370000001,ATG_AP_1_CIS_up_Row35,0.96547165,AP1 transcription factor,JUN
+66,disulfiram,MostDILI Drugs,5.4,-3.625499815,ATG_AP_1_CIS_up_Row35,24.977698999999998,AP1 transcription factor,JUN
+67,leflunomide,MostDILI Drugs,24.7956,0.752882873,ATG_AP_2_CIS_dn_Row338,6.12741743,AP2 transcription factor,TFAP2A
+68,tolcapone,MostDILI Drugs,74.2928,0.7130671270000001,ATG_AP_2_CIS_dn_Row338,21.31704656,AP2 transcription factor,TFAP2A
+69,ketoconazole,MostDILI Drugs,7.0,0.999786842,ATG_AR_TRANS_dn_Row340,0.0014921079999999998,steroidal,AR
+70,norethindrone,AmbiDILIDrugs,0.0328,-1.846914604,ATG_AR_TRANS_up_Row341,0.093378799,androgen receptor,AR
+71,ketoconazole,MostDILI Drugs,7.0,-3.0829354139999996,ATG_BRE_CIS_up_Row344,28.5805479,smad protein,BMPR2
+72,leflunomide,MostDILI Drugs,24.7956,-3.80716319,ATG_BRE_CIS_up_Row344,119.1964956,smad protein,BMPR2
+73,tolcapone,MostDILI Drugs,74.2928,0.18500781800000002,ATG_BRE_CIS_up_Row344,60.54805117,smad protein,BMPR2
+74,pyrimethamine,LessDILIDrugs,3.2889,-3.621798653,ATG_C_EBP_CIS_up_Row350,15.20063359,basic leucine zipper,CEBPB
+75,ketoconazole,MostDILI Drugs,7.0,-3.81107444,ATG_CAR_TRANS_dn_Row345,33.67752108,constitutive androstane receptor,NR1I3
+76,colchicine,AmbiDILIDrugs,0.0163,-3.4113032519999997,ATG_CMV_CIS_up_Row39,0.07190424299999999,background control,intmrkr
+77,pyrimethamine,LessDILIDrugs,3.2889,0.46373652299999996,ATG_CMV_CIS_up_Row39,1.76371695,background control,intmrkr
+78,tetracycline,LessDILIDrugs,27.8172,-2.142259871,ATG_CMV_CIS_up_Row39,87.40887127,background control,intmrkr
+79,ketoconazole,MostDILI Drugs,7.0,-2.512037199,ATG_CMV_CIS_up_Row39,24.58426039,background control,intmrkr
+80,nilutamide,MostDILI Drugs,7.2504,-2.396511733,ATG_CMV_CIS_up_Row39,24.62606867,background control,intmrkr
+81,tolcapone,MostDILI Drugs,74.2928,0.828953692,ATG_CMV_CIS_up_Row39,12.70750916,background control,intmrkr
+83,ketoconazole,MostDILI Drugs,7.0,-1.8932808769999998,ATG_CRE_CIS_up_Row348,20.25296614,basic leucine zipper,CREB3
+84,celecoxib,LessDILIDrugs,1.8328,-3.5676095439999997,ATG_DR4_LXR_CIS_dn_Row28,8.371514772000001,liver x receptor,NR1H3
+85,albendazole,MostDILI Drugs,0.9045,-2.50155629,ATG_DR4_LXR_CIS_dn_Row28,3.167157664,liver x receptor,NR1H3
+86,ketoconazole,MostDILI Drugs,7.0,-2.432619561,ATG_DR4_LXR_CIS_dn_Row28,24.02833693,liver x receptor,NR1H3
+88,indomethacin,MostDILI Drugs,5.5899,-2.3916640030000003,ATG_DR5_CIS_dn_Row352,18.95906261,non-steroidal,TNFRSF10B
+89,hydrochlorothiazide,LessDILIDrugs,1.6457,-1.939730498,ATG_DR5_CIS_up_Row335,4.837914481,non-steroidal,TNFRSF10B
+90,pyrimethamine,LessDILIDrugs,3.2889,0.17133397,ATG_DR5_CIS_up_Row335,2.725399707,non-steroidal,TNFRSF10B
+91,danazol,MostDILI Drugs,0.1092,-3.8998587999999996,ATG_DR5_CIS_up_Row335,0.535064581,non-steroidal,TNFRSF10B
+92,disulfiram,MostDILI Drugs,5.4,-2.151974465,ATG_E_Box_CIS_dn_Row362,17.02066211,e-box protein,USF1
+93,sulindac,MostDILI Drugs,31.9852,-0.6691415279999999,ATG_E_Box_CIS_dn_Row362,53.38782559,e-box protein,USF1
+94,tolcapone,MostDILI Drugs,74.2928,0.780428617,ATG_E_Box_CIS_dn_Row362,16.31257281,e-box protein,USF1
+95,mefenamic acid,MostDILI Drugs,26.9388,-2.243686821,ATG_E_Box_CIS_up_Row30,87.38103053,e-box protein,USF1
+97,theophylline,NoDILI Drugs,85.0,0.9876964859999999,ATG_E_Box_CIS_up_Row30,1.04579865,e-box protein,USF1
+99,ketoconazole,MostDILI Drugs,7.0,-0.4523955,ATG_EGR_CIS_up_Row355,10.1667685,early growth response protein 1,EGR1
+100,sulindac,MostDILI Drugs,31.9852,-0.192807087,ATG_EGR_CIS_up_Row355,38.15217324,early growth response protein 1,EGR1
+101,metformin,LessDILIDrugs,10.8,-0.237347786,ATG_ERa_TRANS_dn_Row361,13.36335609,estrogen receptor,ESR1
+102,estrone,AmbiDILIDrugs,0.0218,0.9587155959999999,ATG_ERa_TRANS_up_Row27,0.0009,estrogen receptor,ESR1
+103,norethindrone,AmbiDILIDrugs,0.0328,0.631598323,ATG_ERa_TRANS_up_Row27,0.012083575,estrogen receptor,ESR1
+104,fenofibrate,LessDILIDrugs,4.1016,-3.44383109,ATG_ERa_TRANS_up_Row27,18.2268176,estrogen receptor,ESR1
+105,ibuprofen,LessDILIDrugs,250.0,0.8588168890000001,ATG_ERa_TRANS_up_Row27,35.29577767,estrogen receptor,ESR1
+106,tetracycline,LessDILIDrugs,27.8172,-1.03801264,ATG_ERa_TRANS_up_Row27,56.69180521,estrogen receptor,ESR1
+107,gemfibrozil,MostDILI Drugs,360.6753,0.947412898,ATG_ERa_TRANS_up_Row27,18.96686891,estrogen receptor,ESR1
+108,nitrofurantoin,MostDILI Drugs,6.0,-2.97265415,ATG_ERa_TRANS_up_Row27,23.8359249,estrogen receptor,ESR1
+109,sulindac,MostDILI Drugs,31.9852,-0.895491362,ATG_ERa_TRANS_up_Row27,60.6276703,estrogen receptor,ESR1
+111,danazol,MostDILI Drugs,0.1092,-2.9623085710000003,ATG_ERa_TRANS_up_Row27,0.432684096,estrogen receptor ,ESR1
+112,caffeine,NoDILI Drugs,42.0,0.017433723999999998,ATG_ERa_TRANS_up_Row27,41.26778359,estrogen receptor ,ESR1
+113,metformin,LessDILIDrugs,10.8,0.938896794,ATG_ERE_CIS_dn_Row356,0.659914629,estrogen receptor,ESR1
+114,tamoxifen,MostDILI Drugs,0.1712,0.8849339540000001,ATG_ERE_CIS_dn_Row356,0.019699307,estrogen receptor,ESR1
+115,estrone,AmbiDILIDrugs,0.0218,0.9587155959999999,ATG_ERE_CIS_up_Row9,0.0009,estrogen receptor,ESR1
+116,norethindrone,AmbiDILIDrugs,0.0328,0.872240976,ATG_ERE_CIS_up_Row9,0.004190496,estrogen receptor,ESR1
+117,hydrochlorothiazide,LessDILIDrugs,1.6457,-0.9916381120000001,ATG_ERE_CIS_up_Row9,3.2776388410000004,estrogen receptor,ESR1
+118,ibuprofen,LessDILIDrugs,250.0,0.961736867,ATG_ERE_CIS_up_Row9,9.565783352999999,estrogen receptor,ESR1
+119,ifosfamide,LessDILIDrugs,203.0,0.49696697700000003,ATG_ERE_CIS_up_Row9,102.1157036,estrogen receptor,ESR1
+120,progesterone,LessDILIDrugs,0.1927,-3.511915153,ATG_ERE_CIS_up_Row9,0.86944605,estrogen receptor,ESR1
+121,pyrimethamine,LessDILIDrugs,3.2889,0.610451022,ATG_ERE_CIS_up_Row9,1.281187635,estrogen receptor,ESR1
+122,tetracycline,LessDILIDrugs,27.8172,-0.281537007,ATG_ERE_CIS_up_Row9,35.64877124,estrogen receptor,ESR1
+123,gemfibrozil,MostDILI Drugs,360.6753,0.759070305,ATG_ERE_CIS_up_Row9,86.89738990000001,estrogen receptor,ESR1
+124,isoniazid,MostDILI Drugs,76.5635,0.579629148,ATG_ERE_CIS_up_Row9,32.18506374,estrogen receptor,ESR1
+125,leflunomide,MostDILI Drugs,24.7956,0.038538078999999996,ATG_ERE_CIS_up_Row9,23.84002522,estrogen receptor,ESR1
+126,mefenamic acid,MostDILI Drugs,26.9388,0.851714973,ATG_ERE_CIS_up_Row9,3.994620695,estrogen receptor,ESR1
+127,sulindac,MostDILI Drugs,31.9852,0.40993672,ATG_ERE_CIS_up_Row9,18.87329203,estrogen receptor,ESR1
+129,carbamazepine,MostDILI Drugs,25.8176,-1.181874758,ATG_ERE_CIS_up_Row9,56.33076974,estrogen receptor ,ESR1
+130,felbamate,MostDILI Drugs,42.0,0.969428582,ATG_FoxO_CIS_up_Row368,1.283999552,Foxo3,FOXO3
+132,pyridoxine,NoDILI Drugs,0.1216,-3.362316916,ATG_GATA_CIS_dn_Row370,0.530457737,GATA proteins,GATA
+133,pyrimethamine,LessDILIDrugs,3.2889,0.8134139229999999,ATG_GATA_CIS_up_Row371,0.61366295,GATA proteins,GATA
+134,caffeine,NoDILI Drugs,42.0,0.984395538,ATG_GATA_CIS_up_Row371,0.655387421,GATA proteins,GATA
+135,pyridoxine,NoDILI Drugs,0.1216,-3.532437549,ATG_GLI_CIS_dn_Row372,0.551144406,zinc finger protein,GLI1
+136,methylprednisolone,LessDILIDrugs,2.9909,0.9955760570000001,ATG_GR_TRANS_up_Row377,0.013231571000000001,glucocorticoid receptor,NR3C1
+137,prednisolone,LessDILIDrugs,0.6797,0.105159575,ATG_GR_TRANS_up_Row377,0.608223037,glucocorticoid receptor,NR3C1
+138,tolcapone,MostDILI Drugs,74.2928,-0.714295105,ATG_GR_TRANS_up_Row377,127.3597834,glucocorticoid receptor,NR3C1
+139,ampicillin,LessDILIDrugs,8.42,0.320805319,ATG_GRE_CIS_dn_Row374,5.718819215,glucocorticoid receptor,NR3C1
+140,methylprednisolone,LessDILIDrugs,2.9909,0.99732522,ATG_GRE_CIS_up_Row375,0.008,glucocorticoid receptor,NR3C1
+141,prednisolone,LessDILIDrugs,0.6797,0.391373587,ATG_GRE_CIS_up_Row375,0.41368337299999997,glucocorticoid receptor,NR3C1
+142,clotrimazole,LessDILIDrugs,0.087,0.9927471259999999,ATG_HIF1a_CIS_dn_Row378,0.0006309999999999999,HIF1a,HIF1a
+143,tolazamide,LessDILIDrugs,90.0,0.40495348,ATG_HIF1a_CIS_dn_Row378,53.55418676,HIF1a,HIF1a
+144,warfarin,LessDILIDrugs,4.8649,0.09514671400000001,ATG_HIF1a_CIS_dn_Row378,4.402020751,HIF1a,HIF1a
+145,erythromycin,MostDILI Drugs,11.0,-2.003061133,ATG_HIF1a_CIS_dn_Row378,33.03367246,HIF1a,HIF1a
+146,gemfibrozil,MostDILI Drugs,360.6753,0.842531885,ATG_HIF1a_CIS_dn_Row378,56.79485951,HIF1a,HIF1a
+147,nitrofurantoin,MostDILI Drugs,6.0,-0.555098329,ATG_HIF1a_CIS_dn_Row378,9.330589973,HIF1a,HIF1a
+148,ketoconazole,MostDILI Drugs,7.0,0.22928244,ATG_HIF1a_CIS_up_Row379,5.39502292,HIF1a,HIF1a
+149,leflunomide,MostDILI Drugs,24.7956,-1.67236072,ATG_HIF1a_CIS_up_Row379,66.26278748,HIF1a,HIF1a
+150,sulindac,MostDILI Drugs,31.9852,0.031539877,ATG_HIF1a_CIS_up_Row379,30.97639073,HIF1a,HIF1a
+151,tolcapone,MostDILI Drugs,74.2928,0.7159078329999999,ATG_HIF1a_CIS_up_Row379,21.10600256,HIF1a,HIF1a
+152,fluconazole,MostDILI Drugs,8.8156,-2.596088651,ATG_HNF4a_TRANS_dn_Row380,31.70167911,HNF4a,HNF4a
+153,ketoconazole,MostDILI Drugs,7.0,-2.57083362,ATG_IR1_CIS_dn_Row386,24.99583534,non-steroidal,NR1H4
+154,hydrochlorothiazide,LessDILIDrugs,1.6457,-0.52861453,ATG_IR1_CIS_up_Row387,2.5156409319999997,non-steroidal,NR1H4
+155,ketoconazole,MostDILI Drugs,7.0,-1.47528561,ATG_ISRE_CIS_dn_Row388,17.32699927,interferon regulatory factors,IFNG
+156,sulindac,MostDILI Drugs,31.9852,-0.40935165700000004,ATG_ISRE_CIS_dn_Row388,45.07839462,interferon regulatory factors,IFNG
+157,primidone,NoDILI Drugs,4.6734,-0.223874925,ATG_LXRb_TRANS_up_Row393,5.719657075,liver x receptor,NR1H2
+158,felbamate,MostDILI Drugs,42.0,0.97657037,ATG_M_19_CIS_dn_Row399,0.9840444540000001,internal marker,intmrkr
+159,theophylline,NoDILI Drugs,85.0,0.9708493509999999,ATG_M_19_CIS_dn_Row399,2.477805192,internal marker,intmrkr
+160,atenolol,LessDILIDrugs,4.9936,0.284073242,ATG_M_19_TRANS_up_Row402,3.575051857,internal marker,intmrkr
+161,folic acid,NoDILI Drugs,0.075,-0.02141652,ATG_M_19_TRANS_up_Row402,0.076606239,internal marker,intmrkr
+162,theophylline,NoDILI Drugs,85.0,0.999973525,ATG_M_19_TRANS_up_Row402,0.002250359,internal marker,intmrkr
+163,pyrimethamine,LessDILIDrugs,3.2889,0.801143403,ATG_M_32_TRANS_up_Row406,0.654019462,internal marker,intmrkr
+164,ketoconazole,MostDILI Drugs,7.0,-3.468500971,ATG_MRE_CIS_up_Row84,31.279506800000004,metal regulatory transcription factor,MTF1
+165,leflunomide,MostDILI Drugs,24.7956,-1.861871916,ATG_MRE_CIS_up_Row84,70.96183129,metal regulatory transcription factor,MTF1
+166,mefenamic acid,MostDILI Drugs,26.9388,-1.6921551240000001,ATG_MRE_CIS_up_Row84,72.52342846,metal regulatory transcription factor,MTF1
+167,tolcapone,MostDILI Drugs,74.2928,-0.602439314,ATG_MRE_CIS_up_Row84,119.04970349999999,metal regulatory transcription factor,MTF1
+169,celecoxib,LessDILIDrugs,1.8328,-2.7737998630000003,ATG_MRE_CIS_up_Row84,6.916620387999999,MTF1 (metal response binding factor),MTF1
+170,leflunomide,MostDILI Drugs,24.7956,0.9792721329999999,ATG_Myc_CIS_dn_Row413,0.513959908,myc oncogene ,MYC
+171,fluvastatin,LessDILIDrugs,0.6635,-1.141990509,ATG_NF_kB_CIS_dn_Row330,1.421210703,NFkB,NFKB1
+172,disulfiram,MostDILI Drugs,5.4,-3.67059785,ATG_NF_kB_CIS_dn_Row330,25.22122839,NFkB,NFKB1
+173,theophylline,NoDILI Drugs,85.0,-0.924336122,ATG_NF_kB_CIS_dn_Row330,163.56857040000003,NFkB,NFKB1
+174,ampicillin,LessDILIDrugs,8.42,0.32075436,ATG_NFI_CIS_dn_Row415,5.719248287,nuclear factor 1,NF1A
+175,ketoconazole,MostDILI Drugs,7.0,-2.668759113,ATG_NFI_CIS_up_Row416,25.68131379,nuclear factor 1,NF1A
+176,etoposide,LessDILIDrugs,17.0,-0.8690738159999999,ATG_NRF1_CIS_dn_Row336,31.77425487,NRF1 transcription factor,NRF1
+177,disulfiram,MostDILI Drugs,5.4,-1.925931494,ATG_NRF1_CIS_dn_Row336,15.80003007,NRF1 transcription factor,NRF1
+178,pyridoxine,NoDILI Drugs,0.1216,-3.3158816939999998,ATG_NRF1_CIS_dn_Row336,0.524811214,NRF1 transcription factor,NRF1
+179,digoxin,NoDILI Drugs,0.0028,-1.612164643,ATG_NRF1_CIS_up_Row418,0.007314061,NRF1 transcription factor,NRF1
+180,etoposide,LessDILIDrugs,17.0,-2.717301552,ATG_NRF2_ARE_CIS_dn_Row419,63.19412638,nrf2 transcription factor,NRF2
+181,celecoxib,LessDILIDrugs,1.8328,-2.3954649630000002,ATG_NRF2_ARE_CIS_up_Row48,6.223208184,nrf2 transcription factor,NRF2
+182,pyrimethamine,LessDILIDrugs,3.2889,0.521279133,ATG_NRF2_ARE_CIS_up_Row48,1.5744650580000001,nrf2 transcription factor,NRF2
+183,tolazamide,LessDILIDrugs,90.0,0.989639825,ATG_NRF2_ARE_CIS_up_Row48,0.9324157120000001,nrf2 transcription factor,NRF2
+184,ketoconazole,MostDILI Drugs,7.0,-1.987030276,ATG_NRF2_ARE_CIS_up_Row48,20.90921193,nrf2 transcription factor,NRF2
+185,leflunomide,MostDILI Drugs,24.7956,-1.4586218030000002,ATG_NRF2_ARE_CIS_up_Row48,60.96300277,nrf2 transcription factor,NRF2
+186,mefenamic acid,MostDILI Drugs,26.9388,-1.847255825,ATG_NRF2_ARE_CIS_up_Row48,76.70165521,nrf2 transcription factor,NRF2
+187,nilutamide,MostDILI Drugs,7.2504,-1.932886388,ATG_NRF2_ARE_CIS_up_Row48,21.26459947,nrf2 transcription factor,NRF2
+188,sulindac,MostDILI Drugs,31.9852,0.08375875299999999,ATG_NRF2_ARE_CIS_up_Row48,29.30615952,nrf2 transcription factor,NRF2
+190,griseofulvin,MostDILI Drugs,4.5356,-1.6328786030000002,ATG_p53_CIS_dn_Row467,11.94168419,p53,TP53
+191,ketoconazole,MostDILI Drugs,7.0,-0.398667791,ATG_Pax6_CIS_up_Row432,9.79067454,pax6 paired box protein,PAX6
+192,sulindac,MostDILI Drugs,31.9852,-2.506116785,ATG_Pax6_CIS_up_Row432,112.1438466,pax6 paired box protein,PAX6
+193,caffeine,NoDILI Drugs,42.0,0.987853608,ATG_Pax6_CIS_up_Row432,0.510148472,pax6 paired box protein,PAX6
+194,lansoprazole,LessDILIDrugs,1.9222,-2.9507245280000003,ATG_PBREM_CIS_up_Row319,7.594082687,phenobarbital-responsive enhancer module,NR1I3
+195,sulindac,MostDILI Drugs,31.9852,0.700523041,ATG_PBREM_CIS_up_Row319,9.57883043,phenobarbital-responsive enhancer module,NR1I3
+196,fenofibrate,LessDILIDrugs,4.1016,-3.356086361,ATG_POU domain protein_MLP_CIS_up_Row422,17.86692382,POU domain protein,POU2F1
+197,ketoconazole,MostDILI Drugs,7.0,-0.616127141,ATG_POU domain protein_MLP_CIS_up_Row422,11.31288999,POU domain protein,POU2F1
+198,leflunomide,MostDILI Drugs,24.7956,-2.727174456,ATG_POU domain protein_MLP_CIS_up_Row422,92.41752694,POU domain protein,POU2F1
+199,clofibrate,LessDILIDrugs,407.911,0.889606129,ATG_PPARa_TRANS_up_Row318,45.03087419,PPARa,PPARA
+200,fenofibrate,LessDILIDrugs,4.1016,-0.302290854,ATG_PPARa_TRANS_up_Row318,5.3414761660000005,PPARa,PPARA
+201,ibuprofen,LessDILIDrugs,250.0,0.8686319659999999,ATG_PPARa_TRANS_up_Row318,32.84200848,PPARa,PPARA
+202,gemfibrozil,MostDILI Drugs,360.6753,0.899692625,ATG_PPARa_TRANS_up_Row318,36.17839254,PPARa,PPARA
+203,mefenamic acid,MostDILI Drugs,26.9388,0.543360596,ATG_PPARa_TRANS_up_Row318,12.30131757,PPARa,PPARA
+204,ibuprofen,LessDILIDrugs,250.0,0.501942938,ATG_PPARd_TRANS_up_Row426,124.51426550000001,PPARd,PPARD
+205,mefenamic acid,MostDILI Drugs,26.9388,-1.263109752,ATG_PPARd_TRANS_up_Row426,60.965461,PPARd,PPARD
+206,fenofibrate,LessDILIDrugs,4.1016,-3.903508792,ATG_PPARg_TRANS_up_Row7,20.11223166,PPARg,PPARG
+207,ibuprofen,LessDILIDrugs,250.0,0.841156637,ATG_PPARg_TRANS_up_Row7,39.71084086,PPARg,PPARG
+208,gemfibrozil,MostDILI Drugs,360.6753,0.82212511,ATG_PPARg_TRANS_up_Row7,64.15507944,PPARg,PPARG
+209,indomethacin,MostDILI Drugs,5.5899,-0.15426041199999999,ATG_PPARg_TRANS_up_Row7,6.452200277,PPARg,PPARG
+210,leflunomide,MostDILI Drugs,24.7956,-0.6896218059999999,ATG_PPARg_TRANS_up_Row7,41.89518645,PPARg,PPARG
+211,mefenamic acid,MostDILI Drugs,26.9388,0.534878098,ATG_PPARg_TRANS_up_Row7,12.52982589,PPARg,PPARG
+212,sulfasalazine,MostDILI Drugs,15.0603,-3.14115727,ATG_PPARg_TRANS_up_Row7,62.36707083,PPARg,PPARG
+213,sulindac,MostDILI Drugs,31.9852,0.31762943,ATG_PPARg_TRANS_up_Row7,21.82575915,PPARg,PPARG
+214,tolcapone,MostDILI Drugs,74.2928,0.784391952,ATG_PPARg_TRANS_up_Row7,16.01812557,PPARg,PPARG
+216,zileuton,MostDILI Drugs,13.1192,-1.4113940980000002,ATG_PPARg_TRANS_up_Row7,31.63556145,PPARg,PPARG
+217,fenofibrate,LessDILIDrugs,4.1016,-2.786812405,ATG_PPRE_CIS_up_Row5,15.53198976,PPAR,ppar
+218,hydrochlorothiazide,LessDILIDrugs,1.6457,-1.0184115759999999,ATG_PPRE_CIS_up_Row5,3.32169993,PPAR,ppar
+219,ibuprofen,LessDILIDrugs,250.0,0.840823423,ATG_PPRE_CIS_up_Row5,39.79414436,PPAR,ppar
+220,gemfibrozil,MostDILI Drugs,360.6753,0.910319442,ATG_PPRE_CIS_up_Row5,32.34556221,PPAR,ppar
+221,indomethacin,MostDILI Drugs,5.5899,-0.738125912,ATG_PPRE_CIS_up_Row5,9.715950036,PPAR,ppar
+222,leflunomide,MostDILI Drugs,24.7956,-2.359507835,ATG_PPRE_CIS_up_Row5,83.30101248,PPAR,ppar
+223,mefenamic acid,MostDILI Drugs,26.9388,0.45751448100000003,ATG_PPRE_CIS_up_Row5,14.61390889,PPAR,ppar
+224,tolcapone,MostDILI Drugs,74.2928,0.69409412,ATG_PPRE_CIS_up_Row5,22.72660433,PPAR,ppar
+226,zileuton,MostDILI Drugs,13.1192,-0.163365185,ATG_PPRE_CIS_up_Row5,15.26242054,PPAR,ppar
+227,praziquantel,AmbiDILIDrugs,2.0486,-1.7785686090000001,ATG_PXR_TRANS_up_Row18,5.692175652,pregnane x receptor,NR1I2
+228,probenecid,AmbiDILIDrugs,56.1042,0.7079765240000001,ATG_PXR_TRANS_up_Row18,16.38374348,pregnane x receptor,NR1I2
+229,clotrimazole,LessDILIDrugs,0.087,-1.28791746,ATG_PXR_TRANS_up_Row18,0.199048819,pregnane x receptor,NR1I2
+230,fenofibrate,LessDILIDrugs,4.1016,-1.454273835,ATG_PXR_TRANS_up_Row18,10.06644956,pregnane x receptor,NR1I2
+231,lansoprazole,LessDILIDrugs,1.9222,-3.173224629,ATG_PXR_TRANS_up_Row18,8.021772381,pregnane x receptor,NR1I2
+232,meloxicam,LessDILIDrugs,3.1616,-2.502622289,ATG_PXR_TRANS_up_Row18,11.07389063,pregnane x receptor,NR1I2
+233,propofol,LessDILIDrugs,15.8184,0.788228308,ATG_PXR_TRANS_up_Row18,3.349889333,pregnane x receptor,NR1I2
+234,gemfibrozil,MostDILI Drugs,360.6753,0.9493664890000001,ATG_PXR_TRANS_up_Row18,18.26225678,pregnane x receptor,NR1I2
+235,nilutamide,MostDILI Drugs,7.2504,-0.95306113,ATG_PXR_TRANS_up_Row18,14.16047442,pregnane x receptor,NR1I2
+236,sulindac,MostDILI Drugs,31.9852,0.717108448,ATG_PXR_TRANS_up_Row18,9.048342882,pregnane x receptor,NR1I2
+238,colchicine,AmbiDILIDrugs,0.0163,0.944785276,ATG_PXRE_CIS_dn_Row429,0.0009,pregnane x receptor,NR1I2
+239,etoposide,LessDILIDrugs,17.0,-0.832522895,ATG_PXRE_CIS_dn_Row429,31.15288921,pregnane x receptor,NR1I2
+240,praziquantel,AmbiDILIDrugs,2.0486,-2.2129350619999997,ATG_PXRE_CIS_up_Row16,6.582018767999999,pregnane x receptor,NR1I2
+241,probenecid,AmbiDILIDrugs,56.1042,0.507580506,ATG_PXRE_CIS_up_Row16,27.62680175,pregnane x receptor,NR1I2
+242,celecoxib,LessDILIDrugs,1.8328,-0.22510267,ATG_PXRE_CIS_up_Row16,2.245368174,pregnane x receptor,NR1I2
+243,chlorpropamide,LessDILIDrugs,130.0846,0.041575217000000005,ATG_PXRE_CIS_up_Row16,124.67630449999999,pregnane x receptor,NR1I2
+244,fenofibrate,LessDILIDrugs,4.1016,-2.303747784,ATG_PXRE_CIS_up_Row16,13.55065191,pregnane x receptor,NR1I2
+245,hydrochlorothiazide,LessDILIDrugs,1.6457,-1.668997853,ATG_PXRE_CIS_up_Row16,4.392369766,pregnane x receptor,NR1I2
+246,ifosfamide,LessDILIDrugs,203.0,0.7099090370000001,ATG_PXRE_CIS_up_Row16,58.88846543,pregnane x receptor,NR1I2
+247,lansoprazole,LessDILIDrugs,1.9222,-1.7158980380000002,ATG_PXRE_CIS_up_Row16,5.220499208000001,pregnane x receptor,NR1I2
+248,propofol,LessDILIDrugs,15.8184,0.709593635,ATG_PXRE_CIS_up_Row16,4.593764042,pregnane x receptor,NR1I2
+249,tetracycline,LessDILIDrugs,27.8172,0.23599870899999997,ATG_PXRE_CIS_up_Row16,21.2523767,pregnane x receptor,NR1I2
+250,topiramate,LessDILIDrugs,20.0,-2.118916091,ATG_PXRE_CIS_up_Row16,62.37832181,pregnane x receptor,NR1I2
+251,bicalutamide,MostDILI Drugs,1.9704,-1.2068978609999998,ATG_PXRE_CIS_up_Row16,4.348471545,pregnane x receptor,NR1I2
+252,carbamazepine,MostDILI Drugs,25.8176,-0.14765003699999998,ATG_PXRE_CIS_up_Row16,29.6295696,pregnane x receptor,NR1I2
+253,gemfibrozil,MostDILI Drugs,360.6753,0.943812599,ATG_PXRE_CIS_up_Row16,20.26540758,pregnane x receptor,NR1I2
+254,griseofulvin,MostDILI Drugs,4.5356,0.112390709,ATG_PXRE_CIS_up_Row16,4.0258407,pregnane x receptor,NR1I2
+255,ketoconazole,MostDILI Drugs,7.0,0.470751101,ATG_PXRE_CIS_up_Row16,3.704742296,pregnane x receptor,NR1I2
+256,mefenamic acid,MostDILI Drugs,26.9388,0.28326667,ATG_PXRE_CIS_up_Row16,19.30793582,pregnane x receptor,NR1I2
+257,nilutamide,MostDILI Drugs,7.2504,-0.234640878,ATG_PXRE_CIS_up_Row16,8.951640222,pregnane x receptor,NR1I2
+258,sulindac,MostDILI Drugs,31.9852,0.825077132,ATG_PXRE_CIS_up_Row16,5.594942926,pregnane x receptor,NR1I2
+259,tolcapone,MostDILI Drugs,74.2928,0.6466294770000001,ATG_PXRE_CIS_up_Row16,26.25288561,pregnane x receptor,NR1I2
+261,chloramphenicol,NoDILI Drugs,34.6609,-0.21399306199999998,ATG_PXRE_CIS_up_Row16,42.07809213,pregnane x receptor,NR1I2
+262,isoniazid,MostDILI Drugs,76.5635,0.999980346,ATG_RARb_TRANS_up_Row436,0.00150479,retinoic acid receptor,RARB
+263,ketoconazole,MostDILI Drugs,7.0,0.489510014,ATG_RORE_CIS_up_Row43,3.5734298989999997,androgen receptor related orphan receptor A,RORA
+264,leflunomide,MostDILI Drugs,24.7956,-1.5437348880000001,ATG_RORE_CIS_up_Row43,63.07343278,androgen receptor related orphan receptor A,RORA
+266,tetracycline,LessDILIDrugs,27.8172,0.6928158440000001,ATG_RXRa_TRANS_dn_Row444,8.545003097999999,retinoid x receptor,RXRA
+267,caffeine,NoDILI Drugs,42.0,0.999965106,ATG_RXRa_TRANS_dn_Row444,0.001465549,retinoid x receptor,RXRA
+268,carbamazepine,MostDILI Drugs,25.8176,-1.661216706,ATG_RXRb_TRANS_dn_Row446,68.70622844,retinoid x receptor,RXRB
+269,aspirin,LessDILIDrugs,5.5229,-0.545466136,ATG_RXRb_TRANS_up_Row311,8.53545492,retinoid x receptor,RXRB
+270,propofol,LessDILIDrugs,15.8184,-2.9454379389999996,ATG_RXRb_TRANS_up_Row311,62.41051549,retinoid x receptor,RXRB
+271,caffeine,NoDILI Drugs,42.0,-0.361000149,ATG_RXRb_TRANS_up_Row311,57.16200624,retinoid x receptor,RXRB
+272,pyrimethamine,LessDILIDrugs,3.2889,0.864941337,ATG_Sox_CIS_up_Row451,0.44419443700000005,sox transcription factor,SOX1
+273,acetaminophen,MostDILI Drugs,132.3066,0.354874886,ATG_Sox_CIS_up_Row451,85.35431046,sox transcription factor,SOX1
+274,caffeine,NoDILI Drugs,42.0,0.997855066,ATG_Sox_CIS_up_Row451,0.090087245,sox transcription factor,SOX1
+275,caffeine,NoDILI Drugs,42.0,0.8638074179999999,ATG_Sp1_CIS_dn_Row452,5.720088454,sp1 transcription factor,SP1
+276,ketoconazole,MostDILI Drugs,7.0,-2.864163884,ATG_Sp1_CIS_up_Row453,27.04914719,sp1 transcription factor,SP1
+277,fluvastatin,LessDILIDrugs,0.6635,0.694944665,ATG_SREBP_CIS_up_Row17,0.202404215,SREBP,SREBF1
+278,simvastatin,LessDILIDrugs,0.0824,0.625432949,ATG_SREBP_CIS_up_Row17,0.030864325,SREBP,SREBF1
+279,indomethacin,MostDILI Drugs,5.5899,-2.1531677719999998,ATG_SREBP_CIS_up_Row17,17.62589253,SREBP,SREBF1
+280,ketoconazole,MostDILI Drugs,7.0,0.326038278,ATG_SREBP_CIS_up_Row17,4.717732054,SREBP,SREBF1
+282,theophylline,NoDILI Drugs,85.0,0.9810316090000001,ATG_SREBP_CIS_up_Row17,1.61231327,SREBP,SREBF1
+283,caffeine,NoDILI Drugs,42.0,0.864443855,ATG_STAT3_CIS_dn_Row448,5.693358087999999,stat3,STAT3
+284,ketoconazole,MostDILI Drugs,7.0,0.140699031,ATG_TA_CIS_up_Row457,6.015106785,background control,intmrkr
+285,propofol,LessDILIDrugs,15.8184,0.9885317770000001,ATG_TAL_CIS_dn_Row454,0.181408945,internal marker,intmrkr
+286,albendazole,MostDILI Drugs,0.9045,-2.449866144,ATG_TCF_b_cat_CIS_dn_Row85,3.120403927,HMG box protein,hmgbox
+287,griseofulvin,MostDILI Drugs,4.5356,-3.101236957,ATG_TCF_b_cat_CIS_dn_Row85,18.60157034,HMG box protein ,hmgbox
+288,ketoconazole,MostDILI Drugs,7.0,0.310804402,ATG_TCF_b_cat_CIS_dn_Row85,4.824369187,HMG box protein ,hmgbox
+289,mefenamic acid,MostDILI Drugs,26.9388,-0.007639745,ATG_TCF_b_cat_CIS_dn_Row85,27.14460557,HMG box protein ,hmgbox
+290,nitrofurantoin,MostDILI Drugs,6.0,-3.23876175,ATG_TCF_b_cat_CIS_dn_Row85,25.432570499999997,HMG box protein ,hmgbox
+292,theophylline,NoDILI Drugs,85.0,-0.347130259,ATG_TCF_b_cat_CIS_dn_Row85,114.506072,HMG box protein ,hmgbox
+293,fluconazole,MostDILI Drugs,8.8156,0.99961198,ATG_THRa1_TRANS_up_Row461,0.00342063,thryoid hormone receptor,THRA
+294,levothyroxine,LessDILIDrugs,0.13,0.953842,ATG_THRa1_TRANS_up_Row461,0.00600054,thyroid hormone receptor,THRA
+295,ketoconazole,MostDILI Drugs,7.0,0.129552353,ATG_VDRE_CIS_up_Row37,6.093133529,vitamin D receptor,VDR
+296,leflunomide,MostDILI Drugs,24.7956,-3.282675148,ATG_VDRE_CIS_up_Row37,106.19149990000001,vitamin D receptor,VDR
+297,mefenamic acid,MostDILI Drugs,26.9388,-1.069012691,ATG_VDRE_CIS_up_Row37,55.73671908,vitamin D receptor,VDR
+298,sulindac,MostDILI Drugs,31.9852,0.6981900679999999,ATG_VDRE_CIS_up_Row37,9.653451027000001,vitamin D receptor,VDR
+299,tolcapone,MostDILI Drugs,74.2928,0.128452845,ATG_VDRE_CIS_up_Row37,64.74967845,vitamin D receptor,VDR
+301,celecoxib,LessDILIDrugs,1.8328,-2.264067915,ATG_VDRE_CIS_up_Row37,5.982383675,vitamin D receptor,VDR
+302,hydrochlorothiazide,LessDILIDrugs,1.6457,-1.39723015,ATG_VDRE_CIS_up_Row37,3.945121658,vitamin D receptor,VDR
+303,ketoconazole,MostDILI Drugs,7.0,-1.21635293,ATG_Xbp1_CIS_up_Row466,15.51447051,basic leucine zipper,XBP1
+304,fenofibrate,LessDILIDrugs,4.1016,0.9036712370000001,ATG_XTT_Cytotoxicity_up_Row1093,0.39510205299999995,cytotoxicity,xtt
+305,pyrimethamine,LessDILIDrugs,3.2889,0.9975675759999999,ATG_XTT_Cytotoxicity_up_Row1093,0.008,cytotoxicity,xtt
+306,acetaminophen,MostDILI Drugs,132.3066,0.999939534,ATG_XTT_Cytotoxicity_up_Row1093,0.008,cytotoxicity,xtt
+307,caffeine,NoDILI Drugs,42.0,0.9998032840000001,ATG_XTT_Cytotoxicity_up_Row1093,0.00826208,cytotoxicity,xtt
+308,folic acid,NoDILI Drugs,0.075,-1.142086653,ATG_XTT_Cytotoxicity_up_Row1093,0.160656499,cytotoxicity,xtt
+309,theophylline,NoDILI Drugs,85.0,0.9999058820000001,ATG_XTT_Cytotoxicity_up_Row1093,0.008,cytotoxicity,xtt
+310,nitrofurantoin,MostDILI Drugs,6.0,-0.221381761,BSK_3C_Eselectin_down_Row159,7.3282905629999995,E-selectin,SELE
+311,fenofibrate,LessDILIDrugs,4.1016,-1.649747135,BSK_3C_HLADR_down_Row104,10.86820285,HLA-DR,HLA-DR
+312,disulfiram,MostDILI Drugs,5.4,-0.72794179,BSK_3C_HLADR_down_Row104,9.330885666,HLA-DR,HLA-DR
+313,griseofulvin,MostDILI Drugs,4.5356,-1.693594731,BSK_3C_HLADR_down_Row104,12.21706826,HLA-DR,HLA-DR
+314,ketoconazole,MostDILI Drugs,7.0,-1.085011306,BSK_3C_HLADR_down_Row104,14.59507914,HLA-DR,HLA-DR
+315,nitrofurantoin,MostDILI Drugs,6.0,-0.730987163,BSK_3C_HLADR_down_Row104,10.38592298,HLA-DR,HLA-DR
+317,fenofibrate,LessDILIDrugs,4.1016,-1.6313164619999998,BSK_3C_IL8_down_Row66,10.7926076,IL8,IL8
+318,ibuprofen,LessDILIDrugs,250.0,0.9999919209999999,BSK_3C_IL8_down_Row66,0.002019705,IL8,IL8
+319,ketoconazole,MostDILI Drugs,7.0,-2.6575977269999997,BSK_3C_IL8_down_Row66,25.60318409,IL8,IL8
+321,fenofibrate,LessDILIDrugs,4.1016,-2.101431532,BSK_3C_MCP1_down_Row106,12.72083157,chemotactic factor,CCL2
+322,disulfiram,MostDILI Drugs,5.4,-3.782852309,BSK_3C_MCP1_down_Row106,25.82740247,chemotactic factor,CCl2
+323,ketoconazole,MostDILI Drugs,7.0,-2.60992232,BSK_3C_MCP1_down_Row106,25.26945624,chemotactic factor,CCL2
+325,ketoconazole,MostDILI Drugs,7.0,-1.7042633109999998,BSK_3C_MIG_down_Row90,18.92984318,chemokine ligand 9,CXCL9
+327,colchicine,AmbiDILIDrugs,0.0163,0.16861447899999998,BSK_3C_Proliferation_down_Row100,0.013551583999999998,proliferation,prlfrn
+328,cladribine,AmbiDILIDrugs,0.0227,0.24949163,BSK_3C_Proliferation_down_Row100,0.01703654,proliferation,prlfrn
+329,fenofibrate,LessDILIDrugs,4.1016,-1.7778838280000002,BSK_3C_Proliferation_down_Row100,11.39376831,proliferation,prlfrn
+330,chlorambucil,LessDILIDrugs,1.5614,-2.206695589,BSK_3C_Proliferation_down_Row100,5.006934492,proliferation,prlfrn
+331,griseofulvin,MostDILI Drugs,4.5356,-1.8197356980000001,BSK_3C_Proliferation_down_Row100,12.78919323,proliferation,prlfrn
+332,ketoconazole,MostDILI Drugs,7.0,-1.086790413,BSK_3C_Proliferation_down_Row100,14.60753289,proliferation,prlfrn
+333,nitrofurantoin,MostDILI Drugs,6.0,-0.717983933,BSK_3C_Proliferation_down_Row100,10.3079036,proliferation,prlfrn
+335,disulfiram,MostDILI Drugs,5.4,-0.45156126399999996,BSK_3C_Proliferation_down_Row100,7.838430828,proliferation,prlfrn
+336,colchicine,AmbiDILIDrugs,0.0163,-0.038450798,BSK_3C_SRB_down_Row82,0.016926748000000002,cytotoxicity,srb
+337,fenofibrate,LessDILIDrugs,4.1016,-1.795023171,BSK_3C_SRB_down_Row82,11.46406704,cytotoxicity,srb
+338,disulfiram,MostDILI Drugs,5.4,-3.671024319,BSK_3C_SRB_down_Row82,25.22353132,cytotoxicity,srb
+339,griseofulvin,MostDILI Drugs,4.5356,-3.742831008,BSK_3C_SRB_down_Row82,21.51158432,cytotoxicity,srb
+340,ketoconazole,MostDILI Drugs,7.0,-2.413010921,BSK_3C_SRB_down_Row82,23.89107645,cytotoxicity,srb
+342,disulfiram,MostDILI Drugs,5.4,-1.320655409,BSK_3C_Thrombomodulin_up_Row296,12.53153921,thrombomodulin,THBD
+343,fenofibrate,LessDILIDrugs,4.1016,-1.739363746,BSK_3C_TissueFactor_down_Row150,11.23577434,tissue factor,F3
+344,disulfiram,MostDILI Drugs,5.4,-3.027061685,BSK_3C_TissueFactor_down_Row150,21.7461331,tissue factor,F3
+345,griseofulvin,MostDILI Drugs,4.5356,-1.5758918219999998,BSK_3C_TissueFactor_down_Row150,11.68321495,tissue factor,F3
+346,oxytetracycline,AmbiDILIDrugs,3.2578,-2.644241427,BSK_3C_TissueFactor_up_Row300,11.87220972,tissue factor,F3
+347,colchicine,AmbiDILIDrugs,0.0163,-1.7516664419999999,BSK_3C_uPAR_down_Row91,0.044852163,urokinase receptor,PLAUR
+348,fenofibrate,LessDILIDrugs,4.1016,-2.118472862,BSK_3C_uPAR_down_Row91,12.79072829,urokinase receptor,PLAUR
+349,disulfiram,MostDILI Drugs,5.4,-1.606264937,BSK_3C_uPAR_down_Row91,14.07383066,urokinase receptor,PLAUR
+350,ketoconazole,MostDILI Drugs,7.0,-2.343869643,BSK_3C_uPAR_down_Row91,23.4070875,urokinase receptor,PLAUR
+352,disulfiram,MostDILI Drugs,5.4,-3.180664293,BSK_3C_VCAM1_down_Row128,22.57558718,VCAM1,VCAM1
+354,colchicine,AmbiDILIDrugs,0.0163,0.34914233100000003,BSK_3C_Vis_down_Row62,0.01060898,colchicine visual,cytotoxicity
+355,ketoconazole,MostDILI Drugs,7.0,-3.65757793,BSK_3C_Vis_down_Row62,32.60304551,colchicine visual,cytotoxicity
+357,disulfiram,MostDILI Drugs,5.4,-1.8866242219999998,BSK_4H_Eotaxin3_down_Row76,15.587770800000001,chemokine ligand 26,CXCL26
+358,ketoconazole,MostDILI Drugs,7.0,-1.475247281,BSK_4H_Eotaxin3_down_Row76,17.32673097,eotaxin 3,CCL26
+360,fenofibrate,LessDILIDrugs,4.1016,-1.8071631019999999,BSK_4H_MCP1_down_Row36,11.51386018,chemotactic factor,CCL2
+361,simvastatin,LessDILIDrugs,0.0824,-1.6045366140000001,BSK_4H_MCP1_down_Row36,0.21461381699999998,chemotactic factor,CCL2
+362,disulfiram,MostDILI Drugs,5.4,-3.216826531,BSK_4H_MCP1_down_Row36,22.77086327,chemotactic factor,CCL2
+363,ketoconazole,MostDILI Drugs,7.0,-2.710303091,BSK_4H_MCP1_down_Row36,25.97212164,chemotactic factor,CCL2
+365,disulfiram,MostDILI Drugs,5.4,-2.89354323,BSK_4H_Pselectin_down_Row49,21.02513344,P-selectin,SELP
+366,ketoconazole,MostDILI Drugs,7.0,-0.5819333010000001,BSK_4H_Pselectin_down_Row49,11.07353311,P-selectin,SELP
+368,colchicine,AmbiDILIDrugs,0.0163,0.38650306700000003,BSK_4H_SRB_down_Row131,0.01,cytotoxicity,srb
+369,fenofibrate,LessDILIDrugs,4.1016,-2.105115613,BSK_4H_SRB_down_Row131,12.735942199999998,cytotoxicity,srb
+370,disulfiram,MostDILI Drugs,5.4,-3.60403962,BSK_4H_SRB_down_Row131,24.86181395,cytotoxicity,srb
+371,ketoconazole,MostDILI Drugs,7.0,-2.491243561,BSK_4H_SRB_down_Row131,24.43870493,cytotoxicity,srb
+373,colchicine,AmbiDILIDrugs,0.0163,0.287976933,BSK_4H_uPAR_down_Row101,0.011605976,urokinase receptor,PLAUR
+374,aspirin,LessDILIDrugs,5.5229,0.997489725,BSK_4H_uPAR_down_Row101,0.013863999999999998,urokinase receptor,PLAUR
+375,chlorambucil,LessDILIDrugs,1.5614,0.492530788,BSK_4H_uPAR_down_Row101,0.792362428,urokinase receptor,PLAUR
+376,tetracycline,LessDILIDrugs,27.8172,0.9960981720000001,BSK_4H_uPAR_down_Row101,0.10853792,urokinase receptor,PLAUR
+377,disulfiram,MostDILI Drugs,5.4,-3.4792108610000003,BSK_4H_uPAR_down_Row101,24.18773865,urokinase receptor,PLAUR
+378,ketoconazole,MostDILI Drugs,7.0,-2.694707746,BSK_4H_uPAR_down_Row101,25.86295422,urokinase receptor,PLAUR
+380,fenofibrate,LessDILIDrugs,4.1016,-1.442866591,BSK_4H_VCAM1_down_Row125,10.01966161,VCAM1,VCAM1
+381,disulfiram,MostDILI Drugs,5.4,-3.7253266810000003,BSK_4H_VCAM1_down_Row125,25.51676408,VCAM1,VCAM1
+383,chlorambucil,LessDILIDrugs,1.5614,0.25987331399999997,BSK_4H_VEGFRII_down_Row484,1.155633808,VEGF receptor,KDR
+384,disulfiram,MostDILI Drugs,5.4,-3.3055231239999996,BSK_4H_VEGFRII_down_Row484,23.24982487,VEGF receptor,KDR
+385,colchicine,AmbiDILIDrugs,0.0163,0.38650306700000003,BSK_BE3C_HLADR_down_Row59,0.01,HLA-DR,HLA-DR
+386,fenofibrate,LessDILIDrugs,4.1016,-1.343536237,BSK_BE3C_HLADR_down_Row59,9.612248229,HLA-DR,HLA-DR
+387,disulfiram,MostDILI Drugs,5.4,-0.249022954,BSK_BE3C_HLADR_down_Row59,6.744723951,HLA-DR,HLA-DR
+388,ketoconazole,MostDILI Drugs,7.0,-3.047748496,BSK_BE3C_HLADR_down_Row59,28.33423947,HLA-DR,HLA-DR
+390,disulfiram,MostDILI Drugs,5.4,-1.5473285540000001,BSK_BE3C_IL1a_down_Row69,13.75557419,IL1a,IL1a
+392,disulfiram,MostDILI Drugs,5.4,-2.803542381,BSK_BE3C_IP10_down_Row55,20.53912886,chemotactic factor,CXCL10
+393,ketoconazole,MostDILI Drugs,7.0,-0.9948292240000001,BSK_BE3C_IP10_down_Row55,13.96380457,chemotactic factor,CXCL10
+394,nilutamide,MostDILI Drugs,7.2504,-2.45232587,BSK_BE3C_IP10_down_Row55,25.03074349,chemotactic factor,CXCL10
+396,disulfiram,MostDILI Drugs,5.4,-3.8115597039999995,BSK_BE3C_MIG_down_Row78,25.982422399999997,chemokine ligand 9,CXCL9
+398,ibuprofen,LessDILIDrugs,250.0,0.9999864270000001,BSK_BE3C_MMP1_down_Row142,0.0033932959999999996,matrix metalloproteinase 1,MMP1
+399,disulfiram,MostDILI Drugs,5.4,-3.2180977110000004,BSK_BE3C_MMP1_down_Row142,22.77772764,matrix metalloproteinase 1,MMP1
+400,oxytetracycline,AmbiDILIDrugs,3.2578,-1.703061855,BSK_BE3C_MMP1_up_Row490,8.806034912000001,matrix metalloproteinase 1,MMP1
+401,fenofibrate,LessDILIDrugs,4.1016,-1.410725438,BSK_BE3C_MMP1_up_Row490,9.887831457999999,matrix metalloproteinase 1,MMP1
+402,indomethacin,MostDILI Drugs,5.5899,-0.140609962,BSK_BE3C_MMP1_up_Row490,6.375895625,matrix metalloproteinase 1,MMP1
+403,colchicine,AmbiDILIDrugs,0.0163,0.35168355799999995,BSK_BE3C_PAI1_down_Row56,0.010567558000000001,PAI1,SERPINE1
+405,oxytetracycline,AmbiDILIDrugs,3.2578,-0.042111357,BSK_BE3C_PAI1_up_Row491,3.39499038,PAI1,SERPINE1
+406,disulfiram,MostDILI Drugs,5.4,-1.719560891,BSK_BE3C_SRB_down_Row102,14.68562881,cytotoxicity,srb
+408,disulfiram,MostDILI Drugs,5.4,-2.200817202,BSK_BE3C_TGFb1_down_Row63,17.28441289,transforming growth factor beta,TGFB1
+410,disulfiram,MostDILI Drugs,5.4,-0.574140816,BSK_BE3C_tPA_down_Row40,8.500360407999999,tissue plasminogen activator,PLAT
+412,ifosfamide,LessDILIDrugs,203.0,0.999989219,BSK_BE3C_uPA_down_Row60,0.00218846,urokinase,PLAU
+413,disulfiram,MostDILI Drugs,5.4,-1.503029365,BSK_BE3C_uPA_down_Row60,13.51635857,urokinase,PLAU
+415,chlorambucil,LessDILIDrugs,1.5614,-3.3134746610000003,BSK_BE3C_uPA_down_Row60,6.735059335,urokinase ,PLAU
+416,disulfiram,MostDILI Drugs,5.4,-1.77431565,BSK_BE3C_uPAR_down_Row71,14.98130451,urokinase receptor,PLAUR
+418,disulfiram,MostDILI Drugs,5.4,-1.5103619590000001,BSK_CASM3C_HLADR_down_Row497,13.55595458,HLA-DR,HLA-DR
+419,ketoconazole,MostDILI Drugs,7.0,-1.311659379,BSK_CASM3C_HLADR_down_Row497,16.18161565,HLA-DR,HLA-DR
+420,ibuprofen,LessDILIDrugs,250.0,0.984090565,BSK_CASM3C_IL6_down_Row499,3.977358875,IL6,IL6
+421,ifosfamide,LessDILIDrugs,203.0,0.99467396,BSK_CASM3C_IL6_down_Row499,1.081186072,IL6,IL6
+422,prednisone,LessDILIDrugs,0.0684,-3.587943304,BSK_CASM3C_IL6_down_Row499,0.313815322,IL6,IL6
+423,griseofulvin,MostDILI Drugs,4.5356,0.9033052079999999,BSK_CASM3C_IL6_down_Row499,0.438568899,IL6,IL6
+424,indomethacin,MostDILI Drugs,5.5899,0.876239267,BSK_CASM3C_IL6_down_Row499,0.6918101240000001,IL6,IL6
+425,prednisone,LessDILIDrugs,0.0684,-3.5935969739999996,BSK_CASM3C_IL8_down_Row500,0.314202033,IL8,IL8
+426,disulfiram,MostDILI Drugs,5.4,-3.020369243,BSK_CASM3C_IL8_down_Row500,21.70999391,IL8,IL8
+427,chlorambucil,LessDILIDrugs,1.5614,-3.6942656169999997,BSK_CASM3C_LDLR_down_Row501,7.329626333999999,LDL receptor,LDLR
+428,ibuprofen,LessDILIDrugs,250.0,0.969453929,BSK_CASM3C_LDLR_down_Row501,7.636517637000001,LDL receptor,LDLR
+429,fenofibrate,LessDILIDrugs,4.1016,-2.091435077,BSK_CASM3C_LDLR_up_Row302,12.67983011,LDL receptor,LDLR
+430,ketoconazole,MostDILI Drugs,7.0,0.616747273,BSK_CASM3C_LDLR_up_Row302,2.682769091,LDL receptor,LDLR
+431,griseofulvin,MostDILI Drugs,4.5356,-0.40104469,BSK_CASM3C_MCP1_down_Row295,6.3545782939999995,chemotactic factor,CCL2
+432,disulfiram,MostDILI Drugs,5.4,-3.374476265,BSK_CASM3C_MCSF_down_Row502,23.62217183,colony stimulating factor,CSF1
+433,nilutamide,MostDILI Drugs,7.2504,-0.916274052,BSK_CASM3C_MCSF_down_Row502,13.89375339,colony stimulating factor,CSF1
+434,ibuprofen,LessDILIDrugs,250.0,0.969443122,BSK_CASM3C_MCSF_up_Row325,7.639219445,colony stimulating factor,CSF1
+435,prednisone,LessDILIDrugs,0.0684,0.85380117,BSK_CASM3C_MCSF_up_Row325,0.01,colony stimulating factor,CSF1
+436,disulfiram,MostDILI Drugs,5.4,-2.0992638930000003,BSK_CASM3C_MIG_down_Row503,16.73602502,chemokine ligand 9,CXCL9
+437,colchicine,AmbiDILIDrugs,0.0163,0.367165951,BSK_CASM3C_Proliferation_down_Row26,0.010315195,proliferation,prlfrn
+438,chlorambucil,LessDILIDrugs,1.5614,-0.6280268179999999,BSK_CASM3C_Proliferation_down_Row26,2.542001074,proliferation,prlfrn
+439,griseofulvin,MostDILI Drugs,4.5356,-1.53057967,BSK_CASM3C_Proliferation_down_Row26,11.47769715,proliferation,prlfrn
+440,ketoconazole,MostDILI Drugs,7.0,-0.81450122,BSK_CASM3C_Proliferation_down_Row26,12.70150854,proliferation,prlfrn
+441,sulfasalazine,MostDILI Drugs,15.0603,0.130394633,BSK_CASM3C_Proliferation_down_Row26,13.09651771,proliferation,prlfrn
+443,disulfiram,MostDILI Drugs,5.4,-0.884912128,BSK_CASM3C_Proliferation_down_Row26,10.17852549,proliferation,prlfrn
+444,nilutamide,MostDILI Drugs,7.2504,-0.689192195,BSK_CASM3C_Proliferation_down_Row26,12.24731909,proliferation,prlfrn
+445,oxytetracycline,AmbiDILIDrugs,3.2578,-1.306215248,BSK_CASM3C_Proliferation_up_Row505,7.513188035,proliferation,prlfrn
+446,ibuprofen,LessDILIDrugs,250.0,0.9989944590000001,BSK_CASM3C_Proliferation_up_Row505,0.251385337,proliferation,prlfrn
+447,disulfiram,MostDILI Drugs,5.4,-1.364905267,BSK_CASM3C_SAA_down_Row506,12.77048844,serum amyloid 1,SAA1
+448,griseofulvin,MostDILI Drugs,4.5356,0.421950954,BSK_CASM3C_SRB_down_Row308,2.621799254,cytotoxicity,srb
+449,griseofulvin,MostDILI Drugs,4.5356,0.994314833,BSK_CASM3C_Thrombomodulin_down_Row509,0.025785642,Thrombomodulin,THBD
+450,celecoxib,LessDILIDrugs,1.8328,0.564656054,BSK_CASM3C_Thrombomodulin_up_Row23,0.797898385,thrombomodulin,THBD
+451,chlorambucil,LessDILIDrugs,1.5614,-2.791095325,BSK_CASM3C_Thrombomodulin_up_Row23,5.91941624,thrombomodulin,THBD
+452,fenofibrate,LessDILIDrugs,4.1016,-2.2641495369999998,BSK_CASM3C_Thrombomodulin_up_Row23,13.38823574,Thrombomodulin,THBD
+453,ibuprofen,LessDILIDrugs,250.0,0.92930517,BSK_CASM3C_Thrombomodulin_up_Row23,17.67370741,Thrombomodulin,THBD
+454,lovastatin,LessDILIDrugs,0.0492,0.373873333,BSK_CASM3C_Thrombomodulin_up_Row23,0.030805432,Thrombomodulin,THBD
+455,simvastatin,LessDILIDrugs,0.0824,-1.297044563,BSK_CASM3C_Thrombomodulin_up_Row23,0.189276472,Thrombomodulin,THBD
+456,disulfiram,MostDILI Drugs,5.4,0.10518036,BSK_CASM3C_Thrombomodulin_up_Row23,4.832026054,thrombomodulin,THBD
+458,disulfiram,MostDILI Drugs,5.4,-2.5610431240000002,BSK_CASM3C_TissueFactor_down_Row293,19.22963287,tissue factor,F3
+459,griseofulvin,MostDILI Drugs,4.5356,0.508768746,BSK_CASM3C_TissueFactor_down_Row293,2.228028477,tissue factor,F3
+460,ibuprofen,LessDILIDrugs,250.0,0.857926121,BSK_CASM3C_uPAR_down_Row294,35.51846985,urokinase receptor,PLAUR
+461,fenofibrate,LessDILIDrugs,4.1016,-0.116981703,BSK_CASM3C_uPAR_up_Row512,4.5814121519999995,urokinase receptor,PLAUR
+462,disulfiram,MostDILI Drugs,5.4,-2.505286854,BSK_CASM3C_VCAM1_down_Row511,18.92854901,VCAM1,VCAM1
+463,fenofibrate,LessDILIDrugs,4.1016,-3.099297542,BSK_CASM3C_VCAM1_up_Row309,16.8136788,VCAM1,VCAM1
+464,fenofibrate,LessDILIDrugs,4.1016,-1.829333602,BSK_hDFCGF_CollagenIII_down_Row58,11.6047947,CollagenIII,COL3A1
+465,ibuprofen,LessDILIDrugs,250.0,0.98596319,BSK_hDFCGF_CollagenIII_down_Row58,3.5092023919999997,CollagenIII,COL3A1
+466,disulfiram,MostDILI Drugs,5.4,0.20245237600000002,BSK_hDFCGF_CollagenIII_down_Row58,4.306757172,CollagenIII,COL3A1
+467,indomethacin,MostDILI Drugs,5.5899,-1.373425423,BSK_hDFCGF_CollagenIII_down_Row58,13.26721077,CollagenIII,COL3A1
+468,ketoconazole,MostDILI Drugs,7.0,-0.5189231910000001,BSK_hDFCGF_CollagenIII_down_Row58,10.63246234,CollagenIII,COL3A1
+470,disulfiram,MostDILI Drugs,5.4,-0.44682881399999996,BSK_hDFCGF_EGFR_down_Row29,7.812875597000001,epidermal growth factor,EGF
+471,griseofulvin,MostDILI Drugs,4.5356,-0.795227791,BSK_hDFCGF_EGFR_down_Row29,8.142435171,epidermal growth factor,EGF
+472,ketoconazole,MostDILI Drugs,7.0,-1.045208991,BSK_hDFCGF_EGFR_down_Row29,14.31646294,epidermal growth factor,EGF
+474,estrone,AmbiDILIDrugs,0.0218,-0.548296927,BSK_hDFCGF_EGFR_up_Row531,0.033752872999999996,epidermal growth factor,EGF
+475,disulfiram,MostDILI Drugs,5.4,0.582807545,BSK_hDFCGF_IL8_down_Row103,2.2528392569999998,IL8,IL8
+476,ketoconazole,MostDILI Drugs,7.0,-3.1520713110000003,BSK_hDFCGF_IL8_down_Row103,29.06449918,IL8,IL8
+478,oxytetracycline,AmbiDILIDrugs,3.2578,-3.268347514,BSK_hDFCGF_IP10_down_Row33,13.90542253,chemotactic factor,CXCL10
+479,fenofibrate,LessDILIDrugs,4.1016,-2.3861239690000002,BSK_hDFCGF_IP10_down_Row33,13.88852607,chemotactic factor,CXCL10
+480,disulfiram,MostDILI Drugs,5.4,0.781089805,BSK_hDFCGF_IP10_down_Row33,1.182115053,chemotactic factor,CXCL10
+481,ketoconazole,MostDILI Drugs,7.0,-3.515490406,BSK_hDFCGF_IP10_down_Row33,31.60843284,chemotactic factor,CXCL10
+483,oxytetracycline,AmbiDILIDrugs,3.2578,-2.515943714,BSK_hDFCGF_MCSF_down_Row42,11.45424143,colony stimulating factor,CSF1
+484,disulfiram,MostDILI Drugs,5.4,0.79554152,BSK_hDFCGF_MCSF_down_Row42,1.104075792,colony stimulating factor,CSF1
+485,ketoconazole,MostDILI Drugs,7.0,-2.7278057689999997,BSK_hDFCGF_MCSF_down_Row42,26.09464038,colony stimulating factor,CSF1
+487,griseofulvin,MostDILI Drugs,4.5356,0.73821752,BSK_hDFCGF_MCSF_up_Row534,1.187340615,colony stimulating factor,CSF1
+488,disulfiram,MostDILI Drugs,5.4,0.749354265,BSK_hDFCGF_MIG_down_Row61,1.353486969,chemokine ligand 9,CXCL9
+489,ketoconazole,MostDILI Drugs,7.0,-3.7359177310000002,BSK_hDFCGF_MIG_down_Row61,33.15142412,chemokine ligand 9,CXCL9
+492,disulfiram,MostDILI Drugs,5.4,0.613237955,BSK_hDFCGF_MMP1_down_Row96,2.088515042,matrix metalloproteinase 1,MMP1
+493,fenofibrate,LessDILIDrugs,4.1016,-3.7658475769999997,BSK_hDFCGF_PAI1_down_Row32,19.54760042,PAI1,SERPINE1
+494,disulfiram,MostDILI Drugs,5.4,0.419336785,BSK_hDFCGF_PAI1_down_Row32,3.1355813610000003,PAI1,SERPINE1
+495,griseofulvin,MostDILI Drugs,4.5356,0.626480206,BSK_hDFCGF_PAI1_down_Row32,1.694136377,PAI1,SERPINE1
+496,ketoconazole,MostDILI Drugs,7.0,-2.760264266,BSK_hDFCGF_PAI1_down_Row32,26.32184986,PAI1,SERPINE1
+498,danazol,MostDILI Drugs,0.1092,-0.8805246790000001,BSK_hDFCGF_PAI1_up_Row537,0.205353295,PAI1,SERPINE1
+499,cladribine,AmbiDILIDrugs,0.0227,-1.048275815,BSK_hDFCGF_Proliferation_down_Row25,0.046495861,proliferation,prlfrn
+500,fenofibrate,LessDILIDrugs,4.1016,-1.8408179830000002,BSK_hDFCGF_Proliferation_down_Row25,11.65189904,proliferation,prlfrn
+501,pyrimethamine,LessDILIDrugs,3.2889,-2.23032548,BSK_hDFCGF_Proliferation_down_Row25,10.62421747,proliferation,prlfrn
+502,tetracycline,LessDILIDrugs,27.8172,0.33698304799999995,BSK_hDFCGF_Proliferation_down_Row25,18.44327516,proliferation,prlfrn
+503,chlorambucil,LessDILIDrugs,1.5614,-3.006784578,BSK_hDFCGF_Proliferation_down_Row25,6.25619344,proliferation,prlfrn
+504,indomethacin,MostDILI Drugs,5.5899,-0.671266595,BSK_hDFCGF_Proliferation_down_Row25,9.342213138,proliferation,prlfrn
+505,ketoconazole,MostDILI Drugs,7.0,-1.3763399530000002,BSK_hDFCGF_Proliferation_down_Row25,16.63437967,proliferation,prlfrn
+506,nilutamide,MostDILI Drugs,7.2504,-1.322794756,BSK_hDFCGF_Proliferation_down_Row25,16.841191100000003,proliferation,prlfrn
+507,nitrofurantoin,MostDILI Drugs,6.0,-1.167838977,BSK_hDFCGF_Proliferation_down_Row25,13.00703386,proliferation,prlfrn
+508,tamoxifen,MostDILI Drugs,0.1712,0.911322225,BSK_hDFCGF_Proliferation_down_Row25,0.015181635,proliferation,prlfrn
+510,disulfiram,MostDILI Drugs,5.4,0.819247753,BSK_hDFCGF_Proliferation_down_Row25,0.976062135,proliferation,prlfrn
+511,disulfiram,MostDILI Drugs,5.4,0.281220025,BSK_hDFCGF_SRB_down_Row73,3.8814118630000003,cytotoxicity,srb
+512,ketoconazole,MostDILI Drugs,7.0,-1.31949315,BSK_hDFCGF_SRB_down_Row73,16.23645205,cytotoxicity,srb
+514,griseofulvin,MostDILI Drugs,4.5356,-2.43382909,BSK_hDFCGF_TIMP1_down_Row51,15.57447522,TIMP1 metalloproteinase inhibitor,TIMP1
+515,ketoconazole,MostDILI Drugs,7.0,-3.364271983,BSK_hDFCGF_TIMP1_down_Row51,30.54990388,TIMP1 metalloproteinase inhibitor,TIMP1
+517,disulfiram,MostDILI Drugs,5.4,0.7153196070000001,BSK_hDFCGF_TIMP1_down_Row51,1.5372741230000002,TIMP1 metalloproteinase inhibitor ,TIMP1
+518,disulfiram,MostDILI Drugs,5.4,0.8080291390000001,BSK_hDFCGF_VCAM1_down_Row41,1.036642647,VCAM1,VCAM1
+519,ketoconazole,MostDILI Drugs,7.0,-3.133883113,BSK_hDFCGF_VCAM1_down_Row41,28.93718179,VCAM1,VCAM1
+521,disulfiram,MostDILI Drugs,5.4,-1.144292965,BSK_KF3CT_ICAM1_down_Row53,11.57918201,ICAM1,ICAM1
+523,oxytetracycline,AmbiDILIDrugs,3.2578,0.186571672,BSK_KF3CT_IL1a_down_Row68,2.649986807,IL1a,IL1a
+524,disulfiram,MostDILI Drugs,5.4,-0.797527685,BSK_KF3CT_IL1a_down_Row68,9.706649499,IL1a,IL1a
+525,griseofulvin,MostDILI Drugs,4.5356,0.550762286,BSK_KF3CT_IL1a_down_Row68,2.037562576,IL1a,IL1a
+527,disulfiram,MostDILI Drugs,5.4,-0.39169400299999996,BSK_KF3CT_IP10_down_Row38,7.515147616,chemokine ligand 10,CXCL10
+528,ketoconazole,MostDILI Drugs,7.0,-2.748445747,BSK_KF3CT_IP10_down_Row38,26.23912023,chemotactic factor,CXCL10
+530,pyrimethamine,LessDILIDrugs,3.2889,0.284363219,BSK_KF3CT_MCP1_down_Row52,2.35365781,chemotactic factor,CCL2
+531,disulfiram,MostDILI Drugs,5.4,-0.520646003,BSK_KF3CT_MCP1_down_Row52,8.211488416,chemotactic factor,CCL2
+532,griseofulvin,MostDILI Drugs,4.5356,0.963089711,BSK_KF3CT_MCP1_down_Row52,0.167410309,chemotactic factor,CCL2
+533,ketoconazole,MostDILI Drugs,7.0,-2.120832999,BSK_KF3CT_MCP1_down_Row52,21.84583099,chemotactic factor,CCL2
+535,disulfiram,MostDILI Drugs,5.4,-0.45372836,BSK_KF3CT_SRB_down_Row50,7.850133142000001,cytotoxicity,srb
+537,ketoconazole,MostDILI Drugs,7.0,-0.90163309,BSK_KF3CT_TGFb1_down_Row87,13.31143163,transforming growth factor beta,TGFB1
+538,disulfiram,MostDILI Drugs,5.4,-0.499937101,BSK_KF3CT_TGFb1_down_Row87,8.099660344,transforming growth factor beta,TGFB1
+540,ketoconazole,MostDILI Drugs,7.0,-2.580826366,BSK_KF3CT_TIMP2_down_Row70,25.06578456,TIMP2 metalloproteinase inhibitor,TIMP2
+542,disulfiram,MostDILI Drugs,5.4,-0.7113223909999999,BSK_KF3CT_TIMP2_down_Row70,9.241140911,TIMP2 metalloproteinase inhibitor ,TIMP2
+543,disulfiram,MostDILI Drugs,5.4,-0.7821159320000001,BSK_KF3CT_uPA_down_Row45,9.623426031000001,urokinase,PLAU
+545,colchicine,AmbiDILIDrugs,0.0163,0.382094785,BSK_LPS_CD40_down_Row64,0.010071855,CD40,CD40
+546,fenofibrate,LessDILIDrugs,4.1016,-2.2835817880000002,BSK_LPS_CD40_down_Row64,13.46793906,CD40,CD40
+547,acetaminophen,MostDILI Drugs,132.3066,0.999917414,BSK_LPS_CD40_down_Row64,0.010926723999999999,CD40,CD40
+548,disulfiram,MostDILI Drugs,5.4,-1.940400191,BSK_LPS_CD40_down_Row64,15.87816103,CD40,CD40
+549,ketoconazole,MostDILI Drugs,7.0,-1.4808363690000002,BSK_LPS_CD40_down_Row64,17.36585458,CD40,CD40
+552,simvastatin,LessDILIDrugs,0.0824,0.877701869,BSK_LPS_Eselectin_up_Row326,0.010077365999999999,E-selectin,SELE
+553,disulfiram,MostDILI Drugs,5.4,-1.4828843569999999,BSK_LPS_IL1a_down_Row152,13.40757553,IL1a,IL1a
+554,oxytetracycline,AmbiDILIDrugs,3.2578,0.853549832,BSK_LPS_IL8_down_Row160,0.477105358,IL8,IL8
+555,disulfiram,MostDILI Drugs,5.4,-1.6038595830000002,BSK_LPS_IL8_down_Row160,14.06084175,IL8,IL8
+556,ketoconazole,MostDILI Drugs,7.0,-1.0816219470000001,BSK_LPS_IL8_down_Row160,14.57135363,IL8,IL8
+557,fenofibrate,LessDILIDrugs,4.1016,-2.16768761,BSK_LPS_MCP1_down_Row105,12.9925875,chemotactic factor,CCL2
+558,disulfiram,MostDILI Drugs,5.4,-1.455260389,BSK_LPS_MCP1_down_Row105,13.258406099999998,chemotactic factor,CCL2
+559,ketoconazole,MostDILI Drugs,7.0,-2.956830751,BSK_LPS_MCP1_down_Row105,27.69781526,chemotactic factor,CCL2
+561,ketoconazole,MostDILI Drugs,7.0,-2.29534858,BSK_LPS_MCSF_down_Row141,23.06744006,colony stimulating factor,CSF1
+562,disulfiram,MostDILI Drugs,5.4,-1.823840546,BSK_LPS_MCSF_down_Row141,15.24873895,colony stimulating factor,CSF1
+563,indomethacin,MostDILI Drugs,5.5899,0.995744958,BSK_LPS_PGE2_down_Row146,0.023785257,prostaglandin E2,PTGER2
+564,aspirin,LessDILIDrugs,5.5229,0.42451609,BSK_LPS_PGE2_down_Row146,3.1783400860000004,prostaglandin E2,PTGER2
+565,celecoxib,LessDILIDrugs,1.8328,0.9945438670000001,BSK_LPS_PGE2_down_Row146,0.01,prostaglandin E2,PTGER2
+566,ibuprofen,LessDILIDrugs,250.0,0.99518957,BSK_LPS_PGE2_down_Row146,1.202607507,prostaglandin E2,PTGER2
+567,acetaminophen,MostDILI Drugs,132.3066,0.866227601,BSK_LPS_PGE2_down_Row146,17.69897131,prostaglandin E2,PTGER2
+568,disulfiram,MostDILI Drugs,5.4,-1.6806270019999998,BSK_LPS_PGE2_down_Row146,14.47538581,prostaglandin E2,PTGER2
+569,disulfiram,MostDILI Drugs,5.4,-3.53061245,BSK_LPS_SRB_down_Row123,24.46530723,cytotoxicity,srb
+570,ketoconazole,MostDILI Drugs,7.0,-1.3983941309999999,BSK_LPS_SRB_down_Row123,16.78875892,cytotoxicity,srb
+572,chlorambucil,LessDILIDrugs,1.5614,-3.906197904,BSK_LPS_TissueFactor_down_Row147,7.660537408,tissue factor,F3
+573,acetaminophen,MostDILI Drugs,132.3066,0.999924075,BSK_LPS_TissueFactor_down_Row147,0.010045395,tissue factor,F3
+574,disulfiram,MostDILI Drugs,5.4,-3.267206613,BSK_LPS_TissueFactor_down_Row147,23.04291571,tissue factor,F3
+575,oxytetracycline,AmbiDILIDrugs,3.2578,-2.461374096,BSK_LPS_TissueFactor_up_Row310,11.27646453,tissue factor,F3
+576,pyrimethamine,LessDILIDrugs,3.2889,-1.138968079,BSK_LPS_TissueFactor_up_Row310,7.0348521139999995,tissue factor,F3
+577,simvastatin,LessDILIDrugs,0.0824,0.830330267,BSK_LPS_TissueFactor_up_Row310,0.013980786,tissue factor,F3
+578,disulfiram,MostDILI Drugs,5.4,-1.206490328,BSK_LPS_TNFa_down_Row154,11.91504777,TNFa,TNF
+579,warfarin,LessDILIDrugs,4.8649,0.8197428640000001,BSK_LPS_TNFa_up_Row521,0.87693294,TNFa,TNF
+580,disulfiram,MostDILI Drugs,5.4,-3.043101413,BSK_LPS_VCAM1_down_Row72,21.83274763,VCAM1,VCAM1
+581,ketoconazole,MostDILI Drugs,7.0,-3.906653514,BSK_LPS_VCAM1_down_Row72,34.346574600000004,VCAM1,VCAM1
+582,nitrofurantoin,MostDILI Drugs,6.0,-0.804052478,BSK_LPS_VCAM1_down_Row72,10.82431487,VCAM1,VCAM1
+584,colchicine,AmbiDILIDrugs,0.0163,-0.037471104,BSK_SAg_CD38_down_Row86,0.016910779,CD38,CD38
+585,fenofibrate,LessDILIDrugs,4.1016,-2.058714745,BSK_SAg_CD38_down_Row86,12.545624400000001,CD38,CD38
+586,disulfiram,MostDILI Drugs,5.4,-3.6442104019999997,BSK_SAg_CD38_down_Row86,25.07873617,CD38,CD38
+587,ketoconazole,MostDILI Drugs,7.0,-1.066739984,BSK_SAg_CD38_down_Row86,14.46717989,CD38,CD38
+589,colchicine,AmbiDILIDrugs,0.0163,0.38650306700000003,BSK_SAg_CD40_down_Row57,0.01,CD40,CD40
+590,fenofibrate,LessDILIDrugs,4.1016,-2.771917362,BSK_SAg_CD40_down_Row57,15.47089625,CD40,CD40
+591,ketoconazole,MostDILI Drugs,7.0,-2.231550107,BSK_SAg_CD40_down_Row57,22.62085075,CD40,CD40
+592,nitrofurantoin,MostDILI Drugs,6.0,-3.401952482,BSK_SAg_CD40_down_Row57,26.41171489,CD40,CD40
+594,colchicine,AmbiDILIDrugs,0.0163,-1.884277485,BSK_SAg_CD69_down_Row120,0.047013723,CD69,CD69
+595,fenofibrate,LessDILIDrugs,4.1016,-2.133524668,BSK_SAg_CD69_down_Row120,12.85246478,CD69,CD69
+596,disulfiram,MostDILI Drugs,5.4,-2.128516526,BSK_SAg_CD69_down_Row120,16.89398924,CD69,CD69
+597,ketoconazole,MostDILI Drugs,7.0,-2.112088719,BSK_SAg_CD69_down_Row120,21.78462103,CD69,CD69
+599,ketoconazole,MostDILI Drugs,7.0,-3.8650279660000004,BSK_SAg_Eselectin_down_Row145,34.05519576,E-selectin,SELE
+600,nitrofurantoin,MostDILI Drugs,6.0,-0.406343048,BSK_SAg_Eselectin_down_Row145,8.438058287,E-selectin,SELE
+601,progesterone,LessDILIDrugs,0.1927,-2.1514418159999997,BSK_SAg_Eselectin_up_Row324,0.6072828379999999,E-selectin,SELE
+602,simvastatin,LessDILIDrugs,0.0824,0.860363677,BSK_SAg_Eselectin_up_Row324,0.011506033,E-selectin,SELE
+603,fenofibrate,LessDILIDrugs,4.1016,-2.212405566,BSK_SAg_IL8_down_Row153,13.17600267,IL8,IL8
+604,ketoconazole,MostDILI Drugs,7.0,-1.650064796,BSK_SAg_IL8_down_Row153,18.55045357,IL8,IL8
+605,oxytetracycline,AmbiDILIDrugs,3.2578,-1.099616567,BSK_SAg_IL8_up_Row322,6.840130853,IL8,IL8
+606,simvastatin,LessDILIDrugs,0.0824,0.517390874,BSK_SAg_IL8_up_Row322,0.039766992,IL8,IL8
+607,fenofibrate,LessDILIDrugs,4.1016,-2.025705183,BSK_SAg_MCP1_down_Row114,12.41023238,chemotactic factor,CCL2
+608,disulfiram,MostDILI Drugs,5.4,-3.3213856980000003,BSK_SAg_MCP1_down_Row114,23.33548277,chemotactic factor,CCL2
+609,ketoconazole,MostDILI Drugs,7.0,-2.310835493,BSK_SAg_MCP1_down_Row114,23.17584845,chemotactic factor,CCL2
+612,disulfiram,MostDILI Drugs,5.4,-2.17167753,BSK_SAg_PBMCCytotoxicity_down_Row116,17.12705866,cytotoxicity,cytotoxicity
+614,isoniazid,MostDILI Drugs,76.5635,0.9207728470000001,BSK_SAg_PBMCCytotoxicity_up_Row527,6.065908141,cytotoxicity,cytotoxicity
+615,nitrofurantoin,MostDILI Drugs,6.0,-0.351098697,BSK_SAg_PBMCCytotoxicity_up_Row527,8.106592183,cytotoxicity,cytotoxicity
+616,colchicine,AmbiDILIDrugs,0.0163,0.38650306700000003,BSK_SAg_Proliferation_down_Row54,0.01,proliferation,prlfrn
+617,fenofibrate,LessDILIDrugs,4.1016,-2.3808777919999997,BSK_SAg_Proliferation_down_Row54,13.86700835,proliferation,prlfrn
+618,ketoconazole,MostDILI Drugs,7.0,-1.712216709,BSK_SAg_Proliferation_down_Row54,18.98551696,proliferation,prlfrn
+619,methotrexate,MostDILI Drugs,0.7724,-3.990295407,BSK_SAg_Proliferation_down_Row54,3.854504172,proliferation,prlfrn
+620,nitrofurantoin,MostDILI Drugs,6.0,-0.18440810300000002,BSK_SAg_Proliferation_down_Row54,7.106448615,proliferation,prlfrn
+622,disulfiram,MostDILI Drugs,5.4,0.095846381,BSK_SAg_Proliferation_down_Row54,4.88242954,proliferation,prlfrn
+623,cladribine,AmbiDILIDrugs,0.0227,-1.334896388,BSK_SAg_Proliferation_down_Row54,0.053002148,proliferaton,prlfrn
+624,fenofibrate,LessDILIDrugs,4.1016,-2.003414904,BSK_SAg_SRB_down_Row115,12.31880657,cytotoxicity,srb
+625,disulfiram,MostDILI Drugs,5.4,-3.4076975739999997,BSK_SAg_SRB_down_Row115,23.8015669,cytotoxicity,srb
+626,ketoconazole,MostDILI Drugs,7.0,-1.898373516,BSK_SAg_SRB_down_Row115,20.28861461,cytotoxicity,srb
+628,clotrimazole,LessDILIDrugs,0.087,-0.6777608740000001,CEETOX_H295R_11DCORT_dn_Row306,0.145965196,steroidogenesis,cortisol
+629,simvastatin,LessDILIDrugs,0.0824,-3.0257896360000003,CEETOX_H295R_11DCORT_dn_Row306,0.331725066,steroidogenesis,cortisol
+630,ketoconazole,MostDILI Drugs,7.0,0.87684134,CEETOX_H295R_11DCORT_dn_Row306,0.862110623,steroidogenesis,cortisol
+631,tamoxifen,MostDILI Drugs,0.1712,0.495808808,CEETOX_H295R_11DCORT_dn_Row306,0.08631753199999999,steroidogenesis,cortisol
+632,clotrimazole,LessDILIDrugs,0.087,-1.285276253,CEETOX_H295R_ANDR_dn_Row304,0.19881903399999998,steroidogenesis,androstenedione
+633,disulfiram,MostDILI Drugs,5.4,-0.303167026,CEETOX_H295R_ANDR_dn_Row304,7.037101941,steroidogenesis,androstenedione
+634,ketoconazole,MostDILI Drugs,7.0,0.854002312,CEETOX_H295R_ANDR_dn_Row304,1.021983813,steroidogenesis,androstenedione
+635,clotrimazole,LessDILIDrugs,0.087,0.467973805,CEETOX_H295R_CORTISOL_dn_Row307,0.04628627900000001,steroidogenesis,cortisol
+636,ketoconazole,MostDILI Drugs,7.0,0.857206192,CEETOX_H295R_CORTISOL_dn_Row307,0.999556653,steroidogenesis,cortisol
+637,clotrimazole,LessDILIDrugs,0.087,0.699435483,CEETOX_H295R_DOC_dn_Row301,0.026149112999999998,steroidogenesis,deoxycorticosterone
+638,dapsone,LessDILIDrugs,6.0007,-3.715957593,CEETOX_H295R_DOC_dn_Row301,28.29904673,steroidogenesis,deoxycorticosterone
+639,tamoxifen,MostDILI Drugs,0.1712,0.549005759,CEETOX_H295R_DOC_dn_Row301,0.077210214,steroidogenesis,deoxycorticosterone
+640,ketoconazole,MostDILI Drugs,7.0,0.8916873670000001,CEETOX_H295R_DOC_up_Row603,0.7581884320000001,steroidogenesis,deoxycorticosterone
+641,clotrimazole,LessDILIDrugs,0.087,-1.10111354,CEETOX_H295R_ESTRADIOL_dn_Row604,0.182796878,steroidogenesis,estradiol
+642,clotrimazole,LessDILIDrugs,0.087,-3.2878293910000003,CEETOX_H295R_ESTRONE_dn_Row606,0.373041157,steroidogenesis,estrogen
+643,ketoconazole,MostDILI Drugs,7.0,0.8735581259999999,CEETOX_H295R_ESTRONE_dn_Row606,0.885093117,steroidogenesis,estrogen
+644,danazol,MostDILI Drugs,0.1092,-3.6036914010000003,CEETOX_H295R_OHPREG_up_Row609,0.5027231010000001,steroidogenesis,hydroxypregnenelone
+645,clotrimazole,LessDILIDrugs,0.087,-0.072384437,CEETOX_H295R_OHPROG_dn_Row303,0.09329744599999999,steroidogenesis,hydroxyprogesterone
+646,finasteride,LessDILIDrugs,0.2499,-3.5104862060000004,CEETOX_H295R_OHPROG_dn_Row303,1.1271705029999999,steroidogenesis,hydroxyprogesterone
+647,ketoconazole,MostDILI Drugs,7.0,0.9075898590000001,CEETOX_H295R_OHPROG_dn_Row303,0.646870986,steroidogenesis,hydroxyprogesterone
+648,tamoxifen,MostDILI Drugs,0.1712,0.972619848,CEETOX_H295R_OHPROG_up_Row610,0.004687482,steroidogenesis,hydroxyprogesterone
+649,dapsone,LessDILIDrugs,6.0007,-3.328570942,CEETOX_H295R_OHPROG_up_Row610,25.97445565,steroidogenesis,hydroxyprogesterone
+650,clotrimazole,LessDILIDrugs,0.087,-1.013398609,CEETOX_H295R_TESTO_dn_Row305,0.175165679,steroidogenesis,testosterone
+651,danazol,MostDILI Drugs,0.1092,-1.343922784,CEETOX_H295R_TESTO_dn_Row305,0.255956368,steroidogenesis,testosterone
+652,ketoconazole,MostDILI Drugs,7.0,0.954702699,CEETOX_H295R_TESTO_dn_Row305,0.317081108,steroidogenesis,testosterone
+653,tetracycline,LessDILIDrugs,27.8172,0.28796628399999996,matrix metalloproteinase 9_down_Row46,19.80678429,matrix metalloproteinase 9,MMP9
+654,disulfiram,MostDILI Drugs,5.4,-0.9908250279999999,matrix metalloproteinase 9_down_Row46,10.75045515,matrix metalloproteinase 9,MMP9
+655,griseofulvin,MostDILI Drugs,4.5356,0.325629245,matrix metalloproteinase 9_down_Row46,3.0586759960000003,matrix metalloproteinase 9,MMP9
+656,ketoconazole,MostDILI Drugs,7.0,-1.080741516,matrix metalloproteinase 9_down_Row46,14.56519061,matrix metalloproteinase 9,MMP9
+658,sulfasalazine,MostDILI Drugs,15.0603,0.46356007299999996,matrix metalloproteinase 9_Row558,8.078946228,matrix metalloproteinase 9,MMP9
+659,azathioprine,MostDILI Drugs,0.34,-3.071441021,NCCT_HEK293T_CellTiterGLO_Row88,1.3842899469999999,proliferation,prlfrn
+660,ketoconazole,MostDILI Drugs,7.0,0.819392335,NCCT_HEK293T_CellTiterGLO_Row88,1.264253655,proliferation,prlfrn
+661,methotrexate,MostDILI Drugs,0.7724,0.928201814,NCCT_HEK293T_CellTiterGLO_Row88,0.055456919,proliferation,prlfrn
+663,tolazamide,LessDILIDrugs,90.0,0.217601905,NCCT_QuantiLum_inhib_dn_Row182,70.41582855,oxidoreductase,oxidoreductase
+664,ketoconazole,MostDILI Drugs,7.0,-2.252956759,NCCT_QuantiLum_inhib_dn_Row182,22.77069731,oxidoreductase,oxidoreductase
+665,dapsone,LessDILIDrugs,6.0007,-0.041680089,NCCT_TPO_AUR_dn_Row14,6.250809712000001,oxidoreductase,oxidoreductase
+666,tetracycline,LessDILIDrugs,27.8172,0.5918906110000001,NCCT_TPO_AUR_dn_Row14,11.3524605,oxidoreductase,oxidoreductase
+667,tolazamide,LessDILIDrugs,90.0,0.903271495,NCCT_TPO_AUR_dn_Row14,8.705565426,oxidoreductase,oxidoreductase
+668,hydroxyurea,MostDILI Drugs,348.4321,0.9371812359999999,NCCT_TPO_AUR_dn_Row14,21.88807385,oxidoreductase,oxidoreductase
+669,isoniazid,MostDILI Drugs,76.5635,0.979487652,NCCT_TPO_AUR_dn_Row14,1.570497183,oxidoreductase,oxidoreductase
+670,ketoconazole,MostDILI Drugs,7.0,-2.777105647,NCCT_TPO_AUR_dn_Row14,26.43973953,oxidoreductase,oxidoreductase
+671,methimazole,MostDILI Drugs,2.6189,0.977211918,NCCT_TPO_AUR_dn_Row14,0.059679709000000004,oxidoreductase,oxidoreductase
+673,tetracycline,LessDILIDrugs,27.8172,-3.5291679719999998,NCCT_TPO_GUA_dn_Row1315,125.9887713,oxidoreductase,oxidoreductase
+674,isoniazid,MostDILI Drugs,76.5635,0.7717428359999999,NCCT_TPO_GUA_dn_Row1315,17.47616738,oxidoreductase,oxidoreductase
+675,clofibrate,LessDILIDrugs,407.911,0.9922206640000001,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13,3.173276678,ZF_TERATOSCORE,zf_teratoscore
+676,celecoxib,LessDILIDrugs,1.8328,-3.755713531,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13,8.716271759,ZF_TERATOSCORE,zf_teratoscore
+677,fenofibrate,LessDILIDrugs,4.1016,0.626109403,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13,1.5335496730000002,ZF_TERATOSCORE,zf_teratoscore
+678,lovastatin,LessDILIDrugs,0.0492,0.891304045,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13,0.005347841,ZF_TERATOSCORE,zf_teratoscore
+679,simvastatin,LessDILIDrugs,0.0824,0.963751905,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13,0.002986843,ZF_TERATOSCORE,zf_teratoscore
+680,disulfiram,MostDILI Drugs,5.4,0.9628711740000001,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13,0.20049566,ZF_TERATOSCORE,zf_teratoscore
+681,ketoconazole,MostDILI Drugs,7.0,-0.7677657459999999,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13,12.37436022,ZF_TERATOSCORE,zf_teratoscore
+682,nilutamide,MostDILI Drugs,7.2504,-1.062419935,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13,14.9533695,ZF_TERATOSCORE,zf_teratoscore
+684,valproic acid,MostDILI Drugs,540.0,0.853988902,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13,78.84599291,ZF_TERATOSCORE,zf_teratoscore
+685,letrozole,LessDILIDrugs,0.13,0.9798542309999999,NVS_ADME_hCYP19A1_Row777,0.00261895,CYP19A1,CYP19A1
+686,disulfiram,MostDILI Drugs,5.4,-0.209203585,NVS_ADME_hCYP19A1_Row777,6.529699357,CYP19A1,CYP19A1
+687,gemfibrozil,MostDILI Drugs,360.6753,0.962892761,NVS_ADME_hCYP19A1_Row777,13.38366438,CYP19A1,CYP19A1
+688,disulfiram,MostDILI Drugs,5.4,0.798321697,NVS_ADME_hCYP1A2_Row542,1.0890628340000001,CYP1A2,CYP1A2
+689,nilutamide,MostDILI Drugs,7.2504,0.33612824700000005,NVS_ADME_hCYP1A2_Row542,4.813335759,CYP1A2,CYP1A2
+690,nitrofurantoin,MostDILI Drugs,6.0,-0.35650095200000004,NVS_ADME_hCYP1A2_Row542,8.139005713,CYP1A2,CYP1A2
+691,disulfiram,MostDILI Drugs,5.4,0.936857814,NVS_ADME_hCYP2B6_Row783,0.34096780200000004,CYP2B6,CYP2B6
+692,nilutamide,MostDILI Drugs,7.2504,0.099356129,NVS_ADME_hCYP2B6_Row783,6.5300283210000005,CYP2B6,CYP2B6
+693,fenofibrate,LessDILIDrugs,4.1016,-0.406050291,NVS_ADME_hCYP2C19_Row544,5.767055872999999,CYP2C19,CYP2C19
+694,disulfiram,MostDILI Drugs,5.4,0.774608344,NVS_ADME_hCYP2C19_Row544,1.217114941,CYP2C19,CYP2C19
+695,fluconazole,MostDILI Drugs,8.8156,0.8400591709999999,NVS_ADME_hCYP2C19_Row544,1.409974371,CYP2C19,CYP2C19
+696,isoniazid,MostDILI Drugs,76.5635,0.979422995,NVS_ADME_hCYP2C19_Row544,1.5754475330000002,CYP2C19,CYP2C19
+697,nilutamide,MostDILI Drugs,7.2504,0.6333881339999999,NVS_ADME_hCYP2C19_Row544,2.658082671,CYP2C19,CYP2C19
+698,valproic acid,MostDILI Drugs,540.0,0.980772223,NVS_ADME_hCYP2C19_Row544,10.38299965,CYP2C19,CYP2C19
+699,celecoxib,LessDILIDrugs,1.8328,-2.326139972,NVS_ADME_hCYP2C9_Row546,6.096149341,CyP2C9,CyP2C9
+700,fenofibrate,LessDILIDrugs,4.1016,-0.6198508420000001,NVS_ADME_hCYP2C9_Row546,6.643980213,CYP2C9,CYP2C9
+701,disulfiram,MostDILI Drugs,5.4,0.524164993,NVS_ADME_hCYP2C9_Row546,2.56950904,CYP2C9,CYP2C9
+702,nilutamide,MostDILI Drugs,7.2504,-0.232745845,NVS_ADME_hCYP2C9_Row546,8.937900474,CYP2C9,CYP2C9
+703,nitrofurantoin,MostDILI Drugs,6.0,0.10783342300000001,NVS_ADME_hCYP2D6_Row548,5.352999464,CYP2D6,CYP2D6
+704,indomethacin,MostDILI Drugs,5.5899,-0.698554034,NVS_ADME_hCYP3A4_Row550,9.494747196,CYP3A4,CYP3A4
+705,isoniazid,MostDILI Drugs,76.5635,0.9781629909999999,NVS_ADME_hCYP3A4_Row550,1.6719178019999998,CYP3A4,CYP3A4
+706,clotrimazole,LessDILIDrugs,0.087,0.619542069,NVS_ADME_hCYP3A4_Row550,0.03309984,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+707,hydroxyurea,MostDILI Drugs,348.4321,0.9378609809999999,NVS_ENZ_hAKT1_Row791,21.65122879,AKT1,AKT1
+708,valproic acid,MostDILI Drugs,540.0,0.99408475,NVS_ENZ_hAKT2_Row793,3.194234924,AKT2,AKT2
+709,tetracycline,LessDILIDrugs,27.8172,0.5396793679999999,NVS_ENZ_hCASP5_Row809,12.80483108,cysteine protease,CASP5
+710,aspirin,LessDILIDrugs,5.5229,-0.51718543,NVS_ENZ_hCSF1R_Row817,8.37926341,colony stimulating factor,CSF1
+711,tetracycline,LessDILIDrugs,27.8172,0.65251891,NVS_ENZ_hDUSP3_Row554,9.665950963,dual-specific phosphatase,DUSP3
+712,sulfasalazine,MostDILI Drugs,15.0603,0.33942535799999995,NVS_ENZ_hDUSP3_Row554,9.948452288,dual-specific phosphatase,DUSP3
+713,sulfasalazine,MostDILI Drugs,15.0603,0.6788890120000001,NVS_ENZ_hEGFR_Row819,4.8360278139999995,epidermal growth factor,EGF
+714,tetracycline,LessDILIDrugs,27.8172,0.12308632300000001,NVS_ENZ_hElastase_Row823,24.39328313,serine protease,ELA2
+715,oxytetracycline,AmbiDILIDrugs,3.2578,-1.572029331,NVS_ENZ_hEphA2_Row825,8.379157153,EPH receptor A1,EPHA2
+716,oxytetracycline,AmbiDILIDrugs,3.2578,-1.3768804630000002,NVS_ENZ_hFGFR1_Row829,7.743401171,fibroblast growth factor receptor,FGFR1
+717,tetracycline,LessDILIDrugs,27.8172,-0.017737949,NVS_ENZ_hGSK3b_Row833,28.31062007,glycogen synthase kinase 3,NR3C1
+718,valproic acid,MostDILI Drugs,540.0,0.997952081,NVS_ENZ_hHDAC3_Activator_Row836,1.105876039,HDAC3,HDAC3
+719,tolazamide,LessDILIDrugs,90.0,0.8831257,NVS_ENZ_hMMP1_Row44,10.51868698,matrix metalloproteinase 1,MMP1
+721,sulfasalazine,MostDILI Drugs,15.0603,-0.149347609,NVS_ENZ_hMMP13_Row857,17.3095198,matrix metalloproteinase 13,MMP13
+723,oxytetracycline,AmbiDILIDrugs,3.2578,-2.4475250809999998,NVS_ENZ_hPAK4_Row871,11.23134721,p21 activated kinase 4,PAK4
+724,sulfasalazine,MostDILI Drugs,15.0603,0.630977319,NVS_ENZ_hPDE10_Row560,5.557592282000001,phosphodiesterase,PDE10A
+725,caffeine,NoDILI Drugs,42.0,0.5174941129999999,NVS_ENZ_hPDE10_Row560,20.26524724,phosphodiesterase,PDE10A
+726,theophylline,NoDILI Drugs,85.0,0.56336683,NVS_ENZ_hPDE10_Row560,37.11381945,phosphodiesterase,PDE10A
+727,caffeine,NoDILI Drugs,42.0,0.257244049,NVS_ENZ_hPDE4A1_Row873,31.19574993,phosphodiesterase,PDE4A
+728,sulfasalazine,MostDILI Drugs,15.0603,-0.341904304,NVS_ENZ_hPDE5_Row875,20.20948139,phosphodiesterase,PDE5A
+729,oxytetracycline,AmbiDILIDrugs,3.2578,0.18706005899999997,NVS_ENZ_hPTEN_Row564,2.648395741,PTEN,PTEN
+730,valproic acid,MostDILI Drugs,540.0,0.999697486,NVS_ENZ_hPTEN_Row564,0.16335737,PTEN,PTEN
+731,sulfasalazine,MostDILI Drugs,15.0603,0.999892958,NVS_ENZ_hPTPN1_Row885,0.001612081,protein tyrosine phosphatase N1,PTPN1
+732,oxytetracycline,AmbiDILIDrugs,3.2578,-0.10793032400000001,NVS_ENZ_hPTPN11_Row886,3.609415409,protein tyrosine phosphatase N11,PTPN11
+733,oxytetracycline,AmbiDILIDrugs,3.2578,0.294178469,NVS_ENZ_hPTPN12_Row888,2.299425384,protein tyrosine phosphatase N12,PTPN12
+734,clofibrate,LessDILIDrugs,407.911,0.999904027,NVS_ENZ_hPTPN12_Row888,0.039148283,protein tyrosine phosphatase N12,PTPN12
+735,valproic acid,MostDILI Drugs,540.0,0.9972218559999999,NVS_ENZ_hPTPN13_Row890,1.50019783,protein tyrosine phosphatase N13,PTPN13
+736,clofibrate,LessDILIDrugs,407.911,0.9986855640000001,NVS_ENZ_hPTPN2_Row895,0.5361729820000001,protein tyrosine phosphatase N2,PTPN2
+737,valproic acid,MostDILI Drugs,540.0,0.999667089,NVS_ENZ_hPTPN4_Activator_Row898,0.179772128,protein tyrosine phosphatase N4,PTPN4
+738,sulfasalazine,MostDILI Drugs,15.0603,0.989947833,NVS_ENZ_hPTPN4_Row897,0.151388654,protein tyrosine phosphatase N14,PTPN14
+739,tetracycline,LessDILIDrugs,27.8172,0.412557326,NVS_ENZ_hPTPN6_Activator_Row900,16.34101035,protein tyrosine phosphatase N6,PTPN6
+740,tetracycline,LessDILIDrugs,27.8172,0.17472612,NVS_ENZ_hPTPN6_Row899,22.95680857,protein tyrosine phosphatase N6,PTPN6
+741,oxytetracycline,AmbiDILIDrugs,3.2578,-2.878900893,NVS_ENZ_hPTPRB_Row903,12.63668333,"protein tyrosine phosphatase, receptor type B",PTPRB
+742,tetracycline,LessDILIDrugs,27.8172,0.688162727,NVS_ENZ_hPTPRC_Row905,8.674439801,receptor tyrosine phosphatase,PTPRC
+743,clofibrate,LessDILIDrugs,407.911,0.9981284690000001,NVS_ENZ_hPTPRF_Activator_Row908,0.763417903,"protein tyrosine phosphatase, receptor type F",PTPRF
+744,fenofibrate,LessDILIDrugs,4.1016,-1.477736581,NVS_ENZ_hSIRT3_Row919,10.16268436,sirtuin 3,SIRT3
+745,oxytetracycline,AmbiDILIDrugs,3.2578,-1.97333341,NVS_ENZ_hTie2_Row923,9.686525583,angiopoietin 1 receptor,TIE2
+746,sulfasalazine,MostDILI Drugs,15.0603,0.855823274,NVS_ENZ_hTrkA_Activator_Row926,2.17134475,receptor tyrosine kinase,NTRK1
+747,oxytetracycline,AmbiDILIDrugs,3.2578,0.70502701,NVS_ENZ_hVEGFR3_Row929,0.960963008,epidermal growth factor,EGF
+748,oxytetracycline,AmbiDILIDrugs,3.2578,-3.7743910119999997,NVS_ENZ_oCOX1_Row568,15.55401104,cyclooxygenase 1,PTGS1
+749,clofibrate,LessDILIDrugs,407.911,0.996741325,NVS_ENZ_oCOX1_Row568,1.329249418,cyclooxygenase 1,PTGS1
+750,indomethacin,MostDILI Drugs,5.5899,0.987870335,NVS_ENZ_oCOX1_Row568,0.067803614,cyclooxygenase 1,PTGS1
+751,methotrexate,MostDILI Drugs,0.7724,-1.8987927009999999,NVS_ENZ_oCOX1_Row568,2.239027482,cyclooxygenase 1,PTGS1
+752,nitrofurantoin,MostDILI Drugs,6.0,-2.480056915,NVS_ENZ_oCOX1_Row568,20.88034149,cyclooxygenase 1,PTGS1
+753,celecoxib,LessDILIDrugs,1.8328,0.918961413,NVS_ENZ_oCOX2_Row931,0.148527523,cyclooxygenase 2,COX2
+754,clofibrate,LessDILIDrugs,407.911,0.97851585,NVS_ENZ_oCOX2_Row931,8.763620937,cyclooxygenase 2,COX2
+755,tetracycline,LessDILIDrugs,27.8172,0.498267284,NVS_ENZ_oCOX2_Row931,13.95679931,cyclooxygenase 2,COX2
+756,pyrimethamine,LessDILIDrugs,3.2889,-0.14253058400000002,NVS_ENZ_rabI2C_Row944,3.757668839,imidazoline receptor,NISCH
+757,disulfiram,MostDILI Drugs,5.4,-0.378969967,NVS_ENZ_rACFSKBinding_Row933,7.446437824,adenylate cyclase,ADCY5
+758,nitrofurantoin,MostDILI Drugs,6.0,-2.256314212,NVS_ENZ_rCNOS_Row935,19.53788527,nitric oxide synthase,NOS1
+759,tetracycline,LessDILIDrugs,27.8172,0.89241283,NVS_ENZ_rCOMT_Row937,2.9927738230000003,o-methyl transferase,COMT
+761,ketoconazole,MostDILI Drugs,7.0,-0.039927787,NVS_ENZ_sirtuin 2_Row917,7.279494509,sirtuin 2,SIRT2
+762,nilutamide,MostDILI Drugs,7.2504,-0.37157429999999997,NVS_GPCR_bAdoR_NonSelective_Row947,9.944462308,rhodopsin like receptor,ADRA1A
+763,caffeine,NoDILI Drugs,42.0,0.602915663,NVS_GPCR_bAdoR_NonSelective_Row947,16.67754216,rhodopsin like receptor,ADRA1A
+764,theophylline,NoDILI Drugs,85.0,0.798238364,NVS_GPCR_bAdoR_NonSelective_Row947,17.14973906,rhodopsin like receptor,ADRA1A
+765,haloperidol,LessDILIDrugs,0.053,0.80145783,NVS_GPCR_bDR_NonSelective_Row948,0.010522735,rhodopsin like receptor,DRD1
+766,disulfiram,MostDILI Drugs,5.4,-3.3437931130000003,NVS_GPCR_g5HT4_Row951,23.45648281,5HT4 receptor,HTR4
+767,pyrimethamine,LessDILIDrugs,3.2889,-0.63728517,NVS_GPCR_g5HT4_Row951,5.384867194,rhodopsin like receptor,HTR4
+768,pyrimethamine,LessDILIDrugs,3.2889,-1.046591751,NVS_GPCR_gH2_Row954,6.731035609,rhodopsin like receptor,HRH2
+769,disulfiram,MostDILI Drugs,5.4,0.780976052,NVS_GPCR_gLTD4_Row955,1.182729317,leukotriene receptor,CYSLTR1
+770,disulfiram,MostDILI Drugs,5.4,-2.0203079440000002,NVS_GPCR_gOpiateK_Row573,16.309662900000003,GPCR,OPRK1
+771,pyrimethamine,LessDILIDrugs,3.2889,-1.027184939,NVS_GPCR_h5HT2A_Row957,6.667208546,rhodopsin like receptor,HTR2A
+772,dapsone,LessDILIDrugs,6.0007,0.6758712990000001,NVS_GPCR_h5HT6_Row959,1.944999095,5HT6 receptor,HTR6
+773,disulfiram,MostDILI Drugs,5.4,-0.7350795309999999,NVS_GPCR_h5HT6_Row959,9.369429465,5HT6 receptor,HTR6
+774,pyrimethamine,LessDILIDrugs,3.2889,-0.7896459929999999,NVS_GPCR_h5HT7_Row960,5.885966707000001,HTR7 (serotonin receptor),HTR7 
+775,disulfiram,MostDILI Drugs,5.4,-1.963344791,NVS_GPCR_h5HT7_Row960,16.00206187,HTR7 (serotonin receptor),HTR7
+776,carbamazepine,MostDILI Drugs,25.8176,0.7154624759999999,NVS_GPCR_hAdoRA1_Row574,7.346075972,rhodopsin like receptor,ADORA1
+777,caffeine,NoDILI Drugs,42.0,0.932849997,NVS_GPCR_hAdoRA1_Row574,2.820300122,rhodopsin like receptor,ADORA1
+778,theophylline,NoDILI Drugs,85.0,0.868277069,NVS_GPCR_hAdoRA1_Row574,11.196449099999999,rhodopsin like receptor,ADORA1
+779,caffeine,NoDILI Drugs,42.0,0.864354244,NVS_GPCR_hAdoRA2a_Row575,5.697121762999999,rhodopsin like receptor,ADORA2A
+780,theophylline,NoDILI Drugs,85.0,0.921910989,NVS_GPCR_hAdoRA2a_Row575,6.637565924,rhodopsin like receptor,ADORA2
+781,pyrimethamine,LessDILIDrugs,3.2889,-1.043989601,NVS_GPCR_hAdra2A_Row962,6.722477399,rhodopsin like receptor,ADRA2A
+782,disulfiram,MostDILI Drugs,5.4,0.50066194,NVS_GPCR_hAdrb1_Row964,2.696425525,Adrb1,ADRB1
+783,haloperidol,LessDILIDrugs,0.053,0.7310628109999999,NVS_GPCR_hDRD1_Row576,0.014253671,rhodopsin like receptor,DRD1
+784,pyrimethamine,LessDILIDrugs,3.2889,-1.116383659,NVS_GPCR_hDRD1_Row576,6.960574215,rhodopsin like receptor,DRD1
+785,disulfiram,MostDILI Drugs,5.4,0.34302020899999996,NVS_GPCR_hDRD1_Row576,3.5476908739999997,rhodopsin like receptor,DRD1
+786,haloperidol,LessDILIDrugs,0.053,0.9929433959999999,NVS_GPCR_hDRD2s_Row968,0.00037400000000000004,rhodopsin like receptor,DRD2
+787,haloperidol,LessDILIDrugs,0.053,0.943305849,NVS_GPCR_hDRD4.4_Row969,0.00300479,rhodopsin like receptor,DRD4
+788,pyrimethamine,LessDILIDrugs,3.2889,-0.97169475,NVS_GPCR_hDRD4.4_Row969,6.4847068629999995,rhodopsin like receptor,DRD4
+789,tetracycline,LessDILIDrugs,27.8172,0.18119347600000002,NVS_GPCR_hNK2_Row578,22.77690485,rhodopsin like receptor,TACR2
+790,disulfiram,MostDILI Drugs,5.4,0.7477561079999999,NVS_GPCR_hNK2_Row578,1.3621170169999999,rhodopsin like receptor,TACR2
+791,isoniazid,MostDILI Drugs,76.5635,0.972507455,NVS_GPCR_hNK2_Row578,2.104925506,rhodopsin like receptor,TACR2
+792,methotrexate,MostDILI Drugs,0.7724,-2.240325265,NVS_GPCR_hNK2_Row578,2.502827235,rhodopsin like receptor,TACR2
+793,aspirin,LessDILIDrugs,5.5229,-2.248698421,NVS_GPCR_hNPY1_Row978,17.94223651,neuropeptide Y receptor; GPCR,NPY1R
+794,disulfiram,MostDILI Drugs,5.4,-3.34567522,NVS_GPCR_hNPY1_Row978,23.46664619,neuropeptide Y receptor; GPCR,NPY1R
+795,clotrimazole,LessDILIDrugs,0.087,-1.0785407470000001,NVS_GPCR_hOpiate_mu_Row579,0.180833045,GPCR,OPRM1
+796,disulfiram,MostDILI Drugs,5.4,-2.1737748519999998,NVS_GPCR_hORL1_Row981,17.1383842,opioid receptor like 1,OPRL1
+797,sulfasalazine,MostDILI Drugs,15.0603,0.210612348,NVS_GPCR_hTXA2_Row580,11.88841485,rhodopsin like receptor,TBXA2R
+798,tetracycline,LessDILIDrugs,27.8172,-0.017527527,NVS_GPCR_mCCKAPeripheral_Row985,28.30476673,rhodopsin like receptor,CCKAR
+799,pyrimethamine,LessDILIDrugs,3.2889,-1.759881274,NVS_GPCR_p5HT2C_Row987,9.076973523,rhodopsin like receptor,HTR2C
+800,pyrimethamine,LessDILIDrugs,3.2889,-3.648596397,NVS_GPCR_r5HT_NonSelective_Row989,15.28876869,rhodopsin like receptor,HTR1A
+801,haloperidol,LessDILIDrugs,0.053,0.574687679,NVS_GPCR_rAdra1_NonSelective_Row992,0.022541553,rhodopsin like receptor,ADRA1A
+802,pyrimethamine,LessDILIDrugs,3.2889,-2.504056435,NVS_GPCR_rAdra1_NonSelective_Row992,11.52449121,rhodopsin like receptor,ADRA1A
+803,pyrimethamine,LessDILIDrugs,3.2889,-0.12524905,NVS_GPCR_rAdra1A_Row990,3.7008316010000004,rhodopsin like receptor,ADRA1A
+804,haloperidol,LessDILIDrugs,0.053,-0.13642320800000002,NVS_GPCR_rAdra1B_Row991,0.06023043,rhodopsin like receptor,ADRA1B
+805,pyrimethamine,LessDILIDrugs,3.2889,-0.609809367,NVS_GPCR_rAdra1B_Row991,5.294502026,rhodopsin like receptor,ADRA1B
+806,pyrimethamine,LessDILIDrugs,3.2889,-1.436588795,NVS_GPCR_rAdra2_NonSelective_Row581,8.013696889,rhodopsin like receptor,ADRA2B
+807,disulfiram,MostDILI Drugs,5.4,-2.7433499980000002,NVS_GPCR_rH3_Row998,20.21408999,histamine receptor H3,HRH3
+808,pyrimethamine,LessDILIDrugs,3.2889,-0.813723801,NVS_GPCR_rmAdra2B_Row1010,5.965156208,rhodopsin like receptor,ADRA2B
+809,dapsone,LessDILIDrugs,6.0007,-3.760585432,NVS_GPCR_rOpiate_NonSelectiveNa_Row1004,28.566845,opioid receptor mu1,OPRL1
+810,methotrexate,MostDILI Drugs,0.7724,-3.047861249,NVS_GPCR_rSST_Row1005,3.126568029,rhodopsin like receptor,SSTR1
+811,disulfiram,MostDILI Drugs,5.4,-2.806995883,NVS_GPCR_rV1_Row1007,20.55777777,arginine vasopressin receptor,AVPR1
+812,tamoxifen,MostDILI Drugs,0.1712,-1.30914323,NVS_IC_hKhERGCh_Row1013,0.395325321,potassium channel,KCNH2
+813,pyrimethamine,LessDILIDrugs,3.2889,-1.858427869,NVS_IC_rCaBTZCHL_Row582,9.401083417,calcium channel,CACNA1C
+814,tolazamide,LessDILIDrugs,90.0,0.957411971,NVS_IC_rKATPCh_Row1017,3.832922589,potassium channel,KCNJ11
+815,pyrimethamine,LessDILIDrugs,3.2889,-0.466335903,NVS_IC_rNaCh_site2_Row583,4.82263215,sodium channel,SCN1A
+816,pyrimethamine,LessDILIDrugs,3.2889,-1.741089753,NVS_LGIC_bGABAR_Agonist_Row1019,9.015170089,ligand-gated ion channel,GABRA1
+817,clofibrate,LessDILIDrugs,407.911,0.924830693,NVS_LGIC_bGABARa1_Row1020,30.66238737,ligand-gated ion channel,GABRA1
+818,stavudine,MostDILI Drugs,3.4627,-2.7622913939999996,NVS_LGIC_h5HT3_Row1022,13.02768641,ligand-gated ion channel,HTR3A
+819,pyrimethamine,LessDILIDrugs,3.2889,0.9804517840000001,NVS_LGIC_rGABAR_NonSelective_Row1025,0.064292127,ligand-gated ion channel,GABRA1
+820,carbamazepine,MostDILI Drugs,25.8176,0.80025789,NVS_LGIC_rGABAR_NonSelective_Row1025,5.156861897,ligand-gated ion channel,GABRA1
+821,pyrimethamine,LessDILIDrugs,3.2889,0.003027905,NVS_LGIC_rGlyRStrySens_Row1028,3.278941524,ligand-gated ion channel,GLRA1
+822,pyrimethamine,LessDILIDrugs,3.2889,-2.767814035,NVS_LGIC_rNNR_BungSens_Row585,12.39196358,ligand-gated ion channel,CHRNA7
+823,disulfiram,MostDILI Drugs,5.4,0.347055664,NVS_MP_hPBR_Row586,3.5258994169999998,peripheral-type benzodiazepine receptor ,TSPO
+824,flutamide,MostDILI Drugs,0.36200000000000004,-3.166189652,NVS_MP_hPBR_Row586,1.508160654,peripheral-type benzodiazepine receptor ,TSPO
+825,celecoxib,LessDILIDrugs,1.8328,-1.009105996,NVS_MP_rPBR_Row587,3.68228947,cholesterol transporter,TSPO
+826,dapsone,LessDILIDrugs,6.0007,0.40949467700000003,NVS_MP_rPBR_Row587,3.5434452939999996,cholesterol transporter,TSPO
+827,pyrimethamine,LessDILIDrugs,3.2889,-3.061138448,NVS_MP_rPBR_Row587,13.35667824,cholesterol transporter,TSPO
+828,disulfiram,MostDILI Drugs,5.4,0.948805001,NVS_MP_rPBR_Row587,0.276452992,cholesterol transporter,TSPO
+829,sulfasalazine,MostDILI Drugs,15.0603,0.956656272,NVS_MP_rPBR_Row587,0.652769546,cholesterol transporter,TSPO
+830,estrone,AmbiDILIDrugs,0.0218,0.0022306879999999998,NVS_NR_bER_Row617,0.021751371000000002,estrogen receptor,ESR1
+831,anastrozole,LessDILIDrugs,0.062,0.5292129839999999,NVS_NR_bER_Row617,0.029188795,estrogen receptor ,ESR1
+832,tamoxifen,MostDILI Drugs,0.1712,0.607434644,NVS_NR_bER_Row617,0.067207189,steroidal,ESR1
+833,norethindrone,AmbiDILIDrugs,0.0328,0.518138445,NVS_NR_bPR_Row1029,0.015805059,steroidal,PGR
+834,progesterone,LessDILIDrugs,0.1927,0.9819920390000001,NVS_NR_bPR_Row1029,0.003470134,steroidal,PGR
+835,spironolactone,LessDILIDrugs,0.12,0.744868325,NVS_NR_cAR_Row619,0.030615801,androgen receptor,AR
+836,norethindrone,AmbiDILIDrugs,0.0328,0.852859665,NVS_NR_cAR_Row619,0.004826203,steroidal,AR
+837,progesterone,LessDILIDrugs,0.1927,0.291172714,NVS_NR_cAR_Row619,0.136591018,steroidal,AR
+838,tetracycline,LessDILIDrugs,27.8172,0.004191665,NVS_NR_cAR_Row619,27.70059962,steroidal,AR
+839,bicalutamide,MostDILI Drugs,1.9704,0.750329881,NVS_NR_cAR_Row619,0.49195000299999997,steroidal,AR
+840,nilutamide,MostDILI Drugs,7.2504,0.848971302,NVS_NR_cAR_Row619,1.095018469,steroidal,AR
+841,sulfasalazine,MostDILI Drugs,15.0603,0.615827409,NVS_NR_cAR_Row619,5.785754477999999,steroidal,AR
+842,estrone,AmbiDILIDrugs,0.0218,-2.9530722480000002,NVS_NR_hAR_Row620,0.086176975,androgen receptor,AR
+843,norethindrone,AmbiDILIDrugs,0.0328,0.979969512,NVS_NR_hAR_Row620,0.000657,androgen receptor,AR
+844,progesterone,LessDILIDrugs,0.1927,0.9104973270000001,NVS_NR_hAR_Row620,0.017247165,androgen receptor,AR
+845,spironolactone,LessDILIDrugs,0.12,0.473291533,NVS_NR_hAR_Row620,0.063205016,androgen receptor,AR
+846,flutamide,MostDILI Drugs,0.36200000000000004,-0.133361481,NVS_NR_hAR_Row620,0.410276856,androgen receptor,AR
+847,nilutamide,MostDILI Drugs,7.2504,0.9992782579999999,NVS_NR_hAR_Row620,0.00523292,androgen receptor,AR
+848,sulfasalazine,MostDILI Drugs,15.0603,0.75895004,NVS_NR_hAR_Row620,3.6302847089999997,androgen receptor,AR
+849,tamoxifen,MostDILI Drugs,0.1712,-3.9098688669999997,NVS_NR_hAR_Row620,0.84056955,androgen receptor,AR
+850,cladribine,AmbiDILIDrugs,0.0227,0.991189427,NVS_NR_hCAR_Antagonist_Row1031,0.0002,non-steroidal,NR1I3
+851,disulfiram,MostDILI Drugs,5.4,0.999732655,NVS_NR_hCAR_Antagonist_Row1031,0.001443662,non-steroidal,NR1I3
+852,ketoconazole,MostDILI Drugs,7.0,-3.10503203,NVS_NR_hCAR_Antagonist_Row1031,28.73522421,non-steroidal,TNFRSF10B
+853,estrone,AmbiDILIDrugs,0.0218,0.929330275,NVS_NR_hER_Row588,0.0015405999999999998,estrogen receptor,ESR1
+854,tamoxifen,MostDILI Drugs,0.1712,0.7882421609999999,NVS_NR_hER_Row588,0.036252942,estrogen receptor,ESR1
+855,tolcapone,MostDILI Drugs,74.2928,0.5896427439999999,NVS_NR_hER_Row588,30.48658958,estrogen receptor,ESR1
+856,loratadine,NoDILI Drugs,0.0522,0.559735211,NVS_NR_hER_Row588,0.022981822000000002,estrogen receptor,ESR1
+857,bicalutamide,MostDILI Drugs,1.9704,-2.9425956060000003,NVS_NR_hER_Row588,7.768490382,estrogen receptor ,ESR1
+858,busulfan,MostDILI Drugs,0.2769,-2.33522546,NVS_NR_hER_Row588,0.92352393,estrogen receptor ,ESR1
+859,oxytetracycline,AmbiDILIDrugs,3.2578,-2.927093839,NVS_NR_hFXR_Agonist_Row1032,12.79368631,farnesoid x receptor,NR1H4
+860,fenofibrate,LessDILIDrugs,4.1016,0.993355888,NVS_NR_hFXR_Antagonist_Row1033,0.027251487999999997,farnesoid x receptor,NR1H4
+861,ketoconazole,MostDILI Drugs,7.0,-2.446887454,NVS_NR_hFXR_Antagonist_Row1033,24.12821218,farnesoid x receptor,NR1H4
+862,norethindrone,AmbiDILIDrugs,0.0328,-0.738832195,NVS_NR_hGR_Row589,0.057033695999999995,glucocorticoid receptor,NR3C1
+863,progesterone,LessDILIDrugs,0.1927,-1.069391816,NVS_NR_hGR_Row589,0.398771803,steroidal,NR3C1
+864,spironolactone,LessDILIDrugs,0.12,-0.209592508,NVS_NR_hGR_Row589,0.145151101,steroidal,NR3C1
+865,tetracycline,LessDILIDrugs,27.8172,0.122723175,NVS_NR_hGR_Row589,24.40338491,steroidal,NR3C1
+866,bicalutamide,MostDILI Drugs,1.9704,-0.504837274,NVS_NR_hGR_Row589,2.965131364,steroidal,NR3C1
+867,disulfiram,MostDILI Drugs,5.4,0.9998862959999999,NVS_NR_hPPARa_Row1034,0.000614,PPARa,PPARA
+869,sulfasalazine,MostDILI Drugs,15.0603,0.644791969,NVS_NR_hPPARg_Row95,5.349539513,PPARg,PPARG
+870,norethindrone,AmbiDILIDrugs,0.0328,0.704826189,NVS_NR_hPR_Row590,0.009681701,steroidal,PGR
+871,progesterone,LessDILIDrugs,0.1927,0.852057981,NVS_NR_hPR_Row590,0.028508427000000003,steroidal,PGR
+872,acetaminophen,MostDILI Drugs,132.3066,0.8914432290000001,NVS_NR_hPR_Row590,14.36277727,steroidal,PGR
+873,nilutamide,MostDILI Drugs,7.2504,-1.498881544,NVS_NR_hPR_Row590,18.11789075,steroidal,PGR
+874,sulfasalazine,MostDILI Drugs,15.0603,-0.73077238,NVS_NR_hPR_Row590,26.06595127,steroidal,PGR
+875,oxytetracycline,AmbiDILIDrugs,3.2578,0.357039961,NVS_NR_hPXR_Row1035,2.094635215,pregnane x receptor,NR1I2
+876,disulfiram,MostDILI Drugs,5.4,0.796805874,NVS_NR_hPXR_Row1035,1.097248279,pregnane x receptor,NR1I2
+877,oxytetracycline,AmbiDILIDrugs,3.2578,-1.447998427,NVS_NR_hRAR_Antagonist_Row1036,7.975089275,androgen receptor,AR
+878,estrone,AmbiDILIDrugs,0.0218,0.593693761,NVS_NR_mERa_Row618,0.008857476,estrogen receptor,ESR1
+879,ergocalciferol,NoDILI Drugs,0.05,0.1214761,NVS_NR_mERa_Row618,0.043926195,estrogen receptor,ESR1
+880,bicalutamide,MostDILI Drugs,1.9704,0.984573823,NVS_NR_mERa_Row618,0.030395738999999998,estrogen receptor ,ESR1
+881,ketoconazole,MostDILI Drugs,7.0,-2.186476624,NVS_NR_mERa_Row618,22.30533637,steroidal,ESR1
+882,tamoxifen,MostDILI Drugs,0.1712,0.41293304299999994,NVS_NR_mERa_Row618,0.100505863,steroidal,ESR1
+883,oxytetracycline,AmbiDILIDrugs,3.2578,-1.02195849,NVS_NR_rAR_Row591,6.58713637,androgen receptor,AR
+884,progesterone,LessDILIDrugs,0.1927,0.201567379,NVS_NR_rAR_Row591,0.15385796599999998,androgen receptor,AR
+885,spironolactone,LessDILIDrugs,0.12,-1.254539667,NVS_NR_rAR_Row591,0.27054476,androgen receptor,AR
+886,tetracycline,LessDILIDrugs,27.8172,0.29665774899999997,NVS_NR_rAR_Row591,19.56501207,androgen receptor,AR
+887,bicalutamide,MostDILI Drugs,1.9704,0.328714203,NVS_NR_rAR_Row591,1.3227015340000001,androgen receptor,AR
+888,nilutamide,MostDILI Drugs,7.2504,-1.6616207040000002,NVS_NR_rAR_Row591,19.29781475,androgen receptor,AR
+889,norethindrone,AmbiDILIDrugs,0.0328,-2.505432134,NVS_NR_rAR_Row591,0.114978174,steroidal,AR
+890,prednisone,LessDILIDrugs,0.0684,-1.5523951319999998,NVS_NR_rMR_Row592,0.174583827,steroidal,NR3C2
+891,progesterone,LessDILIDrugs,0.1927,0.163944883,NVS_NR_rMR_Row592,0.16110782099999998,steroidal,NR3C2
+892,spironolactone,LessDILIDrugs,0.12,0.197152625,NVS_NR_rMR_Row592,0.096341685,steroidal,NR3C2
+893,haloperidol,LessDILIDrugs,0.053,0.962620623,NVS_OR_gSIGMA_NonSelective_Row140,0.001981107,chaperone,SIGMAR1
+894,pyrimethamine,LessDILIDrugs,3.2889,-0.175288995,NVS_OR_gSIGMA_NonSelective_Row140,3.865407977,chaperone,SIGMAR1
+895,disulfiram,MostDILI Drugs,5.4,-2.9986320589999997,NVS_OR_gSIGMA_NonSelective_Row140,21.59261312,chaperone,SIGMAR1
+896,tamoxifen,MostDILI Drugs,0.1712,-2.009967541,NVS_OR_gSIGMA_NonSelective_Row140,0.515306443,chaperone,SIGMAR1
+897,dapsone,LessDILIDrugs,6.0007,-2.204828,NVS_TR_DAT_Row593,19.23121138,dopamine active transporter,SLC6A3
+898,pyrimethamine,LessDILIDrugs,3.2889,0.6143695929999999,NVS_TR_DAT_Row593,1.268299844,neurotransmitter transporter,SLC6A3
+899,dapsone,LessDILIDrugs,6.0007,0.06414107,NVS_TR_DAT_Row594,5.615808684,dopamine active transporter,SLC6A3
+900,disulfiram,MostDILI Drugs,5.4,-1.4921873630000002,NVS_TR_DAT_Row594,13.45781176,dopamine transporter,SLC6A3
+901,fenofibrate,LessDILIDrugs,4.1016,-1.871970743,NVS_TR_DAT_Row594,11.7796752,neurotransmitter transporter,SLC6A3
+902,pyrimethamine,LessDILIDrugs,3.2889,0.771716033,NVS_TR_DAT_Row594,0.75080314,neurotransmitter transporter,SLC6A3
+903,indomethacin,MostDILI Drugs,5.5899,-0.8186109970000001,NVS_TR_DAT_Row594,10.16585361,neurotransmitter transporter,SLC6A3
+904,ketoconazole,MostDILI Drugs,7.0,-0.82631635,NVS_TR_DAT_Row594,12.78421445,neurotransmitter transporter,SLC6A3
+905,disulfiram,MostDILI Drugs,5.4,-2.60328107,NVS_TR_hAdoT_Row1040,19.45771778,AdoT,SLC29A1
+906,celecoxib,LessDILIDrugs,1.8328,-0.054046594,NVS_TR_hNET_Row595,1.931856597,norepinephrine transporter,SLC6A2
+907,pyrimethamine,LessDILIDrugs,3.2889,0.25304297600000003,NVS_TR_hNET_Row595,2.456666956,norepinephrine transporter,SLC6A2
+908,disulfiram,MostDILI Drugs,5.4,0.943503593,NVS_TR_hNET_Row595,0.305080599,norepinephrine transporter,SLC6A2
+909,ketoconazole,MostDILI Drugs,7.0,-0.575071491,NVS_TR_hNET_Row595,11.02550044,norepinephrine transporter,SLC6A2
+910,ketoconazole,MostDILI Drugs,7.0,0.845668269,NVS_TR_hSERT_Row1041,1.080322118,neurotransmitter transporter,SLC6A4
+911,erythromycin,MostDILI Drugs,11.0,0.41408937100000004,NVS_TR_rAdoT_Row1042,6.445016917999999,AdoT,SLC29A1
+912,pyrimethamine,LessDILIDrugs,3.2889,-1.893307831,NVS_TR_rNET_Row1043,9.515800124,neurotransmitter transporter,SLC6A2
+913,pyrimethamine,LessDILIDrugs,3.2889,-2.419233707,NVS_TR_rSERT_Row596,11.24551774,neurotransmitter transporter,SLC6A4
+914,estrone,AmbiDILIDrugs,0.0218,-0.445393394,OT_AR_ARELUC_AG_1440_Row1044,0.031509576,androgen receptor,AR
+915,progesterone,LessDILIDrugs,0.1927,-0.239336694,OT_AR_ARELUC_AG_1440_Row1044,0.23882018100000002,androgen receptor,AR
+916,ranitidine,LessDILIDrugs,1.7908,0.525535169,OT_AR_ARELUC_AG_1440_Row1044,0.8496716190000001,androgen receptor,AR
+917,spironolactone,LessDILIDrugs,0.12,0.918872725,OT_AR_ARELUC_AG_1440_Row1044,0.009735273000000001,androgen receptor,AR
+918,theophylline,NoDILI Drugs,85.0,0.9935795409999999,OT_AR_ARELUC_AG_1440_Row1044,0.545739023,androgen receptor,AR
+919,norethindrone,AmbiDILIDrugs,0.0328,0.999085366,OT_AR_ARELUC_AG_1440_Row1044,2.9999999999999997e-05,steroidal,AR
+920,norethindrone,AmbiDILIDrugs,0.0328,0.8016753659999999,OT_AR_ARSRC1_0480_Row1045,0.006505048,steroidal,AR
+921,progesterone,LessDILIDrugs,0.1927,0.612247494,OT_AR_ARSRC1_0480_Row1045,0.074719908,steroidal,AR
+922,spironolactone,LessDILIDrugs,0.12,0.461685842,OT_AR_ARSRC1_0480_Row1045,0.06459769900000001,steroidal,AR
+923,bicalutamide,MostDILI Drugs,1.9704,-3.098394362,OT_AR_ARSRC1_0480_Row1045,8.075476251,steroidal,AR
+924,disulfiram,MostDILI Drugs,5.4,-3.1304892939999998,OT_AR_ARSRC1_0480_Row1045,22.30464219,steroidal,AR
+925,nilutamide,MostDILI Drugs,7.2504,-2.155332624,OT_AR_ARSRC1_0480_Row1045,22.87742366,steroidal,AR
+926,norethindrone,AmbiDILIDrugs,0.0328,0.8482646340000001,OT_AR_ARSRC1_0960_Row124,0.00497692,steroidal,AR
+927,progesterone,LessDILIDrugs,0.1927,-1.7580281269999998,OT_AR_ARSRC1_0960_Row124,0.53147202,steroidal,AR
+928,spironolactone,LessDILIDrugs,0.12,0.089509517,OT_AR_ARSRC1_0960_Row124,0.10925885800000001,steroidal,AR
+929,nilutamide,MostDILI Drugs,7.2504,-0.592249688,OT_AR_ARSRC1_0960_Row124,11.54444714,steroidal,AR
+931,tamoxifen,MostDILI Drugs,0.1712,-1.771646887,OT_ER_ERaERa_0480_Row1046,0.47450594700000004,steroidal,ESR1
+932,estrone,AmbiDILIDrugs,0.0218,-2.868326743,OT_ER_ERaERb_0480_Row1048,0.084329523,estrogen receptor,ESR1
+933,tamoxifen,MostDILI Drugs,0.1712,-0.983334433,OT_ER_ERaERb_0480_Row1048,0.339546855,estrogen receptor,ESR1
+934,estrone,AmbiDILIDrugs,0.0218,-2.423050596,OT_ER_ERaERb_1440_Row1049,0.07462250299999999,estrogen receptor,ESR1
+935,tamoxifen,MostDILI Drugs,0.1712,-0.959155619,OT_ER_ERaERb_1440_Row1049,0.335407442,estrogen receptor,ESR1
+936,bicalutamide,MostDILI Drugs,1.9704,-1.96374502,OT_ER_ERaERb_1440_Row1049,5.839763187999999,estrogen receptor ,ESR1
+937,estrone,AmbiDILIDrugs,0.0218,-1.032439954,OT_ER_ERbERb_0480_Row1050,0.044307190999999996,estrogen receptor,ESR2
+938,tamoxifen,MostDILI Drugs,0.1712,-1.907169638,OT_ER_ERbERb_0480_Row1050,0.49770744200000006,steroidal,ESR2
+939,estrone,AmbiDILIDrugs,0.0218,-1.18010445,OT_ER_ERbERb_1440_Row1051,0.047526277,estrogen receptor,ESR1
+940,bicalutamide,MostDILI Drugs,1.9704,-0.146211244,OT_ER_ERbERb_1440_Row1051,2.258494636,estrogen receptor ,ESR1
+941,tamoxifen,MostDILI Drugs,0.1712,0.33634226100000003,OT_ER_ERbERb_1440_Row1051,0.113618205,steroidal,ESR2
+942,estrone,AmbiDILIDrugs,0.0218,0.9499137609999999,OT_ERa_EREGFP_0120_Row1052,0.00109188,estrogen receptor,ESR1
+943,tamoxifen,MostDILI Drugs,0.1712,-0.33907262299999996,OT_ERa_EREGFP_0120_Row1052,0.229249233,estrogen receptor,ESR1
+944,estrone,AmbiDILIDrugs,0.0218,0.98793578,OT_ERa_EREGFP_0480_Row1053,0.000263,estrogen receptor,ESR1
+945,tamoxifen,MostDILI Drugs,0.1712,-0.178539632,OT_ERa_EREGFP_0480_Row1053,0.201765985,estrogen receptor,ESR1
+946,clofibrate,LessDILIDrugs,407.911,0.825840612,OT_FXR_FXRSRC1_0480_Row94,71.04152994,non-steroidal,NR1H4
+947,fenofibrate,LessDILIDrugs,4.1016,-1.6210355669999998,OT_FXR_FXRSRC1_0480_Row94,10.75043948,non-steroidal,NR1H4
+948,ketoconazole,MostDILI Drugs,7.0,0.276282492,OT_FXR_FXRSRC1_0480_Row94,5.066022558,non-steroidal,NR1H4
+950,valproic acid,MostDILI Drugs,540.0,0.8361068709999999,OT_FXR_FXRSRC1_0480_Row94,88.50228985,non-steroidal,NR1H4
+951,carbamazepine,MostDILI Drugs,25.8176,0.852773935,OT_FXR_FXRSRC1_1440_Row1054,3.8010236639999997,non-steroidal,NR1H4
+952,valproic acid,MostDILI Drugs,540.0,0.838752429,OT_NURR1_NURR1RXRa_0480_Row161,87.07368832,other nuclear receptor,NURR1RXR
+955,clofibrate,LessDILIDrugs,407.911,0.898257058,Tanguay_ZF_120hpf_ActivityScore_Row1057,41.50206518,ZF_ActivityScore,zf_activityscore
+956,simvastatin,LessDILIDrugs,0.0824,-3.380835631,Tanguay_ZF_120hpf_ActivityScore_Row1057,0.360980856,ZF_ActivityScore,zf_activityscore
+957,carbamazepine,MostDILI Drugs,25.8176,0.837603647,Tanguay_ZF_120hpf_ActivityScore_Row1057,4.192684073,ZF_ActivityScore,zf_activityscore
+958,disulfiram,MostDILI Drugs,5.4,0.8349858720000001,Tanguay_ZF_120hpf_ActivityScore_Row1057,0.891076291,ZF_ActivityScore,zf_activityscore
+959,clofibrate,LessDILIDrugs,407.911,0.78712478,Tanguay_ZF_120hpf_AXIS_up_Row1056,86.83414373,ZF_AXIS,zf_axis
+960,disulfiram,MostDILI Drugs,5.4,0.940437984,Tanguay_ZF_120hpf_AXIS_up_Row1056,0.321634887,ZF_AXIS,zf_axis
+961,disulfiram,MostDILI Drugs,5.4,0.8600680709999999,Tanguay_ZF_120hpf_BRAI_up_Row1058,0.7556324179999999,ZF_BRAI,zf_brai
+962,clofibrate,LessDILIDrugs,407.911,0.6885275759999999,Tanguay_ZF_120hpf_CFIN_up_Row1059,127.0530279,ZF_CFIN,zf_cfin
+963,disulfiram,MostDILI Drugs,5.4,-0.331988948,Tanguay_ZF_120hpf_CIRC_up_Row1060,7.192740317999999,ZF_CIRC,ZF4
+964,disulfiram,MostDILI Drugs,5.4,0.85626468,Tanguay_ZF_120hpf_EYE_up_Row1061,0.776170728,ZF_EYE,zf_eye
+965,disulfiram,MostDILI Drugs,5.4,0.811968384,Tanguay_ZF_120hpf_JAW_up_Row1062,1.015370726,ZF_JAW,zf_jaw
+966,clofibrate,LessDILIDrugs,407.911,0.9728380190000001,Tanguay_ZF_120hpf_NC_up_Row1064,11.07967085,ZF_NC,zf_nc
+967,disulfiram,MostDILI Drugs,5.4,0.9795313379999999,Tanguay_ZF_120hpf_NC_up_Row1064,0.110530776,ZF_NC,zf_nc
+968,disulfiram,MostDILI Drugs,5.4,0.801345951,Tanguay_ZF_120hpf_PE_up_Row1066,1.072731866,ZF_PE,zf_pe
+969,clofibrate,LessDILIDrugs,407.911,0.846727369,Tanguay_ZF_120hpf_PE_up_Row1066,62.52159213,ZF_PE_up,zf_pe
+970,disulfiram,MostDILI Drugs,5.4,0.775033425,Tanguay_ZF_120hpf_SNOU_up_Row1069,1.214819507,ZF_SNOU,zf_snou
+971,disulfiram,MostDILI Drugs,5.4,0.9141112309999999,Tanguay_ZF_120hpf_SOMI_up_Row1070,0.46379935200000005,ZF_SOMI,zf_somi
+972,disulfiram,MostDILI Drugs,5.4,0.7819034420000001,Tanguay_ZF_120hpf_SWIM_up_Row1071,1.177721414,ZF_SWIM,zf_swim
+973,disulfiram,MostDILI Drugs,5.4,0.654668817,Tanguay_ZF_120hpf_TR_up_Row1073,1.8647883859999999,ZF_TR,zf_tr
+974,clofibrate,LessDILIDrugs,407.911,0.866018562,Tanguay_ZF_120hpf_TRUN_up_Row1072,54.652502399999996,ZF_TRUN,zf_trun
+975,disulfiram,MostDILI Drugs,5.4,0.820376708,Tanguay_ZF_120hpf_TRUN_up_Row1072,0.9699657770000001,ZF_TRUN,zf_trun
+976,disulfiram,MostDILI Drugs,5.4,0.91557546,Tanguay_ZF_120hpf_YSE_up_Row1074,0.45589251799999997,ZF_YSE,zf_yse
+977,nabumetone,AmbiDILIDrugs,1.4499,-2.6902412410000003,TOX21_AhR_LUC_Agonist_Row256,5.350480776,aryl hydrocarbon receptor,AHR
+978,lansoprazole,LessDILIDrugs,1.9222,-1.497320992,TOX21_AhR_LUC_Agonist_Row256,4.800350411,aryl hydrocarbon receptor,AHR
+979,abacavir,MostDILI Drugs,14.8985,0.307310929,TOX21_AhR_LUC_Agonist_Row256,10.32002813,aryl hydrocarbon receptor,AHR
+980,albendazole,MostDILI Drugs,0.9045,-1.5626363540000001,TOX21_AhR_LUC_Agonist_Row256,2.3179045819999997,aryl hydrocarbon receptor,AHR
+981,erlotinib,MostDILI Drugs,13.79,0.493487271,TOX21_AhR_LUC_Agonist_Row256,6.984810531,aryl hydrocarbon receptor,AHR
+982,ketoconazole,MostDILI Drugs,7.0,0.272846546,TOX21_AhR_LUC_Agonist_Row256,5.09007418,aryl hydrocarbon receptor,AHR
+983,leflunomide,MostDILI Drugs,24.7956,0.953672009,TOX21_AhR_LUC_Agonist_Row256,1.148730345,aryl hydrocarbon receptor,AHR
+984,sulindac,MostDILI Drugs,31.9852,0.043471515999999995,TOX21_AhR_LUC_Agonist_Row256,30.59475488,aryl hydrocarbon receptor,AHR
+985,zileuton,MostDILI Drugs,13.1192,-2.740535553,TOX21_AhR_LUC_Agonist_Row256,49.07283403,aryl hydrocarbon receptor,AHR
+986,medroxyprogesterone,AmbiDILIDrugs,0.1158,0.9946632120000001,TOX21_AR_BLA_Agonist_ch2_Row254,0.000618,androgen receptor,AR
+987,norethindrone,AmbiDILIDrugs,0.0328,0.9060989629999999,TOX21_AR_BLA_Agonist_ch2_Row254,0.003079954,androgen receptor,AR
+988,methylprednisolone,LessDILIDrugs,2.9909,0.990252288,TOX21_AR_BLA_Agonist_ch2_Row254,0.029154432,androgen receptor,AR
+989,prednisolone,LessDILIDrugs,0.6797,0.9521210859999999,TOX21_AR_BLA_Agonist_ch2_Row254,0.032543298,androgen receptor,AR
+990,prednisone,LessDILIDrugs,0.0684,0.5969599560000001,TOX21_AR_BLA_Agonist_ch2_Row254,0.027567939,androgen receptor,AR
+991,progesterone,LessDILIDrugs,0.1927,0.7224035959999999,TOX21_AR_BLA_Agonist_ch2_Row254,0.053492827,androgen receptor,AR
+992,spironolactone,LessDILIDrugs,0.12,0.7921178000000001,TOX21_AR_BLA_Agonist_ch2_Row254,0.024945863999999998,androgen receptor,AR
+993,bortezomib,MostDILI Drugs,0.2714,-0.618001072,TOX21_AR_BLA_Agonist_ch2_Row254,0.43912549100000003,androgen receptor,AR
+994,danazol,MostDILI Drugs,0.1092,0.828573709,TOX21_AR_BLA_Agonist_ch2_Row254,0.018719751,androgen receptor,AR
+995,oxymetholone,MostDILI Drugs,0.0565,-0.517669487,TOX21_AR_BLA_Agonist_ch2_Row254,0.085748326,androgen receptor,AR
+996,testosterone,MostDILI Drugs,0.0047,0.687887021,TOX21_AR_BLA_Agonist_ch2_Row254,0.001466931,androgen receptor,AR
+997,fludrocortisone,NoDILI Drugs,0.0644,0.730910466,TOX21_AR_BLA_Agonist_ch2_Row254,0.017329366000000002,androgen receptor,AR
+998,daunorubicin,NoDILI Drugs,0.3791,-1.7696341469999999,TOX21_AR_BLA_Agonist_ch2_Row254,1.049968305,androgen receptor,AR
+999,hydrocortisone,NoDILI Drugs,0.8415,0.984881077,TOX21_AR_BLA_Agonist_ch2_Row254,0.012722573999999999,androgen receptor,AR
+1000,medroxyprogesterone,AmbiDILIDrugs,0.1158,0.993929188,TOX21_AR_BLA_Agonist_ratio_Row249,0.0007030000000000001,androgen receptor,AR
+1001,norethindrone,AmbiDILIDrugs,0.0328,0.92886311,TOX21_AR_BLA_Agonist_ratio_Row249,0.00233329,androgen receptor,AR
+1002,methylprednisolone,LessDILIDrugs,2.9909,0.990519569,TOX21_AR_BLA_Agonist_ratio_Row249,0.028355022,androgen receptor,AR
+1003,prednisolone,LessDILIDrugs,0.6797,0.95947437,TOX21_AR_BLA_Agonist_ratio_Row249,0.027545271,androgen receptor,AR
+1004,prednisone,LessDILIDrugs,0.0684,0.41797744200000003,TOX21_AR_BLA_Agonist_ratio_Row249,0.039810343,androgen receptor,AR
+1005,progesterone,LessDILIDrugs,0.1927,0.838982652,TOX21_AR_BLA_Agonist_ratio_Row249,0.031028042999999998,androgen receptor,AR
+1006,spironolactone,LessDILIDrugs,0.12,0.8361871,TOX21_AR_BLA_Agonist_ratio_Row249,0.019657548,androgen receptor,AR
+1007,danazol,MostDILI Drugs,0.1092,0.843017875,TOX21_AR_BLA_Agonist_ratio_Row249,0.017142448,androgen receptor,AR
+1008,ketoconazole,MostDILI Drugs,7.0,-1.796496536,TOX21_AR_BLA_Agonist_ratio_Row249,19.57547575,androgen receptor,AR
+1009,oxymetholone,MostDILI Drugs,0.0565,-0.403688655,TOX21_AR_BLA_Agonist_ratio_Row249,0.07930840900000001,androgen receptor,AR
+1010,testosterone,MostDILI Drugs,0.0047,0.67132766,TOX21_AR_BLA_Agonist_ratio_Row249,0.00154476,androgen receptor,AR
+1011,daunorubicin,NoDILI Drugs,0.3791,-3.3549747610000002,TOX21_AR_BLA_Agonist_ratio_Row249,1.650970932,androgen receptor,AR
+1012,fludrocortisone,NoDILI Drugs,0.0644,0.799883028,TOX21_AR_BLA_Agonist_ratio_Row249,0.012887533,androgen receptor,AR
+1013,hydrocortisone,NoDILI Drugs,0.8415,0.987879944,TOX21_AR_BLA_Agonist_ratio_Row249,0.010199027,androgen receptor,AR
+1014,auranofin,LessDILIDrugs,1.0007,0.184417046,TOX21_AR_BLA_Antagonist_ch2_Row227,0.8161538620000001,androgen receptor,AR
+1015,ketoconazole,MostDILI Drugs,7.0,-0.600654746,TOX21_AR_BLA_Antagonist_ch2_Row227,11.20458322,androgen receptor,AR
+1016,dipyridamole,AmbiDILIDrugs,3.7453,-3.934247558,TOX21_AR_BLA_Antagonist_ratio_Row143,18.48023738,androgen receptor,AR
+1017,ethacrynic acid,AmbiDILIDrugs,32.9881,0.236522485,TOX21_AR_BLA_Antagonist_ratio_Row143,25.18567261,androgen receptor,AR
+1018,auranofin,LessDILIDrugs,1.0007,0.35066342,TOX21_AR_BLA_Antagonist_ratio_Row143,0.6497911160000001,androgen receptor,AR
+1019,docetaxel,LessDILIDrugs,0.9329999999999999,0.991991382,TOX21_AR_BLA_Antagonist_ratio_Row143,0.007472041,androgen receptor,AR
+1020,etoposide,LessDILIDrugs,17.0,0.928305026,TOX21_AR_BLA_Antagonist_ratio_Row143,1.2188145559999999,androgen receptor,AR
+1021,paclitaxel,LessDILIDrugs,4.3,0.9979778440000001,TOX21_AR_BLA_Antagonist_ratio_Row143,0.008695271,androgen receptor,AR
+1022,bortezomib,MostDILI Drugs,0.2714,0.986148703,TOX21_AR_BLA_Antagonist_ratio_Row143,0.0037592420000000003,androgen receptor,AR
+1023,danazol,MostDILI Drugs,0.1092,-1.147020055,TOX21_AR_BLA_Antagonist_ratio_Row143,0.23445459,androgen receptor,AR
+1024,disulfiram,MostDILI Drugs,5.4,0.979756282,TOX21_AR_BLA_Antagonist_ratio_Row143,0.10931607800000001,androgen receptor,AR
+1025,efavirenz,MostDILI Drugs,13.0,-0.6646993729999999,TOX21_AR_BLA_Antagonist_ratio_Row143,21.64109185,androgen receptor,AR
+1026,erlotinib,MostDILI Drugs,13.79,0.46242825299999996,TOX21_AR_BLA_Antagonist_ratio_Row143,7.413114386,androgen receptor,AR
+1027,griseofulvin,MostDILI Drugs,4.5356,-1.7061168999999998,TOX21_AR_BLA_Antagonist_ratio_Row143,12.27386381,androgen receptor,AR
+1028,ketoconazole,MostDILI Drugs,7.0,-0.8946922340000001,TOX21_AR_BLA_Antagonist_ratio_Row143,13.26284564,androgen receptor,AR
+1029,leflunomide,MostDILI Drugs,24.7956,-0.34594371799999996,TOX21_AR_BLA_Antagonist_ratio_Row143,33.37348205,androgen receptor,AR
+1030,nilutamide,MostDILI Drugs,7.2504,0.461452574,TOX21_AR_BLA_Antagonist_ratio_Row143,3.90468426,androgen receptor,AR
+1031,nitrofurantoin,MostDILI Drugs,6.0,-1.7662772230000001,TOX21_AR_BLA_Antagonist_ratio_Row143,16.59766334,androgen receptor,AR
+1032,pazopanib,MostDILI Drugs,62.8,0.660904836,TOX21_AR_BLA_Antagonist_ratio_Row143,21.29517629,androgen receptor,AR
+1033,tolcapone,MostDILI Drugs,74.2928,0.647152783,TOX21_AR_BLA_Antagonist_ratio_Row143,26.21400774,androgen receptor,AR
+1034,hydroxyzine,NoDILI Drugs,0.2694,0.999893467,TOX21_AR_BLA_Antagonist_ratio_Row143,2.8699999999999996e-05,androgen receptor,AR
+1035,methysergide,NoDILI Drugs,0.004,0.9985850000000001,TOX21_AR_BLA_Antagonist_ratio_Row143,5.66e-06,androgen receptor,AR
+1036,amrinone,AmbiDILIDrugs,13.782,0.808401355,TOX21_AR_BLA_Antagonist_viability_Row157,2.640612528,androgen receptor,AR
+1037,melphalan,LessDILIDrugs,0.6356,0.999990576,TOX21_AR_BLA_Antagonist_viability_Row157,5.99e-06,androgen receptor,AR
+1038,disulfiram,MostDILI Drugs,5.4,0.9730792690000001,TOX21_AR_BLA_Antagonist_viability_Row157,0.145371945,androgen receptor,AR
+1039,ketoconazole,MostDILI Drugs,7.0,-2.097690833,TOX21_AR_BLA_Antagonist_viability_Row157,21.68383583,androgen receptor,AR
+1040,leflunomide,MostDILI Drugs,24.7956,-1.262083974,TOX21_AR_BLA_Antagonist_viability_Row157,56.08972938,androgen receptor,AR
+1041,methotrexate,MostDILI Drugs,0.7724,0.95096286,TOX21_AR_BLA_Antagonist_viability_Row157,0.037876287,androgen receptor,AR
+1042,tolcapone,MostDILI Drugs,74.2928,0.553656511,TOX21_AR_BLA_Antagonist_viability_Row157,33.16010757,androgen receptor,AR
+1043,digoxin,NoDILI Drugs,0.0028,-3.665800714,TOX21_AR_BLA_Antagonist_viability_Row157,0.013064242,androgen receptor,AR
+1044,cladribine,AmbiDILIDrugs,0.0227,0.998127753,TOX21_AR_LUC_MDAKB2_Agonist_Row252,4.2499999999999996e-05,androgen receptor,AR
+1045,dexamethasone,AmbiDILIDrugs,0.2242,0.974729398,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.005665669,androgen receptor,AR
+1046,ethacrynic acid,AmbiDILIDrugs,32.9881,0.919788048,TOX21_AR_LUC_MDAKB2_Agonist_Row252,2.646039884,androgen receptor,AR
+1047,medroxyprogesterone,AmbiDILIDrugs,0.1158,0.43795443,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.065084877,androgen receptor,AR
+1048,methylprednisolone,LessDILIDrugs,2.9909,0.992708088,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.021809381,androgen receptor,AR
+1049,prednisolone,LessDILIDrugs,0.6797,0.93632261,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.043281522,androgen receptor,AR
+1050,spironolactone,LessDILIDrugs,0.12,0.375115625,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.074986125,androgen receptor,AR
+1051,danazol,MostDILI Drugs,0.1092,0.953687875,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.005057284,androgen receptor,AR
+1052,erlotinib,MostDILI Drugs,13.79,-0.14714331,TOX21_AR_LUC_MDAKB2_Agonist_Row252,15.81910624,androgen receptor,AR
+1053,estramustine,MostDILI Drugs,0.8220000000000001,-1.413145869,TOX21_AR_LUC_MDAKB2_Agonist_Row252,1.983605904,androgen receptor,AR
+1054,exemestane,MostDILI Drugs,0.0725,0.568032124,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.031317671,androgen receptor,AR
+1055,oxymetholone,MostDILI Drugs,0.0565,0.902330053,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.005518352,androgen receptor,AR
+1056,testosterone,MostDILI Drugs,0.0047,0.896170213,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.000488,androgen receptor,AR
+1057,fludrocortisone,NoDILI Drugs,0.0644,0.288691413,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.045808273,androgen receptor,AR
+1058,budesonide,NoDILI Drugs,0.0012,-0.5102125,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.001812255,androgen receptor,AR
+1059,codeine,NoDILI Drugs,297.46,0.806271017,TOX21_AR_LUC_MDAKB2_Agonist_Row252,57.62662315,androgen receptor,AR
+1060,hydrocortisone,NoDILI Drugs,0.8415,0.880078556,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.100913895,androgen receptor,AR
+1061,norethindrone,AmbiDILIDrugs,0.0328,-2.275368384,TOX21_AR_LUC_MDAKB2_Agonist_Row252,0.10743208300000001,steroidal,AR
+1062,ethacrynic acid,AmbiDILIDrugs,32.9881,0.337229655,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,21.86353441,androgen receptor,AR
+1063,auranofin,LessDILIDrugs,1.0007,-1.813733448,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,2.8157030610000002,androgen receptor,AR
+1064,bortezomib,MostDILI Drugs,0.2714,0.963102531,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,0.010013973,androgen receptor,AR
+1065,disulfiram,MostDILI Drugs,5.4,0.9694437379999999,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,0.165003813,androgen receptor,AR
+1066,efavirenz,MostDILI Drugs,13.0,-2.254050605,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,42.30265786,androgen receptor,AR
+1067,ketoconazole,MostDILI Drugs,7.0,-3.913738794,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,34.39617156,androgen receptor,AR
+1068,nilutamide,MostDILI Drugs,7.2504,-0.239243722,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,8.985012682,androgen receptor,AR
+1069,nitrofurantoin,MostDILI Drugs,6.0,-1.338755145,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,14.03253087,androgen receptor,AR
+1070,pazopanib,MostDILI Drugs,62.8,0.731970256,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,16.832267899999998,androgen receptor,AR
+1071,tolcapone,MostDILI Drugs,74.2928,0.00402763,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,73.99357607,androgen receptor,AR
+1072,bisacodyl,NoDILI Drugs,0.15,-1.766834227,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,0.41502513399999996,androgen receptor,AR
+1073,caffeine,NoDILI Drugs,42.0,-0.29473637399999997,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,54.37892771,androgen receptor,AR
+1074,daunorubicin,NoDILI Drugs,0.3791,-1.091663379,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,0.7929495870000001,androgen receptor,AR
+1075,hydroxyzine,NoDILI Drugs,0.2694,0.9995545659999999,TOX21_AR_LUC_MDAKB2_Antagonist_Row178,0.00011999999999999999,androgen receptor,AR
+1076,ticlopidine,MostDILI Drugs,8.0746,-0.22906867600000003,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,9.924237932999999,androgen receptor,AR
+1077,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.142588245,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,37.69181528,androgen receptor,AR
+1078,cyproheptadine,LessDILIDrugs,104.3827,-0.013499696,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,105.79183470000001,androgen receptor,AR
+1079,entacapone,LessDILIDrugs,4.2583,-3.556609835,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,19.40341166,androgen receptor,AR
+1080,omeprazole,LessDILIDrugs,2.7039,0.999994268,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,1.55e-05,androgen receptor,AR
+1081,bicalutamide,MostDILI Drugs,1.9704,0.335144035,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,1.3100321940000001,androgen receptor,AR
+1082,bortezomib,MostDILI Drugs,0.2714,0.9174660240000001,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,0.022399721,androgen receptor,AR
+1083,disulfiram,MostDILI Drugs,5.4,0.980381077,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,0.10594218400000001,androgen receptor,AR
+1084,efavirenz,MostDILI Drugs,13.0,0.39841406799999995,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,7.820617117,androgen receptor,AR
+1085,ketoconazole,MostDILI Drugs,7.0,-2.2340791269999998,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,22.63855389,androgen receptor,AR
+1086,nilutamide,MostDILI Drugs,7.2504,0.946635318,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,0.386915289,androgen receptor,AR
+1087,nitrofurantoin,MostDILI Drugs,6.0,-0.88707486,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,11.32244916,androgen receptor,AR
+1088,pazopanib,MostDILI Drugs,62.8,0.7241365820000001,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,17.32422262,androgen receptor,AR
+1089,tolcapone,MostDILI Drugs,74.2928,0.5229692229999999,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,35.43995214,androgen receptor,AR
+1090,caffeine,NoDILI Drugs,42.0,0.047081793,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,40.02256471,androgen receptor,AR
+1091,daunorubicin,NoDILI Drugs,0.3791,-0.047803543,TOX21_AR_LUC_MDAKB2_Antagonist2_Row168,0.397222323,androgen receptor,AR
+1092,ketoconazole,MostDILI Drugs,7.0,-2.441624174,TOX21_ARE_BLA_Agonist_ch1_Row235,24.09136922,nrf2 transcription factor,NRF2
+1093,caffeine,NoDILI Drugs,42.0,-0.911098603,TOX21_ARE_BLA_Agonist_ch1_Row235,80.26614131,nrf2 transcription factor,NRF2
+1094,ethacrynic acid,AmbiDILIDrugs,32.9881,0.99527026,TOX21_ARE_BLA_Agonist_ch2_Row24,0.156025136,nrf2 transcription factor,NRF2
+1095,bortezomib,MostDILI Drugs,0.2714,0.909791503,TOX21_ARE_BLA_Agonist_ch2_Row24,0.024482586,nrf2 transcription factor,NRF2
+1096,efavirenz,MostDILI Drugs,13.0,-0.284390844,TOX21_ARE_BLA_Agonist_ch2_Row24,16.69708097,nrf2 transcription factor,NRF2
+1097,ketoconazole,MostDILI Drugs,7.0,0.298351462,TOX21_ARE_BLA_Agonist_ch2_Row24,4.911539764,nrf2 transcription factor,NRF2
+1098,methotrexate,MostDILI Drugs,0.7724,0.98840949,TOX21_ARE_BLA_Agonist_ch2_Row24,0.00895251,nrf2 transcription factor,NRF2
+1099,nilutamide,MostDILI Drugs,7.2504,-2.627543522,TOX21_ARE_BLA_Agonist_ch2_Row24,26.30114155,nrf2 transcription factor,NRF2
+1100,nitrofurantoin,MostDILI Drugs,6.0,-1.26709994,TOX21_ARE_BLA_Agonist_ch2_Row24,13.60259964,nrf2 transcription factor,NRF2
+1101,sulindac,MostDILI Drugs,31.9852,-0.530935265,TOX21_ARE_BLA_Agonist_ch2_Row24,48.96727065,nrf2 transcription factor,NRF2
+1103,caffeine,NoDILI Drugs,42.0,0.6663850410000001,TOX21_ARE_BLA_Agonist_ch2_Row24,14.01182827,nrf2 transcription factor,NRF2
+1104,colchicine,AmbiDILIDrugs,0.0163,0.186337301,TOX21_ARE_BLA_agonist_ratio_Row34,0.013262702,nrf2 transcription factor,NRF2
+1105,ethacrynic acid,AmbiDILIDrugs,32.9881,0.96910284,TOX21_ARE_BLA_agonist_ratio_Row34,1.0192385929999999,nrf2 transcription factor,NRF2
+1106,carboplatin,LessDILIDrugs,107.7438,0.5598832429999999,TOX21_ARE_BLA_agonist_ratio_Row34,47.41985184,nrf2 transcription factor,NRF2
+1107,cefazolin,LessDILIDrugs,107.8072,0.772395116,TOX21_ARE_BLA_agonist_ratio_Row34,24.53744525,nrf2 transcription factor,NRF2
+1108,cephalexin,LessDILIDrugs,46.0573,0.4267896,TOX21_ARE_BLA_agonist_ratio_Row34,26.40052335,nrf2 transcription factor,NRF2
+1109,dasatinib,LessDILIDrugs,0.23,-2.567569504,TOX21_ARE_BLA_agonist_ratio_Row34,0.8205409859999999,androgen receptor,AR
+1110,entacapone,LessDILIDrugs,4.2583,-3.4581782519999997,TOX21_ARE_BLA_agonist_ratio_Row34,18.98426045,nrf2 transcription factor,NRF2
+1111,pantoprazole,LessDILIDrugs,7.7992,-1.505535911,TOX21_ARE_BLA_agonist_ratio_Row34,19.54117568,nrf2 transcription factor,NRF2
+1112,pyrimethamine,LessDILIDrugs,3.2889,-0.130555648,TOX21_ARE_BLA_agonist_ratio_Row34,3.718284471,nrf2 transcription factor,NRF2
+1113,benzbromarone,MostDILI Drugs,4.3387,-0.053999859000000004,TOX21_ARE_BLA_agonist_ratio_Row34,4.57298919,nrf2 transcription factor,NRF2
+1114,bortezomib,MostDILI Drugs,0.2714,0.9155815070000001,TOX21_ARE_BLA_agonist_ratio_Row34,0.022911179,nrf2 transcription factor,NRF2
+1115,diflunisal,MostDILI Drugs,495.6055,0.943982152,TOX21_ARE_BLA_agonist_ratio_Row34,27.76275335,nrf2 transcription factor,NRF2
+1116,efavirenz,MostDILI Drugs,13.0,-0.7066521840000001,TOX21_ARE_BLA_agonist_ratio_Row34,22.18647839,nrf2 transcription factor,NRF2
+1117,erlotinib,MostDILI Drugs,13.79,0.846025217,TOX21_ARE_BLA_agonist_ratio_Row34,2.1233122630000003,nrf2 transcription factor,NRF2
+1118,etodolac,MostDILI Drugs,68.4862,-0.098842284,TOX21_ARE_BLA_agonist_ratio_Row34,75.25553242,nrf2 transcription factor,NRF2
+1119,gefitinib,MostDILI Drugs,0.72,-2.05156195,TOX21_ARE_BLA_agonist_ratio_Row34,2.197124604,nrf2 transcription factor,NRF2
+1120,itraconazole,MostDILI Drugs,0.4,-3.254118015,TOX21_ARE_BLA_agonist_ratio_Row34,1.7016472059999999,nrf2 transcription factor,NRF2
+1121,ketoconazole,MostDILI Drugs,7.0,0.620096181,TOX21_ARE_BLA_agonist_ratio_Row34,2.659326736,nrf2 transcription factor,NRF2
+1122,leflunomide,MostDILI Drugs,24.7956,-0.060041428,TOX21_ARE_BLA_agonist_ratio_Row34,26.28436323,nrf2 transcription factor,NRF2
+1123,mefenamic acid,MostDILI Drugs,26.9388,-0.004039913,TOX21_ARE_BLA_agonist_ratio_Row34,27.04763041,nrf2 transcription factor,NRF2
+1124,nimesulide,MostDILI Drugs,21.0825,-1.794707677,TOX21_ARE_BLA_agonist_ratio_Row34,58.91942459,nrf2 transcription factor,NRF2
+1125,nitrofurantoin,MostDILI Drugs,6.0,-3.0940379630000003,TOX21_ARE_BLA_agonist_ratio_Row34,24.56422778,nrf2 transcription factor,NRF2
+1126,pazopanib,MostDILI Drugs,62.8,0.988394545,TOX21_ARE_BLA_agonist_ratio_Row34,0.7288225540000001,nrf2 transcription factor,NRF2
+1127,ritonavir,MostDILI Drugs,7.5511,-2.204671158,TOX21_ARE_BLA_agonist_ratio_Row34,24.19879238,nrf2 transcription factor,NRF2
+1128,sulindac,MostDILI Drugs,31.9852,-0.004056632,TOX21_ARE_BLA_agonist_ratio_Row34,32.11495218,nrf2 transcription factor,NRF2
+1130,caffeine,NoDILI Drugs,42.0,0.774977857,TOX21_ARE_BLA_agonist_ratio_Row34,9.450930006,nrf2 transcription factor,NRF2
+1131,codeine,NoDILI Drugs,297.46,0.6933432709999999,TOX21_ARE_BLA_agonist_ratio_Row34,91.21811069,nrf2 transcription factor,NRF2
+1132,daunorubicin,NoDILI Drugs,0.3791,-1.646713458,TOX21_ARE_BLA_agonist_ratio_Row34,1.0033690720000001,nrf2 transcription factor,NRF2
+1133,dopamine,NoDILI Drugs,0.077,-1.764445597,TOX21_ARE_BLA_agonist_ratio_Row34,0.21286231100000003,nrf2 transcription factor,NRF2
+1134,methotrexate,MostDILI Drugs,0.7724,0.991178821,TOX21_ARE_BLA_agonist_ratio_Row34,0.006813479,nrf2 transcription factor,NRF2
+1135,anastrozole,LessDILIDrugs,0.062,-2.535202452,TOX21_Aromatase_Inhibition_Row119,0.219182552,aromatase,CYP19A1
+1136,auranofin,LessDILIDrugs,1.0007,-1.832348848,TOX21_Aromatase_Inhibition_Row119,2.834331492,aromatase,CYP19A1
+1137,dasatinib,LessDILIDrugs,0.23,0.20834227800000002,TOX21_Aromatase_Inhibition_Row119,0.18208127600000001,aromatase,CYP19A1
+1138,fluvastatin,LessDILIDrugs,0.6635,-0.636041955,TOX21_Aromatase_Inhibition_Row119,1.085513837,aromatase,CYP19A1
+1139,letrozole,LessDILIDrugs,0.13,0.927277777,TOX21_Aromatase_Inhibition_Row119,0.009453889,aromatase,CYP19A1
+1140,acitretin,MostDILI Drugs,1.2805,0.637823371,TOX21_Aromatase_Inhibition_Row119,0.463767173,aromatase,CYP19A1
+1141,bortezomib,MostDILI Drugs,0.2714,0.962430718,TOX21_Aromatase_Inhibition_Row119,0.010196303,aromatase,CYP19A1
+1142,disulfiram,MostDILI Drugs,5.4,0.986957098,TOX21_Aromatase_Inhibition_Row119,0.070431669,aromatase,CYP19A1
+1143,efavirenz,MostDILI Drugs,13.0,-0.626655562,TOX21_Aromatase_Inhibition_Row119,21.14652231,aromatase,CYP19A1
+1144,erlotinib,MostDILI Drugs,13.79,-0.055558895999999997,TOX21_Aromatase_Inhibition_Row119,14.55615718,aromatase,CYP19A1
+1145,exemestane,MostDILI Drugs,0.0725,0.49698711700000003,TOX21_Aromatase_Inhibition_Row119,0.036468434,aromatase,CYP19A1
+1146,griseofulvin,MostDILI Drugs,4.5356,-0.286103987,TOX21_Aromatase_Inhibition_Row119,5.8332532420000005,aromatase,CYP19A1
+1147,ketoconazole,MostDILI Drugs,7.0,-3.115410677,TOX21_Aromatase_Inhibition_Row119,28.80787474,aromatase,CYP19A1
+1148,pazopanib,MostDILI Drugs,62.8,0.803071755,TOX21_Aromatase_Inhibition_Row119,12.36709379,aromatase,CYP19A1
+1149,tolcapone,MostDILI Drugs,74.2928,0.31732653899999996,TOX21_Aromatase_Inhibition_Row119,50.71772293,aromatase,CYP19A1
+1151,hydroxyzine,NoDILI Drugs,0.2694,0.9999679290000001,TOX21_Aromatase_Inhibition_Row119,8.64e-06,aromatase,CYP19A1
+1152,raloxifene,NoDILI Drugs,0.0011,-0.337996364,TOX21_Aromatase_Inhibition_Row119,0.001471796,aromatase,CYP19A1
+1153,colchicine,AmbiDILIDrugs,0.0163,-1.506059877,TOX21_ELG1_LUC_Agonist_Row616,0.040848776,"ATPase family, AAA domain containing 5",ATAD5
+1154,estrone,AmbiDILIDrugs,0.0218,0.80266656,TOX21_ERa_BLA_Agonist_ch1_Row242,0.004301869,estrogen receptor,ESR1
+1155,quinidine,LessDILIDrugs,8.6616,0.706858125,TOX21_ERa_BLA_Agonist_ch1_Row242,2.539077668,estrogen receptor,ESR1
+1156,estramustine,MostDILI Drugs,0.8220000000000001,0.993659159,TOX21_ERa_BLA_Agonist_ch1_Row242,0.005212171,estrogen receptor,ESR1
+1157,ketoconazole,MostDILI Drugs,7.0,-3.270449834,TOX21_ERa_BLA_Agonist_ch1_Row242,29.89314884,estrogen receptor,ESR1
+1158,alclofenac,MostDILI Drugs,600.0276,0.993251185,TOX21_ERa_BLA_Agonist_ch1_Row242,4.049475187,estrogen receptor ,ESR1
+1159,estrone,AmbiDILIDrugs,0.0218,0.953967798,TOX21_ERa_BLA_Agonist_ch2_Row269,0.0010035019999999999,estrogen receptor,ESR1
+1160,ethacrynic acid,AmbiDILIDrugs,32.9881,-1.026994087,TOX21_ERa_BLA_Agonist_ch2_Row269,66.86668363,estrogen receptor,ESR1
+1161,quinidine,LessDILIDrugs,8.6616,0.7192619309999999,TOX21_ERa_BLA_Agonist_ch2_Row269,2.4316408590000003,estrogen receptor,ESR1
+1162,tinidazole,LessDILIDrugs,81.6908,0.805328936,TOX21_ERa_BLA_Agonist_ch2_Row269,15.90283496,estrogen receptor,ESR1
+1163,estramustine,MostDILI Drugs,0.8220000000000001,0.9944183809999999,TOX21_ERa_BLA_Agonist_ch2_Row269,0.004588091,estrogen receptor,ESR1
+1164,ticlopidine,MostDILI Drugs,8.0746,-2.6887534289999997,TOX21_ERa_BLA_Agonist_ch2_Row269,29.78520844,estrogen receptor,ESR1
+1165,alclofenac,MostDILI Drugs,600.0276,0.991964113,TOX21_ERa_BLA_Agonist_ch2_Row269,4.821754177,estrogen receptor ,ESR1
+1166,estrone,AmbiDILIDrugs,0.0218,0.9481034859999999,TOX21_ERa_BLA_Agonist_ratio_Row246,0.0011313439999999998,estrogen receptor,ESR1
+1167,quinidine,LessDILIDrugs,8.6616,0.6166259239999999,TOX21_ERa_BLA_Agonist_ratio_Row246,3.320632897,estrogen receptor,ESR1
+1168,tinidazole,LessDILIDrugs,81.6908,0.773768936,TOX21_ERa_BLA_Agonist_ratio_Row246,18.48099662,estrogen receptor,ESR1
+1169,estramustine,MostDILI Drugs,0.8220000000000001,0.992281955,TOX21_ERa_BLA_Agonist_ratio_Row246,0.006344233,estrogen receptor,ESR1
+1170,ketoconazole,MostDILI Drugs,7.0,-3.973361273,TOX21_ERa_BLA_Agonist_ratio_Row246,34.81352891,estrogen receptor,ESR1
+1171,ethacrynic acid,AmbiDILIDrugs,32.9881,-1.207268992,TOX21_ERa_BLA_Agonist_ratio_Row246,72.81361025,estrogen receptor ,ESR1
+1172,alclofenac,MostDILI Drugs,600.0276,0.987410197,TOX21_ERa_BLA_Agonist_ratio_Row246,7.5542292689999995,estrogen receptor ,ESR1
+1173,ethacrynic acid,AmbiDILIDrugs,32.9881,-1.0821929190000001,TOX21_ERa_BLA_Antagonist_ch1_Row233,68.68758822,estrogen receptor,ESR1
+1174,tolcapone,MostDILI Drugs,74.2928,0.543965726,TOX21_ERa_BLA_Antagonist_ch1_Row233,33.8800631,estrogen receptor,ESR1
+1175,ketoconazole,MostDILI Drugs,7.0,-3.78829135,TOX21_ERa_BLA_Antagonist_ch2_Row230,33.51803945,estrogen receptor,ESR1
+1176,etoposide,LessDILIDrugs,17.0,0.7788818670000001,TOX21_ERa_BLA_Antagonist_ratio_Row156,3.759008268,estrogen receptor,ESR1
+1177,efavirenz,MostDILI Drugs,13.0,-1.736356969,TOX21_ERa_BLA_Antagonist_ratio_Row156,35.5726406,estrogen receptor,ESR1
+1178,erlotinib,MostDILI Drugs,13.79,0.7085933440000001,TOX21_ERa_BLA_Antagonist_ratio_Row156,4.018497785,estrogen receptor,ESR1
+1179,griseofulvin,MostDILI Drugs,4.5356,-0.39409391,TOX21_ERa_BLA_Antagonist_ratio_Row156,6.323052337000001,estrogen receptor,ESR1
+1180,ketoconazole,MostDILI Drugs,7.0,-3.6277853060000003,TOX21_ERa_BLA_Antagonist_ratio_Row156,32.39449714,estrogen receptor,ESR1
+1181,mefenamic acid,MostDILI Drugs,26.9388,-1.782752875,TOX21_ERa_BLA_Antagonist_ratio_Row156,74.96402316,estrogen receptor,ESR1
+1182,nitrofurantoin,MostDILI Drugs,6.0,-3.2190558119999997,TOX21_ERa_BLA_Antagonist_ratio_Row156,25.31433487,estrogen receptor,ESR1
+1183,orlistat,MostDILI Drugs,20.0,0.898270358,TOX21_ERa_BLA_Antagonist_ratio_Row156,2.034592845,estrogen receptor,ESR1
+1184,ritonavir,MostDILI Drugs,7.5511,-2.249558395,TOX21_ERa_BLA_Antagonist_ratio_Row156,24.537740399999997,estrogen receptor,ESR1
+1185,tamoxifen,MostDILI Drugs,0.1712,-3.066350397,TOX21_ERa_BLA_Antagonist_ratio_Row156,0.696159188,estrogen receptor,ESR1
+1186,tipranavir,MostDILI Drugs,22.5,-0.7124634959999999,TOX21_ERa_BLA_Antagonist_ratio_Row156,38.53042865,estrogen receptor,ESR1
+1187,tolcapone,MostDILI Drugs,74.2928,0.6840066020000001,TOX21_ERa_BLA_Antagonist_ratio_Row156,23.4760343,estrogen receptor,ESR1
+1188,methysergide,NoDILI Drugs,0.004,0.9987299999999999,TOX21_ERa_BLA_Antagonist_ratio_Row156,5.08e-06,estrogen receptor,ESR1
+1189,benzbromarone,MostDILI Drugs,4.3387,-2.330056416,TOX21_ERa_BLA_Antagonist_ratio_Row156,14.44811577,estrogen receptor ,ESR1
+1190,bortezomib,MostDILI Drugs,0.2714,0.955642815,TOX21_ERa_BLA_Antagonist_ratio_Row156,0.01203854,estrogen receptor ,ESR1
+1191,emtricitabine,AmbiDILIDrugs,17.1891,0.999466601,TOX21_ERa_LUC_BG1_Agonist_Row253,0.009168641,estrogen receptor,ESR1
+1192,estrone,AmbiDILIDrugs,0.0218,0.9826146790000001,TOX21_ERa_LUC_BG1_Agonist_Row253,0.000379,estrogen receptor,ESR1
+1193,flurbiprofen,AmbiDILIDrugs,57.315,0.858138713,TOX21_ERa_LUC_BG1_Agonist_Row253,8.130779636,estrogen receptor,ESR1
+1194,nabumetone,AmbiDILIDrugs,1.4499,0.583349343,TOX21_ERa_LUC_BG1_Agonist_Row253,0.6041017870000001,estrogen receptor,ESR1
+1195,norethindrone,AmbiDILIDrugs,0.0328,0.663824695,TOX21_ERa_LUC_BG1_Agonist_Row253,0.01102655,estrogen receptor,ESR1
+1196,pregabalin,LessDILIDrugs,59.412,0.7877122940000001,TOX21_ERa_LUC_BG1_Agonist_Row253,12.61243718,estrogen receptor,ESR1
+1197,quinidine,LessDILIDrugs,8.6616,0.968676045,TOX21_ERa_LUC_BG1_Agonist_Row253,0.271315567,estrogen receptor,ESR1
+1198,tinidazole,LessDILIDrugs,81.6908,0.966709675,TOX21_ERa_LUC_BG1_Agonist_Row253,2.719513282,estrogen receptor,ESR1
+1199,estramustine,MostDILI Drugs,0.8220000000000001,0.9961084440000001,TOX21_ERa_LUC_BG1_Agonist_Row253,0.003198859,estrogen receptor,ESR1
+1200,mefenamic acid,MostDILI Drugs,26.9388,-0.087971027,TOX21_ERa_LUC_BG1_Agonist_Row253,29.308633899999997,estrogen receptor,ESR1
+1201,oxymetholone,MostDILI Drugs,0.0565,-0.43653762799999996,TOX21_ERa_LUC_BG1_Agonist_Row253,0.081164376,estrogen receptor,ESR1
+1202,testosterone,MostDILI Drugs,0.0047,-0.79691234,TOX21_ERa_LUC_BG1_Agonist_Row253,0.008445488000000001,estrogen receptor,ESR1
+1203,ticlopidine,MostDILI Drugs,8.0746,-0.575408926,TOX21_ERa_LUC_BG1_Agonist_Row253,12.72079691,estrogen receptor,ESR1
+1204,carbidopa,AmbiDILIDrugs,0.6629999999999999,0.999980995,TOX21_ERa_LUC_BG1_Agonist_Row253,1.26e-05,estrogen receptor ,ESR1
+1205,abacavir,MostDILI Drugs,14.8985,0.800208652,TOX21_ERa_LUC_BG1_Agonist_Row253,2.976591402,estrogen receptor ,ESR1
+1206,albendazole,MostDILI Drugs,0.9045,-1.3017797309999999,TOX21_ERa_LUC_BG1_Agonist_Row253,2.081959767,estrogen receptor ,ESR1
+1207,alclofenac,MostDILI Drugs,600.0276,0.99955572,TOX21_ERa_LUC_BG1_Agonist_Row253,0.266580113,estrogen receptor ,ESR1
+1208,amikacin,NoDILI Drugs,34.3,0.40632682700000006,TOX21_ERa_LUC_BG1_Agonist_Row253,20.36298983,estrogen receptor ,ESR1
+1209,daunorubicin,NoDILI Drugs,0.3791,-2.499945365,TOX21_ERa_LUC_BG1_Agonist_Row253,1.3268292879999999,estrogen receptor ,ESR1
+1210,temazepam,AmbiDILIDrugs,23.3019,-1.242415216,TOX21_ERa_LUC_BG1_Antagonist_Row179,52.25253512,estrogen receptor,ESR1
+1211,efavirenz,MostDILI Drugs,13.0,-1.1271837009999999,TOX21_ERa_LUC_BG1_Antagonist_Row179,27.65338811,estrogen receptor,ESR1
+1212,nilutamide,MostDILI Drugs,7.2504,-1.4930361330000002,TOX21_ERa_LUC_BG1_Antagonist_Row179,18.07550918,estrogen receptor,ESR1
+1213,pazopanib,MostDILI Drugs,62.8,0.83985631,TOX21_ERa_LUC_BG1_Antagonist_Row179,10.05702373,estrogen receptor,ESR1
+1214,tolcapone,MostDILI Drugs,74.2928,0.107861982,TOX21_ERa_LUC_BG1_Antagonist_Row179,66.27943133,estrogen receptor,ESR1
+1215,raloxifene,NoDILI Drugs,0.0011,-2.063817273,TOX21_ERa_LUC_BG1_Antagonist_Row179,0.0033701990000000004,estrogen receptor,ESR1
+1216,acitretin,MostDILI Drugs,1.2805,-0.003322395,TOX21_ERa_LUC_BG1_Antagonist_Row179,1.2847543270000001,estrogen receptor ,ESR1
+1217,bortezomib,MostDILI Drugs,0.2714,0.817605578,TOX21_ERa_LUC_BG1_Antagonist_Row179,0.049501845999999995,estrogen receptor ,ESR1
+1218,caffeine,NoDILI Drugs,42.0,-0.9835194890000001,TOX21_ERa_LUC_BG1_Antagonist_Row179,83.30781854,estrogen receptor ,ESR1
+1219,dipyridamole,AmbiDILIDrugs,3.7453,-3.311963888,TOX21_ESRE_BLA_ratio_Row243,16.14959835,ER stress response,esr
+1220,leflunomide,MostDILI Drugs,24.7956,-1.50521324,TOX21_ESRE_BLA_ratio_Row243,62.11826542,ER stress response,esr
+1221,leflunomide,MostDILI Drugs,24.7956,-1.841798146,TOX21_ESRE_BLA_viability_Row237,70.46409009999999,ER stress response,esr
+1222,dipyridamole,AmbiDILIDrugs,3.7453,-2.280627165,TOX21_FXR_BLA_agonist_ch2_Row135,12.28693292,farnesoid x receptor,NR1H4
+1224,dipyridamole,AmbiDILIDrugs,3.7453,-1.4526685209999999,TOX21_FXR_BLA_Antagonist_ch1_Row215,9.18597941,farnesoid x receptor,NR1H4
+1225,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.5390013779999999,TOX21_FXR_BLA_Antagonist_ch1_Row215,50.76873137,farnesoid x receptor,NR1H4
+1226,disulfiram,MostDILI Drugs,5.4,0.986347819,TOX21_FXR_BLA_Antagonist_ch1_Row215,0.073721778,farnesoid x receptor,NR1H4
+1227,disulfiram,MostDILI Drugs,5.4,0.986459876,TOX21_FXR_BLA_Antagonist_ch2_Row228,0.073116668,farnesoid x receptor,NR1H4
+1228,ketoconazole,MostDILI Drugs,7.0,-2.70397329,TOX21_FXR_BLA_Antagonist_ch2_Row228,25.92781303,farnesoid x receptor,NR1H4
+1229,colchicine,AmbiDILIDrugs,0.0163,0.633027607,TOX21_FXR_BLA_antagonist_ratio_Row183,0.00598165,farnesoid x receptor,NR1H4
+1230,dipyridamole,AmbiDILIDrugs,3.7453,-0.368068855,TOX21_FXR_BLA_antagonist_ratio_Row183,5.123828281000001,farnesoid x receptor,NR1H4
+1231,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.697970419,TOX21_FXR_BLA_antagonist_ratio_Row183,56.01281797,farnesoid x receptor,NR1H4
+1232,dasatinib,LessDILIDrugs,0.23,-2.0397395169999997,TOX21_FXR_BLA_antagonist_ratio_Row183,0.699140089,farnesoid x receptor,NR1H4
+1233,albendazole,MostDILI Drugs,0.9045,0.23964590600000002,TOX21_FXR_BLA_antagonist_ratio_Row183,0.6877402779999999,farnesoid x receptor,NR1H4
+1234,benzbromarone,MostDILI Drugs,4.3387,-1.457278955,TOX21_FXR_BLA_antagonist_ratio_Row183,10.6613962,farnesoid x receptor,NR1H4
+1235,bortezomib,MostDILI Drugs,0.2714,-0.534770317,TOX21_FXR_BLA_antagonist_ratio_Row183,0.416536664,farnesoid x receptor,NR1H4
+1236,disulfiram,MostDILI Drugs,5.4,0.9872015740000001,TOX21_FXR_BLA_antagonist_ratio_Row183,0.06911150099999999,farnesoid x receptor,NR1H4
+1237,efavirenz,MostDILI Drugs,13.0,-1.4495558430000002,TOX21_FXR_BLA_antagonist_ratio_Row183,31.84422596,farnesoid x receptor,NR1H4
+1238,leflunomide,MostDILI Drugs,24.7956,-0.967811298,TOX21_FXR_BLA_antagonist_ratio_Row183,48.79306182,farnesoid x receptor,NR1H4
+1239,mefenamic acid,MostDILI Drugs,26.9388,-0.840398636,TOX21_FXR_BLA_antagonist_ratio_Row183,49.57813077,farnesoid x receptor,NR1H4
+1240,methotrexate,MostDILI Drugs,0.7724,0.6458933689999999,TOX21_FXR_BLA_antagonist_ratio_Row183,0.273511962,farnesoid x receptor,NR1H4
+1241,pazopanib,MostDILI Drugs,62.8,0.505345473,TOX21_FXR_BLA_antagonist_ratio_Row183,31.06430428,farnesoid x receptor,NR1H4
+1242,ritonavir,MostDILI Drugs,7.5511,-2.967659989,TOX21_FXR_BLA_antagonist_ratio_Row183,29.96019734,farnesoid x receptor,NR1H4
+1243,tolcapone,MostDILI Drugs,74.2928,0.896604339,TOX21_FXR_BLA_antagonist_ratio_Row183,7.681553192999999,farnesoid x receptor,NR1H4
+1244,ketoconazole,MostDILI Drugs,7.0,-3.857283373,TOX21_GR_BLA_Agonist_ch1_Row229,34.00098361,glucocorticoid receptor,NR3C1
+1245,dexamethasone,AmbiDILIDrugs,0.2242,0.983807828,TOX21_GR_BLA_Agonist_ch2_Row270,0.003630285,glucocorticoid receptor,NR3C1
+1246,etoposide,LessDILIDrugs,17.0,-0.477492456,TOX21_GR_BLA_Agonist_ch2_Row270,25.11737175,glucocorticoid receptor,NR3C1
+1247,methylprednisolone,LessDILIDrugs,2.9909,0.993876249,TOX21_GR_BLA_Agonist_ch2_Row270,0.018315528,glucocorticoid receptor,NR3C1
+1248,prednisolone,LessDILIDrugs,0.6797,0.967310487,TOX21_GR_BLA_Agonist_ch2_Row270,0.022219062,glucocorticoid receptor,NR3C1
+1249,albendazole,MostDILI Drugs,0.9045,-1.257992818,TOX21_GR_BLA_Agonist_ch2_Row270,2.042354504,glucocorticoid receptor,NR3C1
+1250,erlotinib,MostDILI Drugs,13.79,-0.078724633,TOX21_GR_BLA_Agonist_ch2_Row270,14.87561269,glucocorticoid receptor,NR3C1
+1251,budesonide,NoDILI Drugs,0.0012,-2.635855,TOX21_GR_BLA_Agonist_ch2_Row270,0.004363026,glucocorticoid receptor,NR3C1
+1252,daunorubicin,NoDILI Drugs,0.3791,-0.924854732,TOX21_GR_BLA_Agonist_ch2_Row270,0.7297124290000001,glucocorticoid receptor,NR3C1
+1253,fludrocortisone,NoDILI Drugs,0.0644,0.472937516,TOX21_GR_BLA_Agonist_ch2_Row270,0.033942823999999996,glucocorticoid receptor,NR3C1
+1254,hydrocortisone,NoDILI Drugs,0.8415,0.95473816,TOX21_GR_BLA_Agonist_ch2_Row270,0.038087838,glucocorticoid receptor,NR3C1
+1255,dexamethasone,AmbiDILIDrugs,0.2242,0.9873799870000001,TOX21_GR_BLA_Agonist_ratio_Row239,0.002829407,glucocorticoid receptor,NR3C1
+1256,medroxyprogesterone,AmbiDILIDrugs,0.1158,0.091303212,TOX21_GR_BLA_Agonist_ratio_Row239,0.10522708800000001,glucocorticoid receptor,NR3C1
+1257,etoposide,LessDILIDrugs,17.0,-0.791018945,TOX21_GR_BLA_Agonist_ratio_Row239,30.44732207,glucocorticoid receptor,NR3C1
+1258,methylprednisolone,LessDILIDrugs,2.9909,0.993992471,TOX21_GR_BLA_Agonist_ratio_Row239,0.017967919,glucocorticoid receptor,NR3C1
+1259,prednisolone,LessDILIDrugs,0.6797,0.96688432,TOX21_GR_BLA_Agonist_ratio_Row239,0.022508728,glucocorticoid receptor,NR3C1
+1260,erlotinib,MostDILI Drugs,13.79,-1.9010429619999998,TOX21_GR_BLA_Agonist_ratio_Row239,40.00538245,glucocorticoid receptor,NR3C1
+1261,budesonide,NoDILI Drugs,0.0012,-0.137375833,TOX21_GR_BLA_Agonist_ratio_Row239,0.001364851,glucocorticoid receptor,NR3C1
+1262,daunorubicin,NoDILI Drugs,0.3791,-1.5129082459999998,TOX21_GR_BLA_Agonist_ratio_Row239,0.952643516,glucocorticoid receptor,NR3C1
+1263,fludrocortisone,NoDILI Drugs,0.0644,0.35225329200000005,TOX21_GR_BLA_Agonist_ratio_Row239,0.041714888,glucocorticoid receptor,NR3C1
+1264,hydrocortisone,NoDILI Drugs,0.8415,0.9547968179999999,TOX21_GR_BLA_Agonist_ratio_Row239,0.038038478,glucocorticoid receptor,NR3C1
+1265,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.057874614000000005,TOX21_GR_BLA_Antagonist_ch2_Row165,34.89727354,glucocorticoid receptor,NR3C1
+1266,auranofin,LessDILIDrugs,1.0007,0.085908981,TOX21_GR_BLA_Antagonist_ch2_Row165,0.9147308829999999,glucocorticoid receptor,NR3C1
+1267,cyproheptadine,LessDILIDrugs,104.3827,0.6733454879999999,TOX21_GR_BLA_Antagonist_ch2_Row165,34.09707988,glucocorticoid receptor,NR3C1
+1268,progesterone,LessDILIDrugs,0.1927,-3.5534233630000003,TOX21_GR_BLA_Antagonist_ch2_Row165,0.877444682,glucocorticoid receptor,NR3C1
+1269,benzbromarone,MostDILI Drugs,4.3387,-3.09510437,TOX21_GR_BLA_Antagonist_ch2_Row165,17.76742933,glucocorticoid receptor,NR3C1
+1270,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.072650101,TOX21_GR_BLA_Antagonist_ratio_Row155,35.38468881,glucocorticoid receptor,NR3C1
+1271,auranofin,LessDILIDrugs,1.0007,0.270370017,TOX21_GR_BLA_Antagonist_ratio_Row155,0.7301407240000001,glucocorticoid receptor,NR3C1
+1272,progesterone,LessDILIDrugs,0.1927,-3.933541925,TOX21_GR_BLA_Antagonist_ratio_Row155,0.950693529,glucocorticoid receptor,NR3C1
+1273,benzbromarone,MostDILI Drugs,4.3387,-2.7280497039999996,TOX21_GR_BLA_Antagonist_ratio_Row155,16.17488925,glucocorticoid receptor,NR3C1
+1274,ritonavir,MostDILI Drugs,7.5511,-2.625760353,TOX21_GR_BLA_Antagonist_ratio_Row155,27.378479,glucocorticoid receptor,NR3C1
+1275,tipranavir,MostDILI Drugs,22.5,-0.546653229,TOX21_GR_BLA_Antagonist_ratio_Row155,34.79969766,glucocorticoid receptor,NR3C1
+1276,tolcapone,MostDILI Drugs,74.2928,0.624616036,TOX21_GR_BLA_Antagonist_ratio_Row155,27.88832573,glucocorticoid receptor,NR3C1
+1277,cyproheptadine,LessDILIDrugs,104.3827,0.688439288,TOX21_GR_BLA_Antagonist_viability_Row231,32.52154835,glucocorticoid receptor,NR3C1
+1278,dipyridamole,AmbiDILIDrugs,3.7453,-1.5920001469999998,TOX21_HSE_BLA_agonist_ch2_Row280,9.707818152,heat shock factor,HSF1
+1279,ethacrynic acid,AmbiDILIDrugs,32.9881,0.711359307,TOX21_HSE_BLA_agonist_ch2_Row280,9.521708056,heat shock factor,HSF1
+1280,entacapone,LessDILIDrugs,4.2583,-2.982250734,TOX21_HSE_BLA_agonist_ch2_Row280,16.957618300000004,heat shock factor,HSF1
+1281,etoposide,LessDILIDrugs,17.0,-2.9860602960000002,TOX21_HSE_BLA_agonist_ch2_Row280,67.76302504,heat shock factor,HSF1
+1282,bortezomib,MostDILI Drugs,0.2714,0.515325759,TOX21_HSE_BLA_agonist_ch2_Row280,0.131540589,heat shock factor,HSF1
+1283,disulfiram,MostDILI Drugs,5.4,0.525602925,TOX21_HSE_BLA_agonist_ch2_Row280,2.5617442059999997,heat shock factor,HSF1
+1284,ketoconazole,MostDILI Drugs,7.0,-3.772893254,TOX21_HSE_BLA_agonist_ch2_Row280,33.41025278,heat shock factor,HSF1
+1285,leflunomide,MostDILI Drugs,24.7956,-0.019510842,TOX21_HSE_BLA_agonist_ch2_Row280,25.27938304,heat shock factor,HSF1
+1286,dipyridamole,AmbiDILIDrugs,3.7453,-0.810568431,TOX21_HSE_BLA_agonist_ratio_Row172,6.781121945,heat shock factor,HSF1
+1287,ethacrynic acid,AmbiDILIDrugs,32.9881,0.7076204890000001,TOX21_HSE_BLA_agonist_ratio_Row172,9.645044531,heat shock factor,HSF1
+1288,entacapone,LessDILIDrugs,4.2583,-2.88470313,TOX21_HSE_BLA_agonist_ratio_Row172,16.54223134,heat shock factor,HSF1
+1289,etoposide,LessDILIDrugs,17.0,-2.872395262,TOX21_HSE_BLA_agonist_ratio_Row172,65.83071945,heat shock factor,HSF1
+1290,benzbromarone,MostDILI Drugs,4.3387,-1.4343041580000002,TOX21_HSE_BLA_agonist_ratio_Row172,10.56171545,heat shock factor,HSF1
+1291,bortezomib,MostDILI Drugs,0.2714,0.48217815799999997,TOX21_HSE_BLA_agonist_ratio_Row172,0.14053684800000002,heat shock factor,HSF1
+1292,disulfiram,MostDILI Drugs,5.4,0.993782328,TOX21_HSE_BLA_agonist_ratio_Row172,0.033575429,heat shock factor,HSF1
+1293,ketoconazole,MostDILI Drugs,7.0,-3.244493989,TOX21_HSE_BLA_agonist_ratio_Row172,29.71145792,heat shock factor,HSF1
+1294,leflunomide,MostDILI Drugs,24.7956,-0.086858084,TOX21_HSE_BLA_agonist_ratio_Row172,26.94929832,heat shock factor,HSF1
+1295,ethacrynic acid,AmbiDILIDrugs,32.9881,-1.432720954,TOX21_MMP_ratio_down_Row67,80.25084211,mitochondrial membrane potential,mmp
+1296,piroxicam,LessDILIDrugs,6.0359,-1.286689977,TOX21_MMP_ratio_down_Row67,13.80223203,mitochondrial membrane potential,mmp
+1297,propofol,LessDILIDrugs,15.8184,-2.935307537,TOX21_MMP_ratio_down_Row67,62.25026875,mitochondrial membrane potential,mmp
+1298,leflunomide,MostDILI Drugs,24.7956,0.630181508,TOX21_MMP_ratio_down_Row67,9.169871399,mitochondrial membrane potential,mmp
+1299,mefenamic acid,MostDILI Drugs,26.9388,-2.005887117,TOX21_MMP_ratio_down_Row67,80.97499187,mitochondrial membrane potential,mmp
+1300,nimesulide,MostDILI Drugs,21.0825,0.802574483,TOX21_MMP_ratio_down_Row67,4.162223452,mitochondrial membrane potential,mmp
+1301,tolcapone,MostDILI Drugs,74.2928,0.926825951,TOX21_MMP_ratio_down_Row67,5.436305018,mitochondrial membrane potential,mmp
+1303,indomethacin,MostDILI Drugs,5.5899,-0.058634942999999995,TOX21_MMP_ratio_up_Row614,5.9176634660000005,mitochondrial membrane potential,mmp
+1304,nimesulide,MostDILI Drugs,21.0825,-1.191069664,TOX21_MMP_viability_Row615,46.19322619,mitochondrial membrane potential,mmp
+1305,tolcapone,MostDILI Drugs,74.2928,0.690624283,TOX21_MMP_viability_Row615,22.98438824,mitochondrial membrane potential,mmp
+1306,zileuton,MostDILI Drugs,13.1192,-2.9310661330000003,TOX21_MMP_viability_Row615,51.57244281,mitochondrial membrane potential,mmp
+1307,aztreonam,AmbiDILIDrugs,142.386,0.896742278,TOX21_NFkB_BLA_agonist_ch1_Row247,14.70245396,NFkB,NFKB1
+1308,cyproheptadine,LessDILIDrugs,104.3827,-0.21180143699999998,TOX21_NFkB_BLA_agonist_ch2_Row251,126.49110590000001,NFkB,NFKB1
+1309,dipyridamole,AmbiDILIDrugs,3.7453,-2.407023635,TOX21_NFkB_BLA_agonist_ratio_Row250,12.76032562,NFkB,NFKB1
+1310,cyproheptadine,LessDILIDrugs,104.3827,0.89715833,TOX21_NFkB_BLA_agonist_ratio_Row250,10.73489116,NFkB,NFKB1
+1311,ketoconazole,MostDILI Drugs,7.0,0.95990275,TOX21_NFkB_BLA_agonist_ratio_Row250,0.28068075,NFkB,NFKB1
+1312,terbinafine,MostDILI Drugs,4.0,-3.690554863,TOX21_NFkB_BLA_agonist_ratio_Row250,18.76221945,NFkB,NFKB1
+1313,ritonavir,MostDILI Drugs,7.5511,-1.334140377,TOX21_NFkB_BLA_agonist_viability_Row241,17.625327399999996,NFkB,NFKB1
+1314,bisacodyl,NoDILI Drugs,0.15,-1.381814347,TOX21_NFkB_BLA_agonist_viability_Row241,0.357272152,NFkB,NFKB1
+1315,auranofin,LessDILIDrugs,1.0007,-1.748997205,TOX21_p53_BLA_p1_ch1_Row166,2.7509215030000003,p53,TP53
+1316,bortezomib,MostDILI Drugs,0.2714,-1.2269238470000001,TOX21_p53_BLA_p1_ch1_Row166,0.604387132,p53,TP53
+1317,tolcapone,MostDILI Drugs,74.2928,0.5245566220000001,TOX21_p53_BLA_p1_ch1_Row166,35.3220198,p53,TP53
+1318,daunorubicin,NoDILI Drugs,0.3791,-0.429585455,TOX21_p53_BLA_p1_ch1_Row166,0.541955846,p53,TP53
+1319,ethacrynic acid,AmbiDILIDrugs,32.9881,0.090667735,TOX21_p53_BLA_p1_ch2_Row274,29.99714369,p53,TP53
+1320,docetaxel,LessDILIDrugs,0.9329999999999999,-1.408938314,TOX21_p53_BLA_p1_ch2_Row274,2.247539447,p53,TP53
+1321,etoposide,LessDILIDrugs,17.0,0.946494156,TOX21_p53_BLA_p1_ch2_Row274,0.909599355,p53,TP53
+1322,mebendazole,LessDILIDrugs,0.126,-0.03963181,TOX21_p53_BLA_p1_ch2_Row274,0.130993608,p53,TP53
+1323,paclitaxel,LessDILIDrugs,4.3,-1.5267333159999998,TOX21_p53_BLA_p1_ch2_Row274,10.86495326,p53,TP53
+1324,albendazole,MostDILI Drugs,0.9045,0.71993392,TOX21_p53_BLA_p1_ch2_Row274,0.253319769,p53,TP53
+1325,benzbromarone,MostDILI Drugs,4.3387,0.44937066600000003,TOX21_p53_BLA_p1_ch2_Row274,2.389015491,p53,TP53
+1326,bortezomib,MostDILI Drugs,0.2714,0.961608165,TOX21_p53_BLA_p1_ch2_Row274,0.010419544000000001,p53,TP53
+1327,disulfiram,MostDILI Drugs,5.4,-0.19214600199999998,TOX21_p53_BLA_p1_ch2_Row274,6.437588412999999,p53,TP53
+1328,methotrexate,MostDILI Drugs,0.7724,0.6695343579999999,TOX21_p53_BLA_p1_ch2_Row274,0.255251662,p53,TP53
+1329,pazopanib,MostDILI Drugs,62.8,0.581654684,TOX21_p53_BLA_p1_ch2_Row274,26.27208583,p53,TP53
+1330,riluzole,MostDILI Drugs,1.6524,-2.5356964140000002,TOX21_p53_BLA_p1_ch2_Row274,5.842384753999999,p53,TP53
+1331,bisacodyl,NoDILI Drugs,0.15,-2.074546747,TOX21_p53_BLA_p1_ch2_Row274,0.46118201200000003,p53,TP53
+1332,daunorubicin,NoDILI Drugs,0.3791,-3.011023643,TOX21_p53_BLA_p1_ch2_Row274,1.520579063,p53,TP53
+1333,digoxin,NoDILI Drugs,0.0028,-2.368662857,TOX21_p53_BLA_p1_ch2_Row274,0.009432256,p53,TP53
+1334,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.09271022300000001,TOX21_p53_BLA_p1_ratio_Row162,36.04643412,p53,TP53
+1335,docetaxel,LessDILIDrugs,0.9329999999999999,-1.360081571,TOX21_p53_BLA_p1_ratio_Row162,2.201956106,p53,TP53
+1336,etoposide,LessDILIDrugs,17.0,0.956279508,TOX21_p53_BLA_p1_ratio_Row162,0.7432483590000001,p53,TP53
+1337,mebendazole,LessDILIDrugs,0.126,-0.073044056,TOX21_p53_BLA_p1_ratio_Row162,0.135203551,p53,TP53
+1338,paclitaxel,LessDILIDrugs,4.3,0.997498106,TOX21_p53_BLA_p1_ratio_Row162,0.010758143000000001,p53,TP53
+1339,albendazole,MostDILI Drugs,0.9045,0.67262346,TOX21_p53_BLA_p1_ratio_Row162,0.29611208,p53,TP53
+1340,bortezomib,MostDILI Drugs,0.2714,0.974932885,TOX21_p53_BLA_p1_ratio_Row162,0.006803215,p53,TP53
+1341,methotrexate,MostDILI Drugs,0.7724,0.655057343,TOX21_p53_BLA_p1_ratio_Row162,0.266433708,p53,TP53
+1342,pazopanib,MostDILI Drugs,62.8,0.5707114870000001,TOX21_p53_BLA_p1_ratio_Row162,26.9593186,p53,TP53
+1343,riluzole,MostDILI Drugs,1.6524,-3.824311865,TOX21_p53_BLA_p1_ratio_Row162,7.971692925,p53,TP53
+1344,tolcapone,MostDILI Drugs,74.2928,0.164765186,TOX21_p53_BLA_p1_ratio_Row162,62.05193296,p53,TP53
+1345,bisacodyl,NoDILI Drugs,0.15,-2.394469153,TOX21_p53_BLA_p1_ratio_Row162,0.509170373,p53,TP53
+1346,daunorubicin,NoDILI Drugs,0.3791,-3.4046569110000005,TOX21_p53_BLA_p1_ratio_Row162,1.669805435,p53,TP53
+1347,ethacrynic acid,AmbiDILIDrugs,32.9881,-1.017136365,TOX21_p53_BLA_p1_viability_Row171,66.54149612,p53,TP53
+1348,bortezomib,MostDILI Drugs,0.2714,-0.105004716,TOX21_p53_BLA_p1_viability_Row171,0.29989828,p53,TP53
+1349,methotrexate,MostDILI Drugs,0.7724,0.8290700790000001,TOX21_p53_BLA_p1_viability_Row171,0.132026271,p53,TP53
+1350,tolcapone,MostDILI Drugs,74.2928,-0.05320228,TOX21_p53_BLA_p1_viability_Row171,78.24534633,p53,TP53
+1351,zafirlukast,MostDILI Drugs,1.2107,-3.5052748910000004,TOX21_p53_BLA_p1_viability_Row171,5.45453631,p53,TP53
+1352,cyproheptadine,LessDILIDrugs,104.3827,0.607733569,TOX21_p53_BLA_p2_ch1_Row98,40.94582919,p53,TP53
+1353,allopurinol,MostDILI Drugs,13.812000000000001,-0.006377221999999999,TOX21_p53_BLA_p2_ch1_Row98,13.90008219,p53,TP53
+1354,bortezomib,MostDILI Drugs,0.2714,0.55011479,TOX21_p53_BLA_p2_ch1_Row98,0.122098846,p53,TP53
+1355,efavirenz,MostDILI Drugs,13.0,-2.149215765,TOX21_p53_BLA_p2_ch1_Row98,40.93980494,p53,TP53
+1357,carisoprodol,NoDILI Drugs,57.6187,0.737918152,TOX21_p53_BLA_p2_ch1_Row98,15.10081538,p53,TP53
+1358,daunorubicin,NoDILI Drugs,0.3791,-1.097387233,TOX21_p53_BLA_p2_ch1_Row98,0.7951195,p53,TP53
+1359,ethacrynic acid,AmbiDILIDrugs,32.9881,0.507598541,TOX21_p53_BLA_p2_ch2_Row77,16.24338856,p53,TP53
+1360,docetaxel,LessDILIDrugs,0.9329999999999999,0.996006245,TOX21_p53_BLA_p2_ch2_Row77,0.0037261729999999997,p53,TP53
+1361,etoposide,LessDILIDrugs,17.0,0.964966848,TOX21_p53_BLA_p2_ch2_Row77,0.595563586,p53,TP53
+1362,mebendazole,LessDILIDrugs,0.126,-0.828607357,TOX21_p53_BLA_p2_ch2_Row77,0.230404527,p53,TP53
+1363,paclitaxel,LessDILIDrugs,4.3,0.9980488359999999,TOX21_p53_BLA_p2_ch2_Row77,0.008390006,p53,TP53
+1364,quinine,LessDILIDrugs,9.2472,-3.423674783,TOX21_p53_BLA_p2_ch2_Row77,40.90660545,p53,TP53
+1365,albendazole,MostDILI Drugs,0.9045,0.662270954,TOX21_p53_BLA_p2_ch2_Row77,0.305475922,p53,TP53
+1366,benzbromarone,MostDILI Drugs,4.3387,0.727014508,TOX21_p53_BLA_p2_ch2_Row77,1.184402154,p53,TP53
+1367,bortezomib,MostDILI Drugs,0.2714,0.970102907,TOX21_p53_BLA_p2_ch2_Row77,0.008114071,p53,TP53
+1368,disulfiram,MostDILI Drugs,5.4,-2.41730505,TOX21_p53_BLA_p2_ch2_Row77,18.45344727,p53,TP53
+1369,griseofulvin,MostDILI Drugs,4.5356,-3.613406074,TOX21_p53_BLA_p2_ch2_Row77,20.92456459,p53,TP53
+1370,methotrexate,MostDILI Drugs,0.7724,0.97413496,TOX21_p53_BLA_p2_ch2_Row77,0.019978157,p53,TP53
+1371,pazopanib,MostDILI Drugs,62.8,0.6453213720000001,TOX21_p53_BLA_p2_ch2_Row77,22.27381783,p53,TP53
+1372,riluzole,MostDILI Drugs,1.6524,-2.708772539,TOX21_p53_BLA_p2_ch2_Row77,6.128375742999999,p53,TP53
+1373,ritonavir,MostDILI Drugs,7.5511,-3.1423131410000003,TOX21_p53_BLA_p2_ch2_Row77,31.27902076,p53,TP53
+1375,daunorubicin,NoDILI Drugs,0.3791,-1.807098747,TOX21_p53_BLA_p2_ch2_Row77,1.064171135,p53,TP53
+1376,digoxin,NoDILI Drugs,0.0028,-3.3122417860000004,TOX21_p53_BLA_p2_ch2_Row77,0.012074277,p53,TP53
+1377,hydroxyzine,NoDILI Drugs,0.2694,0.999977728,TOX21_p53_BLA_p2_ch2_Row77,6e-06,p53,TP53
+1378,capecitabine,AmbiDILIDrugs,7.9309,0.958712827,TOX21_p53_BLA_p2_ratio_Row80,0.327444442,p53,TP53
+1379,ethacrynic acid,AmbiDILIDrugs,32.9881,0.6758646309999999,TOX21_p53_BLA_p2_ratio_Row80,10.69260995,p53,TP53
+1380,cyproheptadine,LessDILIDrugs,104.3827,0.608232075,TOX21_p53_BLA_p2_ratio_Row80,40.89379376,p53,TP53
+1381,docetaxel,LessDILIDrugs,0.9329999999999999,-1.719389126,TOX21_p53_BLA_p2_ratio_Row80,2.537190055,p53,TP53
+1382,etoposide,LessDILIDrugs,17.0,0.952135629,TOX21_p53_BLA_p2_ratio_Row80,0.81369431,p53,TP53
+1383,mebendazole,LessDILIDrugs,0.126,-1.18375431,TOX21_p53_BLA_p2_ratio_Row80,0.275153043,p53,TP53
+1384,paclitaxel,LessDILIDrugs,4.3,0.564336291,TOX21_p53_BLA_p2_ratio_Row80,1.87335395,p53,TP53
+1385,quinine,LessDILIDrugs,9.2472,-3.424430913,TOX21_p53_BLA_p2_ratio_Row80,40.91359754,p53,TP53
+1386,albendazole,MostDILI Drugs,0.9045,0.641397762,TOX21_p53_BLA_p2_ratio_Row80,0.324355724,p53,TP53
+1387,benzbromarone,MostDILI Drugs,4.3387,0.20543370100000002,TOX21_p53_BLA_p2_ratio_Row80,3.447384801,p53,TP53
+1388,bortezomib,MostDILI Drugs,0.2714,0.97023815,TOX21_p53_BLA_p2_ratio_Row80,0.008077365999999999,p53,TP53
+1389,griseofulvin,MostDILI Drugs,4.5356,-3.163385078,TOX21_p53_BLA_p2_ratio_Row80,18.88344936,p53,TP53
+1390,ketoconazole,MostDILI Drugs,7.0,-1.601593674,TOX21_p53_BLA_p2_ratio_Row80,18.21115572,p53,TP53
+1391,methotrexate,MostDILI Drugs,0.7724,0.963930579,TOX21_p53_BLA_p2_ratio_Row80,0.027860021000000002,p53,TP53
+1392,pazopanib,MostDILI Drugs,62.8,0.65361884,TOX21_p53_BLA_p2_ratio_Row80,21.75273684,p53,TP53
+1393,riluzole,MostDILI Drugs,1.6524,-2.616817563,TOX21_p53_BLA_p2_ratio_Row80,5.976429341,p53,TP53
+1394,tolcapone,MostDILI Drugs,74.2928,0.789264937,TOX21_p53_BLA_p2_ratio_Row80,15.65609791,p53,TP53
+1396,carisoprodol,NoDILI Drugs,57.6187,0.73950857,TOX21_p53_BLA_p2_ratio_Row80,15.00917753,p53,TP53
+1397,daunorubicin,NoDILI Drugs,0.3791,-2.8226797180000003,TOX21_p53_BLA_p2_ratio_Row80,1.449177881,p53,TP53
+1398,hydroxyzine,NoDILI Drugs,0.2694,0.9999699329999999,TOX21_p53_BLA_p2_ratio_Row80,8.1e-06,p53,TP53
+1399,capecitabine,AmbiDILIDrugs,7.9309,0.958610918,TOX21_p53_BLA_p2_viability_Row180,0.328252669,p53,TP53
+1400,trimethadione,AmbiDILIDrugs,41.9167,0.999999237,TOX21_p53_BLA_p2_viability_Row180,3.2e-05,p53,TP53
+1401,cimetidine,LessDILIDrugs,4.5176,0.999996436,TOX21_p53_BLA_p2_viability_Row180,1.6100000000000002e-05,p53,TP53
+1402,cyproheptadine,LessDILIDrugs,104.3827,0.6077105620000001,TOX21_p53_BLA_p2_viability_Row180,40.94823076,p53,TP53
+1403,famotidine,LessDILIDrugs,0.3082,-0.051768287,TOX21_p53_BLA_p2_viability_Row180,0.32415498600000003,p53,TP53
+1404,nifedipine,LessDILIDrugs,0.2711,0.8539762409999999,TOX21_p53_BLA_p2_viability_Row180,0.039587041,p53,TP53
+1405,omeprazole,LessDILIDrugs,2.7039,0.9999878320000001,TOX21_p53_BLA_p2_viability_Row180,3.289999999999999e-05,p53,TP53
+1406,quinidine,LessDILIDrugs,8.6616,0.999993846,TOX21_p53_BLA_p2_viability_Row180,5.3299999999999995e-05,p53,TP53
+1407,allopurinol,MostDILI Drugs,13.812000000000001,-0.18532986899999998,TOX21_p53_BLA_p2_viability_Row180,16.37177615,p53,TP53
+1408,bortezomib,MostDILI Drugs,0.2714,0.27382448800000003,TOX21_p53_BLA_p2_viability_Row180,0.197084034,p53,TP53
+1409,tolcapone,MostDILI Drugs,74.2928,0.27220643899999997,TOX21_p53_BLA_p2_viability_Row180,54.06982146,p53,TP53
+1410,caffeine,NoDILI Drugs,42.0,0.9999997620000001,TOX21_p53_BLA_p2_viability_Row180,1e-05,p53,TP53
+1411,carisoprodol,NoDILI Drugs,57.6187,0.72886373,TOX21_p53_BLA_p2_viability_Row180,15.62251939,p53,TP53
+1412,hydrocortisone,NoDILI Drugs,0.8415,0.9999881159999999,TOX21_p53_BLA_p2_viability_Row180,1e-05,p53,TP53
+1413,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.372052128,TOX21_p53_BLA_p3_ch1_Row121,45.26139279,p53,TP53
+1414,metolazone,AmbiDILIDrugs,0.0706,0.988314448,TOX21_p53_BLA_p3_ch1_Row121,0.000825,p53,TP53
+1415,captopril,LessDILIDrugs,8.8822,0.99991984,TOX21_p53_BLA_p3_ch1_Row121,0.000712,p53,TP53
+1416,bortezomib,MostDILI Drugs,0.2714,-0.22755026899999997,TOX21_p53_BLA_p3_ch1_Row121,0.333157143,p53,TP53
+1417,sulindac,MostDILI Drugs,31.9852,0.9999768640000001,TOX21_p53_BLA_p3_ch1_Row121,0.00074,p53,TP53
+1418,tolcapone,MostDILI Drugs,74.2928,0.498886406,TOX21_p53_BLA_p3_ch1_Row121,37.22913201,p53,TP53
+1420,amifostine,NoDILI Drugs,240.0,0.9999965129999999,TOX21_p53_BLA_p3_ch1_Row121,0.000837,p53,TP53
+1421,ethacrynic acid,AmbiDILIDrugs,32.9881,0.017280926000000002,TOX21_p53_BLA_p3_ch2_Row92,32.41803509,p53,TP53
+1422,ampicillin,LessDILIDrugs,8.42,0.612323589,TOX21_p53_BLA_p3_ch2_Row92,3.26423538,p53,TP53
+1423,docetaxel,LessDILIDrugs,0.9329999999999999,-1.297011544,TOX21_p53_BLA_p3_ch2_Row92,2.143111771,p53,TP53
+1424,etoposide,LessDILIDrugs,17.0,0.9661541309999999,TOX21_p53_BLA_p3_ch2_Row92,0.575379765,p53,TP53
+1425,mebendazole,LessDILIDrugs,0.126,-0.978106206,TOX21_p53_BLA_p3_ch2_Row92,0.24924138199999998,p53,TP53
+1426,paclitaxel,LessDILIDrugs,4.3,0.997680369,TOX21_p53_BLA_p3_ch2_Row92,0.009974413,p53,TP53
+1427,albendazole,MostDILI Drugs,0.9045,0.690658532,TOX21_p53_BLA_p3_ch2_Row92,0.279799358,p53,TP53
+1428,bortezomib,MostDILI Drugs,0.2714,0.969530722,TOX21_p53_BLA_p3_ch2_Row92,0.008269361999999999,p53,TP53
+1429,disulfiram,MostDILI Drugs,5.4,-3.959587509,TOX21_p53_BLA_p3_ch2_Row92,26.78177255,p53,TP53
+1430,methotrexate,MostDILI Drugs,0.7724,0.908566999,TOX21_p53_BLA_p3_ch2_Row92,0.07062285,p53,TP53
+1431,pazopanib,MostDILI Drugs,62.8,0.537643523,TOX21_p53_BLA_p3_ch2_Row92,29.03598674,p53,TP53
+1432,riluzole,MostDILI Drugs,1.6524,-3.31125198,TOX21_p53_BLA_p3_ch2_Row92,7.1239127710000005,p53,TP53
+1434,digoxin,NoDILI Drugs,0.0028,-3.049636429,TOX21_p53_BLA_p3_ch2_Row92,0.011338982,p53,TP53
+1435,hydroxyzine,NoDILI Drugs,0.2694,0.99989124,TOX21_p53_BLA_p3_ch2_Row92,2.9299999999999997e-05,p53,TP53
+1436,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.077266528,TOX21_p53_BLA_p3_ratio_Row118,35.53697595,p53,TP53
+1437,docetaxel,LessDILIDrugs,0.9329999999999999,-1.4727108359999999,TOX21_p53_BLA_p3_ratio_Row118,2.30703921,p53,TP53
+1438,etoposide,LessDILIDrugs,17.0,0.945471698,TOX21_p53_BLA_p3_ratio_Row118,0.9269811370000001,p53,TP53
+1439,mebendazole,LessDILIDrugs,0.126,-1.08931377,TOX21_p53_BLA_p3_ratio_Row118,0.263253535,p53,TP53
+1440,paclitaxel,LessDILIDrugs,4.3,0.9981406829999999,TOX21_p53_BLA_p3_ratio_Row118,0.007995061,p53,TP53
+1441,albendazole,MostDILI Drugs,0.9045,0.621062384,TOX21_p53_BLA_p3_ratio_Row118,0.342749074,p53,TP53
+1442,benzbromarone,MostDILI Drugs,4.3387,-1.5461153019999998,TOX21_p53_BLA_p3_ratio_Row118,11.04683046,p53,TP53
+1443,bortezomib,MostDILI Drugs,0.2714,0.9692515840000001,TOX21_p53_BLA_p3_ratio_Row118,0.00834512,p53,TP53
+1444,methotrexate,MostDILI Drugs,0.7724,0.906520896,TOX21_p53_BLA_p3_ratio_Row118,0.07220326,p53,TP53
+1445,pazopanib,MostDILI Drugs,62.8,0.635628517,TOX21_p53_BLA_p3_ratio_Row118,22.88252911,p53,TP53
+1446,riluzole,MostDILI Drugs,1.6524,-3.870615827,TOX21_p53_BLA_p3_ratio_Row118,8.048205592999999,p53,TP53
+1448,hydroxyzine,NoDILI Drugs,0.2694,0.999901633,TOX21_p53_BLA_p3_ratio_Row118,2.65e-05,p53,TP53
+1449,fenofibrate,LessDILIDrugs,4.1016,0.999993295,TOX21_p53_BLA_p3_viability_Row184,2.75e-05,p53,TP53
+1450,bortezomib,MostDILI Drugs,0.2714,-0.024191083,TOX21_p53_BLA_p3_viability_Row184,0.27796546,p53,TP53
+1451,methotrexate,MostDILI Drugs,0.7724,0.789341207,TOX21_p53_BLA_p3_viability_Row184,0.162712852,p53,TP53
+1452,tolcapone,MostDILI Drugs,74.2928,0.381933819,TOX21_p53_BLA_p3_viability_Row184,45.91786714,p53,TP53
+1453,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.974836024,TOX21_p53_BLA_p4_ch1_Row112,65.14608825,p53,TP53
+1454,bortezomib,MostDILI Drugs,0.2714,-0.198979849,TOX21_p53_BLA_p4_ch1_Row112,0.325403131,p53,TP53
+1455,efavirenz,MostDILI Drugs,13.0,-2.148028432,TOX21_p53_BLA_p4_ch1_Row112,40.92436961,p53,TP53
+1456,ketoconazole,MostDILI Drugs,7.0,-3.614962764,TOX21_p53_BLA_p4_ch1_Row112,32.30473935,p53,TP53
+1457,leflunomide,MostDILI Drugs,24.7956,0.9943680359999999,TOX21_p53_BLA_p4_ch1_Row112,0.139647931,p53,TP53
+1458,tolcapone,MostDILI Drugs,74.2928,-0.372758876,TOX21_p53_BLA_p4_ch1_Row112,101.9861006,p53,TP53
+1460,daunorubicin,NoDILI Drugs,0.3791,-0.36846831399999996,TOX21_p53_BLA_p4_ch1_Row112,0.518786338,p53,TP53
+1461,ethacrynic acid,AmbiDILIDrugs,32.9881,0.650828266,TOX21_p53_BLA_p4_ch2_Row163,11.51851209,p53,TP53
+1462,auranofin,LessDILIDrugs,1.0007,-2.302919122,TOX21_p53_BLA_p4_ch2_Row163,3.305231165,p53,TP53
+1463,azithromycin,LessDILIDrugs,0.5341,0.9996629840000001,TOX21_p53_BLA_p4_ch2_Row163,0.00018,p53,TP53
+1464,cimetidine,LessDILIDrugs,4.5176,0.958573204,TOX21_p53_BLA_p4_ch2_Row163,0.187149695,p53,TP53
+1465,docetaxel,LessDILIDrugs,0.9329999999999999,0.996704788,TOX21_p53_BLA_p4_ch2_Row163,0.0030744329999999997,p53,TP53
+1466,etoposide,LessDILIDrugs,17.0,0.969336422,TOX21_p53_BLA_p4_ch2_Row163,0.521280828,p53,TP53
+1467,mebendazole,LessDILIDrugs,0.126,-1.009726667,TOX21_p53_BLA_p4_ch2_Row163,0.25322556,p53,TP53
+1468,paclitaxel,LessDILIDrugs,4.3,0.9984133190000001,TOX21_p53_BLA_p4_ch2_Row163,0.006822727,p53,TP53
+1469,albendazole,MostDILI Drugs,0.9045,0.754240488,TOX21_p53_BLA_p4_ch2_Row163,0.22228947899999998,p53,TP53
+1470,benzbromarone,MostDILI Drugs,4.3387,0.371124668,TOX21_p53_BLA_p4_ch2_Row163,2.728501405,p53,TP53
+1471,bortezomib,MostDILI Drugs,0.2714,0.970420298,TOX21_p53_BLA_p4_ch2_Row163,0.008027931,p53,TP53
+1472,methotrexate,MostDILI Drugs,0.7724,0.118885151,TOX21_p53_BLA_p4_ch2_Row163,0.680573109,p53,TP53
+1473,pazopanib,MostDILI Drugs,62.8,0.6079693979999999,TOX21_p53_BLA_p4_ch2_Row163,24.61952179,p53,TP53
+1474,daunorubicin,NoDILI Drugs,0.3791,-0.40518577200000006,TOX21_p53_BLA_p4_ch2_Row163,0.532705926,p53,TP53
+1475,digoxin,NoDILI Drugs,0.0028,-3.4882782139999997,TOX21_p53_BLA_p4_ch2_Row163,0.012567179,p53,TP53
+1476,hydroxyzine,NoDILI Drugs,0.2694,0.998697105,TOX21_p53_BLA_p4_ch2_Row163,0.00035099999999999997,p53,TP53
+1477,ethacrynic acid,AmbiDILIDrugs,32.9881,0.17985118600000002,TOX21_p53_BLA_p4_ratio_Row126,27.0551511,p53,TP53
+1478,docetaxel,LessDILIDrugs,0.9329999999999999,0.9966720290000001,TOX21_p53_BLA_p4_ratio_Row126,0.003104997,p53,TP53
+1479,etoposide,LessDILIDrugs,17.0,0.8936613590000001,TOX21_p53_BLA_p4_ratio_Row126,1.80775689,p53,TP53
+1480,mebendazole,LessDILIDrugs,0.126,-0.8575884840000001,TOX21_p53_BLA_p4_ratio_Row126,0.234056149,p53,TP53
+1481,paclitaxel,LessDILIDrugs,4.3,0.99829906,TOX21_p53_BLA_p4_ratio_Row126,0.007314040999999999,p53,TP53
+1482,albendazole,MostDILI Drugs,0.9045,0.7490401659999999,TOX21_p53_BLA_p4_ratio_Row126,0.22699317,p53,TP53
+1483,bortezomib,MostDILI Drugs,0.2714,0.969882664,TOX21_p53_BLA_p4_ratio_Row126,0.008173845,p53,TP53
+1484,efavirenz,MostDILI Drugs,13.0,-2.145342269,TOX21_p53_BLA_p4_ratio_Row126,40.8894495,p53,TP53
+1485,methotrexate,MostDILI Drugs,0.7724,0.9652306420000001,TOX21_p53_BLA_p4_ratio_Row126,0.026855852000000003,p53,TP53
+1486,pazopanib,MostDILI Drugs,62.8,0.620511389,TOX21_p53_BLA_p4_ratio_Row126,23.83188477,p53,TP53
+1487,sulindac,MostDILI Drugs,31.9852,0.992735321,TOX21_p53_BLA_p4_ratio_Row126,0.232362221,p53,TP53
+1488,tolcapone,MostDILI Drugs,74.2928,0.318353685,TOX21_p53_BLA_p4_ratio_Row126,50.64141332,p53,TP53
+1490,daunorubicin,NoDILI Drugs,0.3791,-0.21294115,TOX21_p53_BLA_p4_ratio_Row126,0.45982599,p53,TP53
+1491,hydroxyzine,NoDILI Drugs,0.2694,0.998337045,TOX21_p53_BLA_p4_ratio_Row126,0.00044800000000000005,p53,TP53
+1492,ambrisentan,AmbiDILIDrugs,2.6124,0.999985377,TOX21_p53_BLA_p4_viability_Row177,3.82e-05,p53,TP53
+1493,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.27427671800000003,TOX21_p53_BLA_p4_viability_Row177,42.03596779,p53,TP53
+1494,pyrimethamine,LessDILIDrugs,3.2889,-2.018914053,TOX21_p53_BLA_p4_viability_Row177,9.928906429,p53,TP53
+1495,zonisamide,LessDILIDrugs,24.0,0.9999909579999999,TOX21_p53_BLA_p4_viability_Row177,0.000217,p53,TP53
+1496,bortezomib,MostDILI Drugs,0.2714,0.546679705,TOX21_p53_BLA_p4_viability_Row177,0.123031128,p53,TP53
+1497,efavirenz,MostDILI Drugs,13.0,-1.064892715,TOX21_p53_BLA_p4_viability_Row177,26.8436053,p53,TP53
+1498,leflunomide,MostDILI Drugs,24.7956,0.990109048,TOX21_p53_BLA_p4_viability_Row177,0.245252091,p53,TP53
+1499,methotrexate,MostDILI Drugs,0.7724,0.986948622,TOX21_p53_BLA_p4_viability_Row177,0.010080884,p53,TP53
+1500,sulindac,MostDILI Drugs,31.9852,0.9931046259999999,TOX21_p53_BLA_p4_viability_Row177,0.22054990300000002,p53,TP53
+1501,tolcapone,MostDILI Drugs,74.2928,0.329872047,TOX21_p53_BLA_p4_viability_Row177,49.78568201,p53,TP53
+1502,hydrocortisone,NoDILI Drugs,0.8415,0.99997041,TOX21_p53_BLA_p4_viability_Row177,2.49e-05,p53,TP53
+1503,bortezomib,MostDILI Drugs,0.2714,-3.250135457,TOX21_p53_BLA_p5_ch1_Row169,1.1534867629999999,p53,TP53
+1504,efavirenz,MostDILI Drugs,13.0,-2.1491827409999997,TOX21_p53_BLA_p5_ch1_Row169,40.93937563,p53,TP53
+1505,ethacrynic acid,AmbiDILIDrugs,32.9881,0.095837823,TOX21_p53_BLA_p5_ch2_Row151,29.82659231,p53,TP53
+1506,cyproheptadine,LessDILIDrugs,104.3827,0.9047258140000001,TOX21_p53_BLA_p5_ch2_Row151,9.944976741,p53,TP53
+1507,docetaxel,LessDILIDrugs,0.9329999999999999,-1.653190935,TOX21_p53_BLA_p5_ch2_Row151,2.475427142,p53,TP53
+1508,etoposide,LessDILIDrugs,17.0,0.9548994740000001,TOX21_p53_BLA_p5_ch2_Row151,0.7667089420000001,p53,TP53
+1509,mebendazole,LessDILIDrugs,0.126,-1.937104706,TOX21_p53_BLA_p5_ch2_Row151,0.37007519299999997,p53,TP53
+1510,oxcarbazepine,LessDILIDrugs,6.3424,-2.798268958,TOX21_p53_BLA_p5_ch2_Row151,24.09014104,p53,TP53
+1511,paclitaxel,LessDILIDrugs,4.3,0.998168807,TOX21_p53_BLA_p5_ch2_Row151,0.007874128000000001,p53,TP53
+1512,albendazole,MostDILI Drugs,0.9045,0.5809289000000001,TOX21_p53_BLA_p5_ch2_Row151,0.37904981,p53,TP53
+1513,benzbromarone,MostDILI Drugs,4.3387,0.331379317,TOX21_p53_BLA_p5_ch2_Row151,2.9009445560000002,p53,TP53
+1514,bortezomib,MostDILI Drugs,0.2714,0.9615990459999999,TOX21_p53_BLA_p5_ch2_Row151,0.010422019,p53,TP53
+1515,leflunomide,MostDILI Drugs,24.7956,0.997690269,TOX21_p53_BLA_p5_ch2_Row151,0.05727117599999999,p53,TP53
+1516,methotrexate,MostDILI Drugs,0.7724,0.12156741800000001,TOX21_p53_BLA_p5_ch2_Row151,0.6785013259999999,p53,TP53
+1517,pazopanib,MostDILI Drugs,62.8,0.643079928,TOX21_p53_BLA_p5_ch2_Row151,22.41458053,p53,TP53
+1518,daunorubicin,NoDILI Drugs,0.3791,-1.524552321,TOX21_p53_BLA_p5_ch2_Row151,0.957057785,p53,TP53
+1519,digoxin,NoDILI Drugs,0.0028,-3.3937339289999997,TOX21_p53_BLA_p5_ch2_Row151,0.012302455,p53,TP53
+1520,hydroxyzine,NoDILI Drugs,0.2694,0.9998036379999999,TOX21_p53_BLA_p5_ch2_Row151,5.2900000000000005e-05,p53,TP53
+1521,methysergide,NoDILI Drugs,0.004,0.996225,TOX21_p53_BLA_p5_ch2_Row151,1.51e-05,p53,TP53
+1522,ethacrynic acid,AmbiDILIDrugs,32.9881,0.127140279,TOX21_p53_BLA_p5_ratio_Row117,28.79398376,p53,TP53
+1523,docetaxel,LessDILIDrugs,0.9329999999999999,-1.665180778,TOX21_p53_BLA_p5_ratio_Row117,2.486613666,p53,TP53
+1524,entacapone,LessDILIDrugs,4.2583,-3.3662520139999996,TOX21_p53_BLA_p5_ratio_Row117,18.59281095,p53,TP53
+1525,etoposide,LessDILIDrugs,17.0,0.912485608,TOX21_p53_BLA_p5_ratio_Row117,1.487744671,p53,TP53
+1526,lomustine,LessDILIDrugs,3.6372,0.9986805959999999,TOX21_p53_BLA_p5_ratio_Row117,0.0047989370000000005,p53,TP53
+1527,mebendazole,LessDILIDrugs,0.126,-1.53010469,TOX21_p53_BLA_p5_ratio_Row117,0.31879319100000003,p53,TP53
+1528,paclitaxel,LessDILIDrugs,4.3,-0.7615199779999999,TOX21_p53_BLA_p5_ratio_Row117,7.574535905,p53,TP53
+1529,albendazole,MostDILI Drugs,0.9045,0.599432315,TOX21_p53_BLA_p5_ratio_Row117,0.362313471,p53,TP53
+1530,benzbromarone,MostDILI Drugs,4.3387,-2.942718764,TOX21_p53_BLA_p5_ratio_Row117,17.106273899999998,p53,TP53
+1531,bortezomib,MostDILI Drugs,0.2714,0.964055645,TOX21_p53_BLA_p5_ratio_Row117,0.009755298,p53,TP53
+1532,efavirenz,MostDILI Drugs,13.0,-2.146436405,TOX21_p53_BLA_p5_ratio_Row117,40.90367326,p53,TP53
+1533,leflunomide,MostDILI Drugs,24.7956,0.9978428429999999,TOX21_p53_BLA_p5_ratio_Row117,0.05348799,p53,TP53
+1534,methotrexate,MostDILI Drugs,0.7724,0.32228926199999997,TOX21_p53_BLA_p5_ratio_Row117,0.523463774,p53,TP53
+1535,pazopanib,MostDILI Drugs,62.8,0.638204138,TOX21_p53_BLA_p5_ratio_Row117,22.72078014,p53,TP53
+1536,tolcapone,MostDILI Drugs,74.2928,0.156287141,TOX21_p53_BLA_p5_ratio_Row117,62.68179067,p53,TP53
+1538,daunorubicin,NoDILI Drugs,0.3791,-1.764845099,TOX21_p53_BLA_p5_ratio_Row117,1.048152777,p53,TP53
+1539,hydroxyzine,NoDILI Drugs,0.2694,0.999819228,TOX21_p53_BLA_p5_ratio_Row117,4.8700000000000005e-05,p53,TP53
+1540,ethacrynic acid,AmbiDILIDrugs,32.9881,0.803150459,TOX21_p53_BLA_p5_viability_Row185,6.493692331,p53,TP53
+1541,memantine,LessDILIDrugs,0.1231,-1.361565654,TOX21_p53_BLA_p5_viability_Row185,0.29070873199999997,p53,TP53
+1542,bortezomib,MostDILI Drugs,0.2714,-0.9349990640000001,TOX21_p53_BLA_p5_viability_Row185,0.525158746,p53,TP53
+1543,nateglinide,AmbiDILIDrugs,17.7051,0.9999154920000001,TOX21_PPARd_BLA_agonist_ch1_Row283,0.00149622,PPARd,PPARD
+1544,ibuprofen,LessDILIDrugs,250.0,0.8955016579999999,TOX21_PPARd_BLA_agonist_ch2_Row208,26.12458558,PPARd,PPARD
+1545,diflunisal,MostDILI Drugs,495.6055,0.887183996,TOX21_PPARd_BLA_agonist_ch2_Row208,55.91223219,PPARd,PPARD
+1546,indomethacin,MostDILI Drugs,5.5899,-2.315319879,TOX21_PPARd_BLA_agonist_ch2_Row208,18.53230659,PPARd,PPARD
+1547,mefenamic acid,MostDILI Drugs,26.9388,0.17574848199999998,TOX21_PPARd_BLA_agonist_ch2_Row208,22.2043468,PPARd,PPARD
+1548,digoxin,NoDILI Drugs,0.0028,-3.033999643,TOX21_PPARd_BLA_agonist_ch2_Row208,0.011295198999999999,PPARd,PPARD
+1549,disulfiram,MostDILI Drugs,5.4,0.984008074,TOX21_PPARd_BLA_Agonist_viability_Row222,0.086356401,PPARd,PPARD
+1550,efavirenz,MostDILI Drugs,13.0,-1.6013095380000002,TOX21_PPARd_BLA_Agonist_viability_Row222,33.81702399,PPARd,PPARD
+1551,ketoconazole,MostDILI Drugs,7.0,-2.404282796,TOX21_PPARd_BLA_Agonist_viability_Row222,23.82997957,PPARd,PPARD
+1552,leflunomide,MostDILI Drugs,24.7956,-0.292150284,TOX21_PPARd_BLA_Agonist_viability_Row222,32.03964157,PPARd,PPARD
+1553,ritonavir,MostDILI Drugs,7.5511,-1.4641675159999998,TOX21_PPARd_BLA_Agonist_viability_Row222,18.60717533,PPARd,PPARD
+1554,flurbiprofen,AmbiDILIDrugs,57.315,0.99838779,TOX21_PPARd_BLA_Antagonist_ch1_Row281,0.092403822,PPARd,PPARD
+1555,naproxen,LessDILIDrugs,200.21,0.999929117,TOX21_PPARd_BLA_Antagonist_ch1_Row281,0.014191538,PPARd,PPARD
+1556,ethacrynic acid,AmbiDILIDrugs,32.9881,0.20531651899999998,TOX21_PPARd_BLA_antagonist_ratio_Row221,26.21509815,PPARd,PPARD
+1557,benzbromarone,MostDILI Drugs,4.3387,-1.820763542,TOX21_PPARd_BLA_antagonist_ratio_Row221,12.23844678,PPARd,PPARD
+1558,bortezomib,MostDILI Drugs,0.2714,0.78370808,TOX21_PPARd_BLA_antagonist_ratio_Row221,0.058701627,PPARd,PPARD
+1559,disulfiram,MostDILI Drugs,5.4,0.988008655,TOX21_PPARd_BLA_antagonist_ratio_Row221,0.064753264,PPARd,PPARD
+1560,leflunomide,MostDILI Drugs,24.7956,-0.18280052600000002,TOX21_PPARd_BLA_antagonist_ratio_Row221,29.32824873,PPARd,PPARD
+1561,tolcapone,MostDILI Drugs,74.2928,0.737371798,TOX21_PPARd_BLA_antagonist_ratio_Row221,19.5113845,PPARd,PPARD
+1562,daunorubicin,NoDILI Drugs,0.3791,-3.417828945,TOX21_PPARd_BLA_antagonist_ratio_Row221,1.674798953,PPARd,PPARD
+1563,auranofin,LessDILIDrugs,1.0007,0.328385065,TOX21_PPARg_BLA_Agonist_ch2_Row1,0.672085065,PPARg,PPARG
+1564,irbesartan,LessDILIDrugs,7.9806,-0.07599047,TOX21_PPARg_BLA_Agonist_ch2_Row1,8.587049541,PPARg,PPARG
+1565,rifabutin,LessDILIDrugs,1.0708,0.99999392,TOX21_PPARg_BLA_Agonist_ch2_Row1,6.51e-06,PPARg,PPARG
+1566,rosiglitazone,LessDILIDrugs,1.0436,0.9796886,TOX21_PPARg_BLA_Agonist_ch2_Row1,0.021196977000000002,PPARg,PPARG
+1567,warfarin,LessDILIDrugs,4.8649,-0.12217981800000001,TOX21_PPARg_BLA_Agonist_ch2_Row1,5.459292596,PPARg,PPARG
+1568,alclofenac,MostDILI Drugs,600.0276,0.9101179309999999,TOX21_PPARg_BLA_Agonist_ch2_Row1,53.93172186,PPARg,PPARG
+1569,benzbromarone,MostDILI Drugs,4.3387,0.47262945700000003,TOX21_PPARg_BLA_Agonist_ch2_Row1,2.288102576,PPARg,PPARG
+1570,disulfiram,MostDILI Drugs,5.4,0.98150792,TOX21_PPARg_BLA_Agonist_ch2_Row1,0.09985723099999999,PPARg,PPARG
+1571,indomethacin,MostDILI Drugs,5.5899,0.584575758,TOX21_PPARg_BLA_Agonist_ch2_Row1,2.3221799709999997,PPARg,PPARG
+1573,zafirlukast,MostDILI Drugs,1.2107,0.9216580320000001,TOX21_PPARg_BLA_Agonist_ch2_Row1,0.094848621,PPARg,PPARG
+1574,digoxin,NoDILI Drugs,0.0028,-3.5439892860000004,TOX21_PPARg_BLA_Agonist_ch2_Row1,0.01272317,PPARg,PPARG
+1575,irbesartan,LessDILIDrugs,7.9806,-1.232497193,TOX21_PPARg_BLA_Agonist_ratio_Row2,17.8166671,PPARg,PPARG
+1576,rosiglitazone,LessDILIDrugs,1.0436,0.98969505,TOX21_PPARg_BLA_Agonist_ratio_Row2,0.010754246,PPARg,PPARG
+1577,spironolactone,LessDILIDrugs,0.12,0.9981416670000001,TOX21_PPARg_BLA_Agonist_ratio_Row2,0.000223,PPARg,PPARG
+1578,telmisartan,LessDILIDrugs,0.8511,0.3591276,TOX21_PPARg_BLA_Agonist_ratio_Row2,0.5454465000000001,PPARg,PPARG
+1579,warfarin,LessDILIDrugs,4.8649,-0.285899336,TOX21_PPARg_BLA_Agonist_ratio_Row2,6.2557716779999994,PPARg,PPARG
+1580,acitretin,MostDILI Drugs,1.2805,-1.336234949,TOX21_PPARg_BLA_Agonist_ratio_Row2,2.9915488519999998,PPARg,PPARG
+1581,alclofenac,MostDILI Drugs,600.0276,0.96274114,TOX21_PPARg_BLA_Agonist_ratio_Row2,22.35634422,PPARg,PPARG
+1582,benzbromarone,MostDILI Drugs,4.3387,0.37864258700000003,TOX21_PPARg_BLA_Agonist_ratio_Row2,2.6958834069999997,PPARg,PPARG
+1583,cinchophen,MostDILI Drugs,18.053,-0.852294868,TOX21_PPARg_BLA_Agonist_ratio_Row2,33.43947925,PPARg,PPARG
+1584,ibufenac,MostDILI Drugs,204.4149,0.381204086,TOX21_PPARg_BLA_Agonist_ratio_Row2,126.49110490000001,PPARg,PPARG
+1585,indomethacin,MostDILI Drugs,5.5899,0.534510218,TOX21_PPARg_BLA_Agonist_ratio_Row2,2.6020413319999998,PPARg,PPARG
+1586,lumiracoxib,MostDILI Drugs,31.4581,0.8961951429999999,TOX21_PPARg_BLA_Agonist_ratio_Row2,3.2655035669999997,PPARg,PPARG
+1588,zafirlukast,MostDILI Drugs,1.2107,0.8642218309999999,TOX21_PPARg_BLA_Agonist_ratio_Row2,0.164386629,PPARg,PPARG
+1589,zileuton,MostDILI Drugs,13.1192,-0.11569698099999999,TOX21_PPARg_BLA_Agonist_ratio_Row2,14.63705183,PPARg,PPARG
+1590,dipyridamole,AmbiDILIDrugs,3.7453,-1.953394927,TOX21_PPARg_BLA_Antagonist_ch1_Row285,11.06135002,PPARg,PPARG
+1591,glimepiride,LessDILIDrugs,1.1231,-2.367036394,TOX21_PPARg_BLA_antagonist_ratio_Row220,3.7815185739999997,PPARg,PPARG
+1592,bortezomib,MostDILI Drugs,0.2714,0.778604978,TOX21_PPARg_BLA_antagonist_ratio_Row220,0.060086609000000006,PPARg,PPARG
+1593,efavirenz,MostDILI Drugs,13.0,-1.507937769,TOX21_PPARg_BLA_antagonist_ratio_Row220,32.603190999999995,PPARg,PPARG
+1594,mefenamic acid,MostDILI Drugs,26.9388,0.198505388,TOX21_PPARg_BLA_antagonist_ratio_Row220,21.59130305,PPARg,PPARG
+1595,nimesulide,MostDILI Drugs,21.0825,-0.586683986,TOX21_PPARg_BLA_antagonist_ratio_Row220,33.45126514,PPARg,PPARG
+1596,pazopanib,MostDILI Drugs,62.8,0.034649963,TOX21_PPARg_BLA_antagonist_ratio_Row220,60.62398235,PPARg,PPARG
+1597,tolcapone,MostDILI Drugs,74.2928,0.8338459420000001,TOX21_PPARg_BLA_antagonist_ratio_Row220,12.34405019,PPARg,PPARG
+1598,ketoconazole,MostDILI Drugs,7.0,-3.93839893,TOX21_PPARg_BLA_antagonist_viability_Row287,34.56879251,PPARg,PPARG
+1599,levothyroxine,LessDILIDrugs,0.13,0.959527508,TOX21_TR_LUC_GH3_Agonist_Row273,0.005261424000000001,thyroid hormone receptor,THRA
+1600,acitretin,MostDILI Drugs,1.2805,-2.102512953,TOX21_TR_LUC_GH3_Agonist_Row273,3.972767836,thyroid hormone receptor,THRA
+1601,cladribine,AmbiDILIDrugs,0.0227,-1.4863422030000002,TOX21_TR_LUC_GH3_Antagonist_Row97,0.056439968,thyroid hormone receptor,THRA
+1602,ethacrynic acid,AmbiDILIDrugs,32.9881,0.319363408,TOX21_TR_LUC_GH3_Antagonist_Row97,22.45290796,thyroid hormone receptor,THRA
+1603,auranofin,LessDILIDrugs,1.0007,0.503041243,TOX21_TR_LUC_GH3_Antagonist_Row97,0.497306628,thyroid hormone receptor,THRA
+1604,cyproheptadine,LessDILIDrugs,104.3827,0.827908234,TOX21_TR_LUC_GH3_Antagonist_Row97,17.96340317,thyroid hormone receptor,THRA
+1605,docetaxel,LessDILIDrugs,0.9329999999999999,0.973250394,TOX21_TR_LUC_GH3_Antagonist_Row97,0.024957382,thyroid hormone receptor,THRA
+1606,etoposide,LessDILIDrugs,17.0,0.865246415,TOX21_TR_LUC_GH3_Antagonist_Row97,2.29081095,thyroid hormone receptor,THRA
+1607,mebendazole,LessDILIDrugs,0.126,-1.628980849,TOX21_TR_LUC_GH3_Antagonist_Row97,0.331251587,thyroid hormone receptor,THRA
+1608,oxcarbazepine,LessDILIDrugs,6.3424,-0.925984068,TOX21_TR_LUC_GH3_Antagonist_Row97,12.21536135,thyroid hormone receptor,THRA
+1609,paclitaxel,LessDILIDrugs,4.3,0.967229027,TOX21_TR_LUC_GH3_Antagonist_Row97,0.140915186,thyroid hormone receptor,THRA
+1610,pyrimethamine,LessDILIDrugs,3.2889,-0.813961917,TOX21_TR_LUC_GH3_Antagonist_Row97,5.965939349,thyroid hormone receptor,THRA
+1611,albendazole,MostDILI Drugs,0.9045,0.64175649,TOX21_TR_LUC_GH3_Antagonist_Row97,0.324031255,thyroid hormone receptor,THRA
+1612,benzbromarone,MostDILI Drugs,4.3387,-3.717666248,TOX21_TR_LUC_GH3_Antagonist_Row97,20.46853855,thyroid hormone receptor,THRA
+1613,bortezomib,MostDILI Drugs,0.2714,0.9614402470000001,TOX21_TR_LUC_GH3_Antagonist_Row97,0.010465117,thyroid hormone receptor,THRA
+1614,disulfiram,MostDILI Drugs,5.4,0.990310514,TOX21_TR_LUC_GH3_Antagonist_Row97,0.052323225999999994,thyroid hormone receptor,THRA
+1615,efavirenz,MostDILI Drugs,13.0,-0.884480638,TOX21_TR_LUC_GH3_Antagonist_Row97,24.4982483,thyroid hormone receptor,THRA
+1616,griseofulvin,MostDILI Drugs,4.5356,-2.836789018,TOX21_TR_LUC_GH3_Antagonist_Row97,17.40214027,thyroid hormone receptor,THRA
+1617,ketoconazole,MostDILI Drugs,7.0,-1.88984763,TOX21_TR_LUC_GH3_Antagonist_Row97,20.22893341,thyroid hormone receptor,THRA
+1618,leflunomide,MostDILI Drugs,24.7956,0.868511138,TOX21_TR_LUC_GH3_Antagonist_Row97,3.260345215,thyroid hormone receptor,THRA
+1619,mefenamic acid,MostDILI Drugs,26.9388,0.272908899,TOX21_TR_LUC_GH3_Antagonist_Row97,19.58696174,thyroid hormone receptor,THRA
+1620,methotrexate,MostDILI Drugs,0.7724,0.907819472,TOX21_TR_LUC_GH3_Antagonist_Row97,0.07120024,thyroid hormone receptor,THRA
+1621,pazopanib,MostDILI Drugs,62.8,0.903283617,TOX21_TR_LUC_GH3_Antagonist_Row97,6.073788845,thyroid hormone receptor,THRA
+1622,ticlopidine,MostDILI Drugs,8.0746,-2.856090435,TOX21_TR_LUC_GH3_Antagonist_Row97,31.13638783,thyroid hormone receptor,THRA
+1623,tipranavir,MostDILI Drugs,22.5,-0.720475275,TOX21_TR_LUC_GH3_Antagonist_Row97,38.71069368,thyroid hormone receptor,THRA
+1624,tolcapone,MostDILI Drugs,74.2928,0.217716372,TOX21_TR_LUC_GH3_Antagonist_Row97,58.11804112,thyroid hormone receptor,THRA
+1626,daunorubicin,NoDILI Drugs,0.3791,-0.5210215189999999,TOX21_TR_LUC_GH3_Antagonist_Row97,0.576619258,thyroid hormone receptor,THRA
+1627,etoposide,LessDILIDrugs,17.0,-1.811722095,TOX21_VDR_BLA_Agonist_viability_Row224,47.79927561,vitamin D receptor,VDR
+1628,disulfiram,MostDILI Drugs,5.4,0.981196443,TOX21_VDR_BLA_Agonist_viability_Row224,0.101539208,vitamin D receptor,VDR
+1629,ketoconazole,MostDILI Drugs,7.0,-2.1838573869999998,TOX21_VDR_BLA_Agonist_viability_Row224,22.28700171,vitamin D receptor,VDR
+1630,leflunomide,MostDILI Drugs,24.7956,-0.526175689,TOX21_VDR_BLA_Agonist_viability_Row224,37.84244191,vitamin D receptor,VDR
+1631,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.12557053699999998,TOX21_VDR_BLA_Antagonist_ch1_Row234,37.13043342,vitamin D receptor,VDR
+1632,ketoconazole,MostDILI Drugs,7.0,-2.779973584,TOX21_VDR_BLA_antagonist_ratio_Row225,26.45981509,vitamin D receptor,VDR
+1633,ethacrynic acid,AmbiDILIDrugs,32.9881,-0.014261565,TOX21_VDR_BLA_antagonist_ratio_Row225,33.45856192,vitamin D receptor,VDR
+1634,bortezomib,MostDILI Drugs,0.2714,-0.26454700800000003,TOX21_VDR_BLA_antagonist_ratio_Row225,0.343198058,vitamin D receptor,VDR
+1635,ketoconazole,MostDILI Drugs,7.0,-3.5697069189999997,TOX21_VDR_BLA_antagonist_viability_Row223,31.98794843,vitamin D receptor,VDR
