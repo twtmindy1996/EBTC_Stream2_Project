@@ -1,108 +1,108 @@
-,chnm,Classification,CmaxStand,NAS,testname,EC,testtarget,tgt_abbr
-65,troglitazone,MostDILI Drugs,6.3867,-0.261109466,ATG_AP_1_CIS_up_Row35,8.054327828,AP1 transcription factor,JUN
-82,troglitazone,MostDILI Drugs,6.3867,-0.357778463,ATG_CMV_CIS_up_Row39,8.671723711,background control,intmrkr
-87,troglitazone,MostDILI Drugs,6.3867,0.07445492299999999,ATG_DR4_LXR_CIS_dn_Row28,5.911178742000001,liver x receptor,NR1H3
-96,troglitazone,MostDILI Drugs,6.3867,-0.026146397999999998,ATG_E_Box_CIS_up_Row30,6.553689197000001,e-box protein,USF1
-98,troglitazone,MostDILI Drugs,6.3867,-0.027935704,ATG_E2F_CIS_dn_Row31,6.5651169629999995,E2F transcription factor,E2F1
-110,troglitazone,MostDILI Drugs,6.3867,0.151948014,ATG_ERa_TRANS_up_Row27,5.4162536160000005,estrogen receptor,ESR1
-128,troglitazone,MostDILI Drugs,6.3867,0.9645769890000001,ATG_ERE_CIS_up_Row9,0.22623614600000003,estrogen receptor,ESR1
-131,troglitazone,MostDILI Drugs,6.3867,-1.540258645,ATG_FXR_TRANS_up_Row83,16.22386989,farnesoid x receptor,NR1H4
-168,troglitazone,MostDILI Drugs,6.3867,-1.559695453,ATG_MRE_CIS_up_Row84,16.34800695,metal regulatory transcription factor,MTF1
-189,troglitazone,MostDILI Drugs,6.3867,-0.5137725439999999,ATG_NRF2_ARE_CIS_up_Row48,9.668011105,nrf2 transcription factor,NRF2
-215,troglitazone,MostDILI Drugs,6.3867,0.975776075,ATG_PPARg_TRANS_up_Row7,0.154710939,PPARg,PPARG
-225,troglitazone,MostDILI Drugs,6.3867,0.9869225009999999,ATG_PPRE_CIS_up_Row5,0.08352206599999999,PPAR,ppar
-237,troglitazone,MostDILI Drugs,6.3867,0.561565038,ATG_PXR_TRANS_up_Row18,2.8001525739999997,pregnane x receptor,NR1I2
-260,troglitazone,MostDILI Drugs,6.3867,0.7204590240000001,ATG_PXRE_CIS_up_Row16,1.785344354,pregnane x receptor,NR1I2
-265,troglitazone,MostDILI Drugs,6.3867,-0.41424685299999997,ATG_RORE_CIS_up_Row43,9.032370379,androgen receptor related orphan receptor A,RORA
-281,troglitazone,MostDILI Drugs,6.3867,0.6788377809999999,ATG_SREBP_CIS_up_Row17,2.051166744,SREBP,SREBF1
-291,troglitazone,MostDILI Drugs,6.3867,-1.562092461,ATG_TCF_b_cat_CIS_dn_Row85,16.36331592,HMG box protein ,hmgbox
-300,troglitazone,MostDILI Drugs,6.3867,-0.29735221,ATG_VDRE_CIS_up_Row37,8.285799358,vitamin D receptor,VDR
-316,troglitazone,MostDILI Drugs,6.3867,-2.528594197,BSK_3C_HLADR_down_Row104,22.53607256,HLA-DR,HLA-DR
-320,troglitazone,MostDILI Drugs,6.3867,-1.0707520190000002,BSK_3C_IL8_down_Row66,13.22527192,IL8,IL8
-324,troglitazone,MostDILI Drugs,6.3867,-2.7040145360000003,BSK_3C_MCP1_down_Row106,23.65642964,chemotactic factor,CCL2
-326,troglitazone,MostDILI Drugs,6.3867,-1.887488819,BSK_3C_MIG_down_Row90,18.44152484,chemokine ligand 9,CXCL9
-334,troglitazone,MostDILI Drugs,6.3867,-2.346648499,BSK_3C_Proliferation_down_Row100,21.37403997,proliferation,prlfrn
-341,troglitazone,MostDILI Drugs,6.3867,-1.512783152,BSK_3C_SRB_down_Row82,16.04839216,cytotoxicity,srb
-351,troglitazone,MostDILI Drugs,6.3867,-2.003630319,BSK_3C_uPAR_down_Row91,19.18328576,urokinase receptor,PLAUR
-353,troglitazone,MostDILI Drugs,6.3867,-3.4029580189999997,BSK_3C_VCAM1_down_Row128,28.12037198,VCAM1,VCAM1
-356,troglitazone,MostDILI Drugs,6.3867,-0.8640197409999999,BSK_3C_Vis_down_Row62,11.90493488,colchicine visual,cytotoxicity
-359,troglitazone,MostDILI Drugs,6.3867,-1.345595815,BSK_4H_Eotaxin3_down_Row76,14.98061679,eotaxin3,CCL26
-364,troglitazone,MostDILI Drugs,6.3867,-0.286950319,BSK_4H_MCP1_down_Row36,8.219365602,chemotactic factor,CCL2
-367,troglitazone,MostDILI Drugs,6.3867,-0.6718434809999999,BSK_4H_Pselectin_down_Row49,10.67756276,P-selectin,SELP
-372,troglitazone,MostDILI Drugs,6.3867,-3.655048786,BSK_4H_SRB_down_Row131,29.73040008,cytotoxicity,srb
-379,troglitazone,MostDILI Drugs,6.3867,-2.397096405,BSK_4H_uPAR_down_Row101,21.69623561,urokinase receptor,PLAUR
-382,troglitazone,MostDILI Drugs,6.3867,-3.329504221,BSK_4H_VCAM1_down_Row125,27.65124461,VCAM1,VCAM1
-389,troglitazone,MostDILI Drugs,6.3867,-0.8428375359999999,BSK_BE3C_HLADR_down_Row59,11.76965049,HLA-DR,HLA-DR
-391,troglitazone,MostDILI Drugs,6.3867,-1.102734323,BSK_BE3C_IL1a_down_Row69,13.429533300000001,IL1a,IL1a
-395,troglitazone,MostDILI Drugs,6.3867,-0.70998621,BSK_BE3C_IP10_down_Row55,10.92116893,chemotactic factor,CXCL10
-397,troglitazone,MostDILI Drugs,6.3867,-1.366741281,BSK_BE3C_MIG_down_Row78,15.11566654,chemokine ligand 9,CXCL9
-404,troglitazone,MostDILI Drugs,6.3867,-0.7712947029999999,BSK_BE3C_PAI1_down_Row56,11.31272788,PAI1,SERPINE1
-407,troglitazone,MostDILI Drugs,6.3867,-2.480966018,BSK_BE3C_SRB_down_Row102,22.23188567,cytotoxicity,srb
-409,troglitazone,MostDILI Drugs,6.3867,-0.88626489,BSK_BE3C_TGFb1_down_Row63,12.04700797,transforming growth factor beta,TGFB1
-411,troglitazone,MostDILI Drugs,6.3867,-0.36682940299999994,BSK_BE3C_tPA_down_Row40,8.72952935,tissue plasminogen activator,PLAT
-414,troglitazone,MostDILI Drugs,6.3867,-0.8589461290000001,BSK_BE3C_uPA_down_Row60,11.87253124,urokinase,PLAU
-417,troglitazone,MostDILI Drugs,6.3867,-1.184276291,BSK_BE3C_uPAR_down_Row71,13.95031739,urokinase receptor,PLAUR
-442,troglitazone,MostDILI Drugs,6.3867,0.153228575,BSK_CASM3C_Proliferation_down_Row26,5.408075062999999,proliferation,prlfrn
-457,troglitazone,MostDILI Drugs,6.3867,0.28288876,BSK_CASM3C_Thrombomodulin_up_Row23,4.579974356,Thrombomodulin,THBD
-469,troglitazone,MostDILI Drugs,6.3867,-0.791828049,BSK_hDFCGF_CollagenIII_down_Row58,11.443868199999999,CollagenIII,COL3A1
-473,troglitazone,MostDILI Drugs,6.3867,0.029190254,BSK_hDFCGF_EGFR_down_Row29,6.200270603,epidermal growth factor,EGF
-477,troglitazone,MostDILI Drugs,6.3867,-2.488033744,BSK_hDFCGF_IL8_down_Row103,22.27702511,IL8,IL8
-482,troglitazone,MostDILI Drugs,6.3867,-0.16964614600000003,BSK_hDFCGF_IP10_down_Row33,7.470179043,chemotactic factor,CXCL10
-486,troglitazone,MostDILI Drugs,6.3867,-0.379503806,BSK_hDFCGF_MCSF_down_Row42,8.810476957,colony stimulating factor,CSF1
-490,troglitazone,MostDILI Drugs,6.3867,-0.85965813,BSK_hDFCGF_MIG_down_Row61,11.87707858,chemokine ligand 9,CXCL9
-491,troglitazone,MostDILI Drugs,6.3867,-2.197588113,BSK_hDFCGF_MMP1_down_Row96,20.422036,matrix metalloproteinase 1,MMP1
-497,troglitazone,MostDILI Drugs,6.3867,-0.059195534,BSK_hDFCGF_PAI1_down_Row32,6.764764119,PAI1,SERPINE1
-509,troglitazone,MostDILI Drugs,6.3867,0.17296015399999998,BSK_hDFCGF_Proliferation_down_Row25,5.282055383,proliferation,prlfrn
-513,troglitazone,MostDILI Drugs,6.3867,-1.2647707959999999,BSK_hDFCGF_SRB_down_Row73,14.46441164,cytotoxicity,srb
-516,troglitazone,MostDILI Drugs,6.3867,-0.678419447,BSK_hDFCGF_TIMP1_down_Row51,10.71956148,TIMP1 metalloproteinase inhibitor,TIMP1
-520,troglitazone,MostDILI Drugs,6.3867,-0.375203432,BSK_hDFCGF_VCAM1_down_Row41,8.783011756,VCAM1,VCAM1
-522,troglitazone,MostDILI Drugs,6.3867,-0.692241763,BSK_KF3CT_ICAM1_down_Row53,10.80784047,ICAM1,ICAM1
-526,troglitazone,MostDILI Drugs,6.3867,-1.099472783,BSK_KF3CT_IL1a_down_Row68,13.40870282,IL1a,IL1a
-529,troglitazone,MostDILI Drugs,6.3867,-0.311399147,BSK_KF3CT_IP10_down_Row38,8.375512935,chemotactic factor,CXCL10
-534,troglitazone,MostDILI Drugs,6.3867,-0.684855003,BSK_KF3CT_MCP1_down_Row52,10.76066345,chemotactic factor,CCL2
-536,troglitazone,MostDILI Drugs,6.3867,-0.6733804940000001,BSK_KF3CT_SRB_down_Row50,10.687379199999999,cytotoxicity,srb
-539,troglitazone,MostDILI Drugs,6.3867,-1.728572811,BSK_KF3CT_TGFb1_down_Row87,17.42657597,transforming growth factor beta,TGFB1
-541,troglitazone,MostDILI Drugs,6.3867,-1.138150132,BSK_KF3CT_TIMP2_down_Row70,13.65572345,TIMP2 metalloproteinase inhibitor,TIMP2
-544,troglitazone,MostDILI Drugs,6.3867,-0.440433006,BSK_KF3CT_uPA_down_Row45,9.199613482,urokinase,PLAU
-550,troglitazone,MostDILI Drugs,6.3867,-0.9382225359999999,BSK_LPS_CD40_down_Row64,12.37884587,CD40,CD40
-551,troglitazone,MostDILI Drugs,6.3867,-1.4798655580000002,BSK_LPS_Eselectin_down_Row81,15.83815736,E-selectin,SELE
-560,troglitazone,MostDILI Drugs,6.3867,-2.638719826,BSK_LPS_MCP1_down_Row105,23.23941191,chemotactic factor,CCL2
-571,troglitazone,MostDILI Drugs,6.3867,-3.169801011,BSK_LPS_SRB_down_Row123,26.63126812,cytotoxicity,srb
-583,troglitazone,MostDILI Drugs,6.3867,-1.20481735,BSK_LPS_VCAM1_down_Row72,14.08150697,VCAM1,VCAM1
-588,troglitazone,MostDILI Drugs,6.3867,-1.57297096,BSK_SAg_CD38_down_Row86,16.43279363,CD38,CD38
-593,troglitazone,MostDILI Drugs,6.3867,-0.7817073309999999,BSK_SAg_CD40_down_Row57,11.37923021,CD40,CD40
-598,troglitazone,MostDILI Drugs,6.3867,-3.050369377,BSK_SAg_CD69_down_Row120,25.868494100000003,CD69,CD69
-610,troglitazone,MostDILI Drugs,6.3867,-2.930355797,BSK_SAg_MCP1_down_Row114,25.10200337,chemotactic factor,CCL2
-611,troglitazone,MostDILI Drugs,6.3867,-1.3351269590000001,BSK_SAg_MIG_down_Row75,14.91375535,chemokine ligand 9,CXCL9
-613,troglitazone,MostDILI Drugs,6.3867,-2.975518684,BSK_SAg_PBMCCytotoxicity_down_Row116,25.39044518,cytotoxicity,cytotoxicity
-621,troglitazone,MostDILI Drugs,6.3867,-0.7009037090000001,BSK_SAg_Proliferation_down_Row54,10.86316172,proliferation,prlfrn
-627,troglitazone,MostDILI Drugs,6.3867,-2.9335162169999998,BSK_SAg_SRB_down_Row115,25.12218802,cytotoxicity,srb
-657,troglitazone,MostDILI Drugs,6.3867,-0.447072986,matrix metalloproteinase 9_down_Row46,9.242021041000001,matrix metalloproteinase 9,MMP9
-662,troglitazone,MostDILI Drugs,6.3867,-1.793219822,NCCT_HEK293T_CellTiterGLO_Row88,17.83945704,proliferation,prlfrn
-672,troglitazone,MostDILI Drugs,6.3867,0.7675995990000001,NCCT_TPO_AUR_dn_Row14,1.484271643,oxidoreductase,oxidoreductase
-683,troglitazone,MostDILI Drugs,6.3867,0.78713642,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13,1.359495827,ZF_TERATOSCORE,zf_teratoscore
-720,troglitazone,MostDILI Drugs,6.3867,-0.43103937700000006,NVS_ENZ_hMMP1_Row44,9.139619192,matrix metalloproteinase 1,MMP1
-722,troglitazone,MostDILI Drugs,6.3867,0.999805974,NVS_ENZ_hMMP3_Activator_Row0,0.001239185,matrix metalloproteinase 3,MMP3
-760,troglitazone,MostDILI Drugs,6.3867,-1.056361885,NVS_ENZ_rMAOBC_Row65,13.13336645,monoamine oxidase,MAOA
-868,troglitazone,MostDILI Drugs,6.3867,-2.156335145,NVS_NR_hPPARg_Row95,20.15856567,PPARg,PPARG
-930,troglitazone,MostDILI Drugs,6.3867,-3.292624061,OT_AR_ARSRC1_0960_Row124,27.41570209,steroidal,AR
-949,troglitazone,MostDILI Drugs,6.3867,-2.126078328,OT_FXR_FXRSRC1_0480_Row94,19.96532446,non-steroidal,NR1H4
-953,troglitazone,MostDILI Drugs,6.3867,0.39277752299999996,OT_PPARg_PPARgSRC1_0480_Row21,3.878147797,PPARg,PPARG
-954,troglitazone,MostDILI Drugs,6.3867,0.316064107,OT_PPARg_PPARgSRC1_1440_Row22,4.3680933689999994,PPARg,PPARG
-1102,troglitazone,MostDILI Drugs,6.3867,0.187346134,TOX21_ARE_BLA_Agonist_ch2_Row24,5.190176443,nrf2 transcription factor,NRF2
-1129,troglitazone,MostDILI Drugs,6.3867,-0.247125873,TOX21_ARE_BLA_agonist_ratio_Row34,7.9650188129999995,nrf2 transcription factor,NRF2
-1150,troglitazone,MostDILI Drugs,6.3867,-3.044574975,TOX21_Aromatase_Inhibition_Row119,25.83148699,aromatase,CYP19A1
-1223,troglitazone,MostDILI Drugs,6.3867,-3.799206766,TOX21_FXR_BLA_agonist_ch2_Row135,30.65109385,farnesoid x receptor,NR1H4
-1302,troglitazone,MostDILI Drugs,6.3867,-1.0958569759999999,TOX21_MMP_ratio_down_Row67,13.38560975,mitochondrial membrane potential,mmp
-1356,troglitazone,MostDILI Drugs,6.3867,-2.313079606,TOX21_p53_BLA_p2_ch1_Row98,21.15964552,p53,TP53
-1374,troglitazone,MostDILI Drugs,6.3867,-1.352867569,TOX21_p53_BLA_p2_ch2_Row77,15.0270593,p53,TP53
-1395,troglitazone,MostDILI Drugs,6.3867,-1.4097903390000002,TOX21_p53_BLA_p2_ratio_Row80,15.39060796,p53,TP53
-1419,troglitazone,MostDILI Drugs,6.3867,-3.0743280960000003,TOX21_p53_BLA_p3_ch1_Row121,26.02151125,p53,TP53
-1433,troglitazone,MostDILI Drugs,6.3867,-2.053030546,TOX21_p53_BLA_p3_ch2_Row92,19.49879019,p53,TP53
-1447,troglitazone,MostDILI Drugs,6.3867,-3.003128968,TOX21_p53_BLA_p3_ratio_Row118,25.56678378,p53,TP53
-1459,troglitazone,MostDILI Drugs,6.3867,-2.854857753,TOX21_p53_BLA_p4_ch1_Row112,24.61982001,p53,TP53
-1489,troglitazone,MostDILI Drugs,6.3867,-3.388523078,TOX21_p53_BLA_p4_ratio_Row126,28.02818034,p53,TP53
-1537,troglitazone,MostDILI Drugs,6.3867,-2.979549617,TOX21_p53_BLA_p5_ratio_Row117,25.41618954,p53,TP53
-1572,troglitazone,MostDILI Drugs,6.3867,0.9967071470000001,TOX21_PPARg_BLA_Agonist_ch2_Row1,0.021030467,PPARg,PPARG
-1587,troglitazone,MostDILI Drugs,6.3867,0.996084615,TOX21_PPARg_BLA_Agonist_ratio_Row2,0.02500639,PPARg,PPARG
-1625,troglitazone,MostDILI Drugs,6.3867,-2.281566524,TOX21_TR_LUC_GH3_Antagonist_Row97,20.95838092,thyroid hormone receptor,THRA
+,chnm,Classification,Cmax,AC50,NAS,test_target,test_target_name,assay_component_endpoint_name
+65,troglitazone,MostDILI Drugs,6.3867,8.054327828,-0.261109466,JUN,AP1 transcription factor,ATG_AP_1_CIS_up_Row35
+82,troglitazone,MostDILI Drugs,6.3867,8.671723711,-0.357778463,intmrkr,background control,ATG_CMV_CIS_up_Row39
+87,troglitazone,MostDILI Drugs,6.3867,5.911178742000001,0.07445492299999999,NR1H3,liver x receptor,ATG_DR4_LXR_CIS_dn_Row28
+96,troglitazone,MostDILI Drugs,6.3867,6.553689197000001,-0.026146397999999998,USF1,e-box protein,ATG_E_Box_CIS_up_Row30
+98,troglitazone,MostDILI Drugs,6.3867,6.5651169629999995,-0.027935704,E2F1,E2F transcription factor,ATG_E2F_CIS_dn_Row31
+110,troglitazone,MostDILI Drugs,6.3867,5.4162536160000005,0.151948014,ESR1,estrogen receptor,ATG_ERa_TRANS_up_Row27
+128,troglitazone,MostDILI Drugs,6.3867,0.22623614600000003,0.9645769890000001,ESR1,estrogen receptor,ATG_ERE_CIS_up_Row9
+131,troglitazone,MostDILI Drugs,6.3867,16.22386989,-1.540258645,NR1H4,farnesoid x receptor,ATG_FXR_TRANS_up_Row83
+168,troglitazone,MostDILI Drugs,6.3867,16.34800695,-1.559695453,MTF1,metal regulatory transcription factor,ATG_MRE_CIS_up_Row84
+189,troglitazone,MostDILI Drugs,6.3867,9.668011105,-0.5137725439999999,NRF2,nrf2 transcription factor,ATG_NRF2_ARE_CIS_up_Row48
+215,troglitazone,MostDILI Drugs,6.3867,0.154710939,0.975776075,PPARG,PPARg,ATG_PPARg_TRANS_up_Row7
+225,troglitazone,MostDILI Drugs,6.3867,0.08352206599999999,0.9869225009999999,ppar,PPAR,ATG_PPRE_CIS_up_Row5
+237,troglitazone,MostDILI Drugs,6.3867,2.8001525739999997,0.561565038,NR1I2,pregnane x receptor,ATG_PXR_TRANS_up_Row18
+260,troglitazone,MostDILI Drugs,6.3867,1.785344354,0.7204590240000001,NR1I2,pregnane x receptor,ATG_PXRE_CIS_up_Row16
+265,troglitazone,MostDILI Drugs,6.3867,9.032370379,-0.41424685299999997,RORA,androgen receptor related orphan receptor A,ATG_RORE_CIS_up_Row43
+281,troglitazone,MostDILI Drugs,6.3867,2.051166744,0.6788377809999999,SREBF1,SREBP,ATG_SREBP_CIS_up_Row17
+291,troglitazone,MostDILI Drugs,6.3867,16.36331592,-1.562092461,hmgbox,HMG box protein ,ATG_TCF_b_cat_CIS_dn_Row85
+300,troglitazone,MostDILI Drugs,6.3867,8.285799358,-0.29735221,VDR,vitamin D receptor,ATG_VDRE_CIS_up_Row37
+316,troglitazone,MostDILI Drugs,6.3867,22.53607256,-2.528594197,HLA-DR,HLA-DR,BSK_3C_HLADR_down_Row104
+320,troglitazone,MostDILI Drugs,6.3867,13.22527192,-1.0707520190000002,IL8,IL8,BSK_3C_IL8_down_Row66
+324,troglitazone,MostDILI Drugs,6.3867,23.65642964,-2.7040145360000003,CCL2,chemotactic factor,BSK_3C_MCP1_down_Row106
+326,troglitazone,MostDILI Drugs,6.3867,18.44152484,-1.887488819,CXCL9,chemokine ligand 9,BSK_3C_MIG_down_Row90
+334,troglitazone,MostDILI Drugs,6.3867,21.37403997,-2.346648499,prlfrn,proliferation,BSK_3C_Proliferation_down_Row100
+341,troglitazone,MostDILI Drugs,6.3867,16.04839216,-1.512783152,srb,cytotoxicity,BSK_3C_SRB_down_Row82
+351,troglitazone,MostDILI Drugs,6.3867,19.18328576,-2.003630319,PLAUR,urokinase receptor,BSK_3C_uPAR_down_Row91
+353,troglitazone,MostDILI Drugs,6.3867,28.12037198,-3.4029580189999997,VCAM1,VCAM1,BSK_3C_VCAM1_down_Row128
+356,troglitazone,MostDILI Drugs,6.3867,11.90493488,-0.8640197409999999,cytotoxicity,colchicine visual,BSK_3C_Vis_down_Row62
+359,troglitazone,MostDILI Drugs,6.3867,14.98061679,-1.345595815,CCL26,eotaxin3,BSK_4H_Eotaxin3_down_Row76
+364,troglitazone,MostDILI Drugs,6.3867,8.219365602,-0.286950319,CCL2,chemotactic factor,BSK_4H_MCP1_down_Row36
+367,troglitazone,MostDILI Drugs,6.3867,10.67756276,-0.6718434809999999,SELP,P-selectin,BSK_4H_Pselectin_down_Row49
+372,troglitazone,MostDILI Drugs,6.3867,29.73040008,-3.655048786,srb,cytotoxicity,BSK_4H_SRB_down_Row131
+379,troglitazone,MostDILI Drugs,6.3867,21.69623561,-2.397096405,PLAUR,urokinase receptor,BSK_4H_uPAR_down_Row101
+382,troglitazone,MostDILI Drugs,6.3867,27.65124461,-3.329504221,VCAM1,VCAM1,BSK_4H_VCAM1_down_Row125
+389,troglitazone,MostDILI Drugs,6.3867,11.76965049,-0.8428375359999999,HLA-DR,HLA-DR,BSK_BE3C_HLADR_down_Row59
+391,troglitazone,MostDILI Drugs,6.3867,13.429533300000001,-1.102734323,IL1a,IL1a,BSK_BE3C_IL1a_down_Row69
+395,troglitazone,MostDILI Drugs,6.3867,10.92116893,-0.70998621,CXCL10,chemotactic factor,BSK_BE3C_IP10_down_Row55
+397,troglitazone,MostDILI Drugs,6.3867,15.11566654,-1.366741281,CXCL9,chemokine ligand 9,BSK_BE3C_MIG_down_Row78
+404,troglitazone,MostDILI Drugs,6.3867,11.31272788,-0.7712947029999999,SERPINE1,PAI1,BSK_BE3C_PAI1_down_Row56
+407,troglitazone,MostDILI Drugs,6.3867,22.23188567,-2.480966018,srb,cytotoxicity,BSK_BE3C_SRB_down_Row102
+409,troglitazone,MostDILI Drugs,6.3867,12.04700797,-0.88626489,TGFB1,transforming growth factor beta,BSK_BE3C_TGFb1_down_Row63
+411,troglitazone,MostDILI Drugs,6.3867,8.72952935,-0.36682940299999994,PLAT,tissue plasminogen activator,BSK_BE3C_tPA_down_Row40
+414,troglitazone,MostDILI Drugs,6.3867,11.87253124,-0.8589461290000001,PLAU,urokinase,BSK_BE3C_uPA_down_Row60
+417,troglitazone,MostDILI Drugs,6.3867,13.95031739,-1.184276291,PLAUR,urokinase receptor,BSK_BE3C_uPAR_down_Row71
+442,troglitazone,MostDILI Drugs,6.3867,5.408075062999999,0.153228575,prlfrn,proliferation,BSK_CASM3C_Proliferation_down_Row26
+457,troglitazone,MostDILI Drugs,6.3867,4.579974356,0.28288876,THBD,Thrombomodulin,BSK_CASM3C_Thrombomodulin_up_Row23
+469,troglitazone,MostDILI Drugs,6.3867,11.443868199999999,-0.791828049,COL3A1,CollagenIII,BSK_hDFCGF_CollagenIII_down_Row58
+473,troglitazone,MostDILI Drugs,6.3867,6.200270603,0.029190254,EGF,epidermal growth factor,BSK_hDFCGF_EGFR_down_Row29
+477,troglitazone,MostDILI Drugs,6.3867,22.27702511,-2.488033744,IL8,IL8,BSK_hDFCGF_IL8_down_Row103
+482,troglitazone,MostDILI Drugs,6.3867,7.470179043,-0.16964614600000003,CXCL10,chemotactic factor,BSK_hDFCGF_IP10_down_Row33
+486,troglitazone,MostDILI Drugs,6.3867,8.810476957,-0.379503806,CSF1,colony stimulating factor,BSK_hDFCGF_MCSF_down_Row42
+490,troglitazone,MostDILI Drugs,6.3867,11.87707858,-0.85965813,CXCL9,chemokine ligand 9,BSK_hDFCGF_MIG_down_Row61
+491,troglitazone,MostDILI Drugs,6.3867,20.422036,-2.197588113,MMP1,matrix metalloproteinase 1,BSK_hDFCGF_MMP1_down_Row96
+497,troglitazone,MostDILI Drugs,6.3867,6.764764119,-0.059195534,SERPINE1,PAI1,BSK_hDFCGF_PAI1_down_Row32
+509,troglitazone,MostDILI Drugs,6.3867,5.282055383,0.17296015399999998,prlfrn,proliferation,BSK_hDFCGF_Proliferation_down_Row25
+513,troglitazone,MostDILI Drugs,6.3867,14.46441164,-1.2647707959999999,srb,cytotoxicity,BSK_hDFCGF_SRB_down_Row73
+516,troglitazone,MostDILI Drugs,6.3867,10.71956148,-0.678419447,TIMP1,TIMP1 metalloproteinase inhibitor,BSK_hDFCGF_TIMP1_down_Row51
+520,troglitazone,MostDILI Drugs,6.3867,8.783011756,-0.375203432,VCAM1,VCAM1,BSK_hDFCGF_VCAM1_down_Row41
+522,troglitazone,MostDILI Drugs,6.3867,10.80784047,-0.692241763,ICAM1,ICAM1,BSK_KF3CT_ICAM1_down_Row53
+526,troglitazone,MostDILI Drugs,6.3867,13.40870282,-1.099472783,IL1a,IL1a,BSK_KF3CT_IL1a_down_Row68
+529,troglitazone,MostDILI Drugs,6.3867,8.375512935,-0.311399147,CXCL10,chemotactic factor,BSK_KF3CT_IP10_down_Row38
+534,troglitazone,MostDILI Drugs,6.3867,10.76066345,-0.684855003,CCL2,chemotactic factor,BSK_KF3CT_MCP1_down_Row52
+536,troglitazone,MostDILI Drugs,6.3867,10.687379199999999,-0.6733804940000001,srb,cytotoxicity,BSK_KF3CT_SRB_down_Row50
+539,troglitazone,MostDILI Drugs,6.3867,17.42657597,-1.728572811,TGFB1,transforming growth factor beta,BSK_KF3CT_TGFb1_down_Row87
+541,troglitazone,MostDILI Drugs,6.3867,13.65572345,-1.138150132,TIMP2,TIMP2 metalloproteinase inhibitor,BSK_KF3CT_TIMP2_down_Row70
+544,troglitazone,MostDILI Drugs,6.3867,9.199613482,-0.440433006,PLAU,urokinase,BSK_KF3CT_uPA_down_Row45
+550,troglitazone,MostDILI Drugs,6.3867,12.37884587,-0.9382225359999999,CD40,CD40,BSK_LPS_CD40_down_Row64
+551,troglitazone,MostDILI Drugs,6.3867,15.83815736,-1.4798655580000002,SELE,E-selectin,BSK_LPS_Eselectin_down_Row81
+560,troglitazone,MostDILI Drugs,6.3867,23.23941191,-2.638719826,CCL2,chemotactic factor,BSK_LPS_MCP1_down_Row105
+571,troglitazone,MostDILI Drugs,6.3867,26.63126812,-3.169801011,srb,cytotoxicity,BSK_LPS_SRB_down_Row123
+583,troglitazone,MostDILI Drugs,6.3867,14.08150697,-1.20481735,VCAM1,VCAM1,BSK_LPS_VCAM1_down_Row72
+588,troglitazone,MostDILI Drugs,6.3867,16.43279363,-1.57297096,CD38,CD38,BSK_SAg_CD38_down_Row86
+593,troglitazone,MostDILI Drugs,6.3867,11.37923021,-0.7817073309999999,CD40,CD40,BSK_SAg_CD40_down_Row57
+598,troglitazone,MostDILI Drugs,6.3867,25.868494100000003,-3.050369377,CD69,CD69,BSK_SAg_CD69_down_Row120
+610,troglitazone,MostDILI Drugs,6.3867,25.10200337,-2.930355797,CCL2,chemotactic factor,BSK_SAg_MCP1_down_Row114
+611,troglitazone,MostDILI Drugs,6.3867,14.91375535,-1.3351269590000001,CXCL9,chemokine ligand 9,BSK_SAg_MIG_down_Row75
+613,troglitazone,MostDILI Drugs,6.3867,25.39044518,-2.975518684,cytotoxicity,cytotoxicity,BSK_SAg_PBMCCytotoxicity_down_Row116
+621,troglitazone,MostDILI Drugs,6.3867,10.86316172,-0.7009037090000001,prlfrn,proliferation,BSK_SAg_Proliferation_down_Row54
+627,troglitazone,MostDILI Drugs,6.3867,25.12218802,-2.9335162169999998,srb,cytotoxicity,BSK_SAg_SRB_down_Row115
+657,troglitazone,MostDILI Drugs,6.3867,9.242021041000001,-0.447072986,MMP9,matrix metalloproteinase 9,matrix metalloproteinase 9_down_Row46
+662,troglitazone,MostDILI Drugs,6.3867,17.83945704,-1.793219822,prlfrn,proliferation,NCCT_HEK293T_CellTiterGLO_Row88
+672,troglitazone,MostDILI Drugs,6.3867,1.484271643,0.7675995990000001,oxidoreductase,oxidoreductase,NCCT_TPO_AUR_dn_Row14
+683,troglitazone,MostDILI Drugs,6.3867,1.359495827,0.78713642,zf_teratoscore,ZF_TERATOSCORE,NHEERL_ZF_144hpf_TERATOSCORE_up_Row13
+720,troglitazone,MostDILI Drugs,6.3867,9.139619192,-0.43103937700000006,MMP1,matrix metalloproteinase 1,NVS_ENZ_hMMP1_Row44
+722,troglitazone,MostDILI Drugs,6.3867,0.001239185,0.999805974,MMP3,matrix metalloproteinase 3,NVS_ENZ_hMMP3_Activator_Row0
+760,troglitazone,MostDILI Drugs,6.3867,13.13336645,-1.056361885,MAOA,monoamine oxidase,NVS_ENZ_rMAOBC_Row65
+868,troglitazone,MostDILI Drugs,6.3867,20.15856567,-2.156335145,PPARG,PPARg,NVS_NR_hPPARg_Row95
+930,troglitazone,MostDILI Drugs,6.3867,27.41570209,-3.292624061,AR,steroidal,OT_AR_ARSRC1_0960_Row124
+949,troglitazone,MostDILI Drugs,6.3867,19.96532446,-2.126078328,NR1H4,non-steroidal,OT_FXR_FXRSRC1_0480_Row94
+953,troglitazone,MostDILI Drugs,6.3867,3.878147797,0.39277752299999996,PPARG,PPARg,OT_PPARg_PPARgSRC1_0480_Row21
+954,troglitazone,MostDILI Drugs,6.3867,4.3680933689999994,0.316064107,PPARG,PPARg,OT_PPARg_PPARgSRC1_1440_Row22
+1102,troglitazone,MostDILI Drugs,6.3867,5.190176443,0.187346134,NRF2,nrf2 transcription factor,TOX21_ARE_BLA_Agonist_ch2_Row24
+1129,troglitazone,MostDILI Drugs,6.3867,7.9650188129999995,-0.247125873,NRF2,nrf2 transcription factor,TOX21_ARE_BLA_agonist_ratio_Row34
+1150,troglitazone,MostDILI Drugs,6.3867,25.83148699,-3.044574975,CYP19A1,aromatase,TOX21_Aromatase_Inhibition_Row119
+1223,troglitazone,MostDILI Drugs,6.3867,30.65109385,-3.799206766,NR1H4,farnesoid x receptor,TOX21_FXR_BLA_agonist_ch2_Row135
+1302,troglitazone,MostDILI Drugs,6.3867,13.38560975,-1.0958569759999999,mmp,mitochondrial membrane potential,TOX21_MMP_ratio_down_Row67
+1356,troglitazone,MostDILI Drugs,6.3867,21.15964552,-2.313079606,TP53,p53,TOX21_p53_BLA_p2_ch1_Row98
+1374,troglitazone,MostDILI Drugs,6.3867,15.0270593,-1.352867569,TP53,p53,TOX21_p53_BLA_p2_ch2_Row77
+1395,troglitazone,MostDILI Drugs,6.3867,15.39060796,-1.4097903390000002,TP53,p53,TOX21_p53_BLA_p2_ratio_Row80
+1419,troglitazone,MostDILI Drugs,6.3867,26.02151125,-3.0743280960000003,TP53,p53,TOX21_p53_BLA_p3_ch1_Row121
+1433,troglitazone,MostDILI Drugs,6.3867,19.49879019,-2.053030546,TP53,p53,TOX21_p53_BLA_p3_ch2_Row92
+1447,troglitazone,MostDILI Drugs,6.3867,25.56678378,-3.003128968,TP53,p53,TOX21_p53_BLA_p3_ratio_Row118
+1459,troglitazone,MostDILI Drugs,6.3867,24.61982001,-2.854857753,TP53,p53,TOX21_p53_BLA_p4_ch1_Row112
+1489,troglitazone,MostDILI Drugs,6.3867,28.02818034,-3.388523078,TP53,p53,TOX21_p53_BLA_p4_ratio_Row126
+1537,troglitazone,MostDILI Drugs,6.3867,25.41618954,-2.979549617,TP53,p53,TOX21_p53_BLA_p5_ratio_Row117
+1572,troglitazone,MostDILI Drugs,6.3867,0.021030467,0.9967071470000001,PPARG,PPARg,TOX21_PPARg_BLA_Agonist_ch2_Row1
+1587,troglitazone,MostDILI Drugs,6.3867,0.02500639,0.996084615,PPARG,PPARg,TOX21_PPARg_BLA_Agonist_ratio_Row2
+1625,troglitazone,MostDILI Drugs,6.3867,20.95838092,-2.281566524,THRA,thyroid hormone receptor,TOX21_TR_LUC_GH3_Antagonist_Row97
